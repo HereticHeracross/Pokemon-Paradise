@@ -415,7 +415,6 @@ let Formats = [
 		column: 2,
 	},
 	{
-	{
 		name: "[Gen 1] RBY 890",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3572352/">RBY OU Viability Ranking</a>`,
@@ -426,6 +425,7 @@ let Formats = [
 		ruleset: ['Obtainable', 'Standard'],
 		banlist: ['Uber'],
 	},
+	{
 		name: "[Gen 8] Balanced Hackmons",
 		desc: `Anything that can be hacked in-game and is usable in local battles is allowed.`,
 		threads: [
