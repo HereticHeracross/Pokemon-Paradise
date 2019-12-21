@@ -426,7 +426,7 @@ let Formats = [
 		banlist: ['Uber'],
 	},
 	{
-		name: "[Gen 3] OU",
+		name: "[Gen 3] RSE 890",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3503019/">ADV OU Viability Ranking</a>`,
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
