@@ -2,7 +2,7 @@
 
 /**@type {{[k: string]: {learnset: {[k: string]: MoveSource[]}}}} */
 let BattleLearnsets = {
-	missingno: {learnset: {
+		missingno: {learnset: {
 		blizzard: ["3L1"],
 		bubblebeam: ["3L1"],
 		cut: ["3L1"],
@@ -28,7 +28,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		triattack: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	bulbasaur: {learnset: {
 		ancientpower: ["3L1"],
 		stringshot: ["3L1"],
@@ -99,7 +99,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	ivysaur: {learnset: {
 		stringshot: ["3L1"],
 		rocksmash: ["3L1"],
@@ -161,7 +161,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		vinewhip: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	venusaur: {learnset: {
 		stringshot: ["3L1"],
 		rocksmash: ["3L1"],
@@ -230,7 +230,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		vinewhip: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	charmander: {learnset: {
 		howl: ["3L1"],
 		quickattack: ["3L1"],
@@ -314,7 +314,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	charmeleon: {learnset: {
 		metalclaw: ["3L1"],
 		secretpower: ["3L1"],
@@ -389,7 +389,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	charizard: {learnset: {
 		metalclaw: ["3L1"],
 		aircutter: ["3L1"],
@@ -477,7 +477,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	squirtle: {learnset: {
 		zapcannon: ["3L1"],
 		block: ["3L1"],
@@ -560,7 +560,7 @@ let BattleLearnsets = {
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	wartortle: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -628,7 +628,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	blastoise: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -705,17 +705,17 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	caterpie: {learnset: {
 		snore: ["3L1"],
 		stringshot: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	metapod: {learnset: {
 		stringshot: ["3L1"],
 		harden: ["3L1"],
 		irondefense: ["3L1"],
-	},
+	}},
 	butterfree: {learnset: {
 		morningsun: ["3L1"],
 		twister: ["3L1"],
@@ -778,16 +778,16 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thief: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	weedle: {learnset: {
 		poisonsting: ["3L1"],
 		stringshot: ["3L1"],
-	},
+	}},
 	kakuna: {learnset: {
 		stringshot: ["3L1"],
 		harden: ["3L1"],
 		irondefense: ["3L1"],
-	},
+	}},
 	beedrill: {learnset: {
 		batonpass: ["3L1"],
 		silverwind: ["3L1"],
@@ -841,7 +841,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		twineedle: ["3L1"],
-	},
+	}},
 	pidgey: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -892,7 +892,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	pidgeotto: {learnset: {
 		refresh: ["3L1"],
 		aircutter: ["3L1"],
@@ -941,7 +941,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	pidgeot: {learnset: {
 		aircutter: ["3L1"],
 		secretpower: ["3L1"],
@@ -990,7 +990,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	rattata: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -1055,7 +1055,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	rattataalola: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -1102,7 +1102,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	raticate: {learnset: {
 		counter: ["3L1"],
 		refresh: ["3L1"],
@@ -1171,7 +1171,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	raticatealola: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -1218,7 +1218,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	raticatealolatotem: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -1265,7 +1265,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	spearow: {learnset: {
 		sonicboom: ["3L1"],
 		batonpass: ["3L1"],
@@ -1322,7 +1322,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	fearow: {learnset: {
 		payday: ["3L1"],
 		aircutter: ["3L1"],
@@ -1373,7 +1373,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	ekans: {learnset: {
 		secretpower: ["3L1"],
 		acid: ["3L1"],
@@ -1435,7 +1435,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	arbok: {learnset: {
 		refresh: ["3L1"],
 		secretpower: ["3L1"],
@@ -1492,7 +1492,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	pichu: {learnset: {
 		dizzypunch: ["3L1"],
 		petaldance: ["3L1"],
@@ -1561,7 +1561,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	pichuspikyeared: {learnset: {
 		attract: ["3L1"],
 		charm: ["3L1"],
@@ -1599,7 +1599,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		volttackle: ["3L1"],
-	},
+	}},
 	pikachu: {learnset: {
 		present: ["3L1"],
 		yawn: ["3L1"],
@@ -1682,7 +1682,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
 		volttackle: ["3L1"],
-	},
+	}},
 	pikachucosplay: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1723,7 +1723,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachurockstar: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1765,7 +1765,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachubelle: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1806,7 +1806,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachupopstar: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1847,7 +1847,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachuphd: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1888,7 +1888,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachulibre: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -1929,7 +1929,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachuoriginal: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -1981,7 +1981,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachuhoenn: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2033,7 +2033,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachusinnoh: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2085,7 +2085,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachuunova: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2137,7 +2137,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachukalos: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2189,7 +2189,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachualola: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2241,7 +2241,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachupartner: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2293,7 +2293,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pikachustarter: {learnset: {
 		agility: ["3L1"],
 		brickbreak: ["3L1"],
@@ -2322,13 +2322,13 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	pikachugmax: {learnset: {
 		doubleteam: ["3L1"],
 		growl: ["3L1"],
 		quickattack: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	raichu: {learnset: {
 		counter: ["3L1"],
 		rocksmash: ["3L1"],
@@ -2402,7 +2402,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	raichualola: {learnset: {
 		covet: ["3L1"],
 		focuspunch: ["3L1"],
@@ -2460,7 +2460,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	sandshrew: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -2528,7 +2528,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sandshrewalola: {learnset: {
 		aerialace: ["3L1"],
 		amnesia: ["3L1"],
@@ -2580,7 +2580,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sandslash: {learnset: {
 		counter: ["3L1"],
 		secretpower: ["3L1"],
@@ -2646,7 +2646,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sandslashalola: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -2686,7 +2686,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	nidoranf: {learnset: {
 		lovelykiss: ["3L1"],
 		moonlight: ["3L1"],
@@ -2756,7 +2756,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	nidorina: {learnset: {
 		counter: ["3L1"],
 		cut: ["3L1"],
@@ -2819,7 +2819,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	nidoqueen: {learnset: {
 		whirlpool: ["3L1"],
 		cut: ["3L1"],
@@ -2906,7 +2906,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	nidoranm: {learnset: {
 		lovelykiss: ["3L1"],
 		morningsun: ["3L1"],
@@ -2973,7 +2973,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	nidorino: {learnset: {
 		counter: ["3L1"],
 		cut: ["3L1"],
@@ -3033,7 +3033,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	nidoking: {learnset: {
 		whirlpool: ["3L1"],
 		cut: ["3L1"],
@@ -3122,7 +3122,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	cleffa: {learnset: {
 		dizzypunch: ["3L1"],
 		petaldance: ["3L1"],
@@ -3203,7 +3203,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	clefairy: {learnset: {
 		softboiled: ["3L1"],
 		rocksmash: ["3L1"],
@@ -3311,7 +3311,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	clefable: {learnset: {
 		softboiled: ["3L1"],
 		rocksmash: ["3L1"],
@@ -3420,7 +3420,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	vulpix: {learnset: {
 		charm: ["3L1"],
 		bide: ["3L1"],
@@ -3481,7 +3481,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	vulpixalola: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -3533,7 +3533,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tailwhip: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	ninetales: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -3594,7 +3594,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	ninetalesalola: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -3646,7 +3646,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tailwhip: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	igglybuff: {learnset: {
 		dizzypunch: ["3L1"],
 		petaldance: ["3L1"],
@@ -3720,7 +3720,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wish: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	jigglypuff: {learnset: {
 		dig: ["3L1"],
 		secretpower: ["3L1"],
@@ -3810,7 +3810,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	wigglytuff: {learnset: {
 		dig: ["3L1"],
 		secretpower: ["3L1"],
@@ -3897,7 +3897,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	zubat: {learnset: {
 		flail: ["3L1"],
 		twister: ["3L1"],
@@ -3958,7 +3958,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	golbat: {learnset: {
 		twister: ["3L1"],
 		secretpower: ["3L1"],
@@ -4015,7 +4015,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	crobat: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -4067,7 +4067,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	oddish: {learnset: {
 		bide: ["3L1"],
 		curse: ["3L1"],
@@ -4118,7 +4118,7 @@ let BattleLearnsets = {
 		teeterdance: ["3L1"],
 		tickle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	gloom: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -4163,7 +4163,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	vileplume: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -4212,7 +4212,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	bellossom: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -4260,7 +4260,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	paras: {learnset: {
 		refresh: ["3L1"],
 		bulletseed: ["3L1"],
@@ -4326,7 +4326,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	parasect: {learnset: {
 		counter: ["3L1"],
 		bulletseed: ["3L1"],
@@ -4385,7 +4385,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	venonat: {learnset: {
 		stringshot: ["3L1"],
 		agility: ["3L1"],
@@ -4438,7 +4438,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	venomoth: {learnset: {
 		refresh: ["3L1"],
 		aircutter: ["3L1"],
@@ -4497,7 +4497,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	diglett: {learnset: {
 		furyswipes: ["3L1"],
 		secretpower: ["3L1"],
@@ -4551,7 +4551,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	diglettalola: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -4597,7 +4597,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thrash: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	dugtrio: {learnset: {
 		charm: ["3L1"],
 		furyswipes: ["3L1"],
@@ -4650,7 +4650,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		triattack: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	dugtrioalola: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -4692,7 +4692,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		triattack: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	meowth: {learnset: {
 		petaldance: ["3L1"],
 		sing: ["3L1"],
@@ -4768,7 +4768,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	meowthalola: {learnset: {
 		aerialace: ["3L1"],
 		assist: ["3L1"],
@@ -4823,7 +4823,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	meowthgalar: {learnset: {
 		amnesia: ["3L1"],
 		attract: ["3L1"],
@@ -4865,13 +4865,13 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	meowthgmax: {learnset: {
 		fakeout: ["3L1"],
 		growl: ["3L1"],
 		payday: ["3L1"],
 		slash: ["3L1"],
-	},
+	}},
 	persian: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -4942,7 +4942,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	persianalola: {learnset: {
 		aerialace: ["3L1"],
 		covet: ["3L1"],
@@ -4997,7 +4997,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	perrserker: {learnset: {
 		amnesia: ["3L1"],
 		attract: ["3L1"],
@@ -5036,7 +5036,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	psyduck: {learnset: {
 		petaldance: ["3L1"],
 		triattack: ["3L1"],
@@ -5119,7 +5119,7 @@ let BattleLearnsets = {
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	golduck: {learnset: {
 		charm: ["3L1"],
 		dive: ["3L1"],
@@ -5195,7 +5195,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	mankey: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -5279,7 +5279,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	primeape: {learnset: {
 		reversal: ["3L1"],
 		secretpower: ["3L1"],
@@ -5358,7 +5358,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	growlithe: {learnset: {
 		charm: ["3L1"],
 		mudslap: ["3L1"],
@@ -5420,7 +5420,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thrash: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	arcanine: {learnset: {
 		mudslap: ["3L1"],
 		secretpower: ["3L1"],
@@ -5484,7 +5484,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	poliwag: {learnset: {
 		growth: ["3L1"],
 		lovelykiss: ["3L1"],
@@ -5547,7 +5547,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	poliwhirl: {learnset: {
 		dig: ["3L1"],
 		dive: ["3L1"],
@@ -5615,7 +5615,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	poliwrath: {learnset: {
 		hydropump: ["3L1"],
 		dig: ["3L1"],
@@ -5684,7 +5684,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	politoed: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -5744,7 +5744,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	abra: {learnset: {
 		foresight: ["3L1"],
 		secretpower: ["3L1"],
@@ -5814,7 +5814,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	kadabra: {learnset: {
 		secretpower: ["3L1"],
 		attract: ["3L1"],
@@ -5888,7 +5888,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	alakazam: {learnset: {
 		secretpower: ["3L1"],
 		attract: ["3L1"],
@@ -5963,7 +5963,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	machop: {learnset: {
 		falseswipe: ["3L1"],
 		thrash: ["3L1"],
@@ -6038,7 +6038,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		tickle: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	machoke: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -6107,7 +6107,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	machamp: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -6178,7 +6178,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	bellsprout: {learnset: {
 		lovelykiss: ["3L1"],
 		sweetkiss: ["3L1"],
@@ -6235,7 +6235,7 @@ let BattleLearnsets = {
 		vinewhip: ["3L1"],
 		weatherball: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	weepinbell: {learnset: {
 		magicalleaf: ["3L1"],
 		morningsun: ["3L1"],
@@ -6285,7 +6285,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	victreebel: {learnset: {
 		bulletseed: ["3L1"],
 		secretpower: ["3L1"],
@@ -6337,7 +6337,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	tentacool: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -6400,7 +6400,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	tentacruel: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -6456,7 +6456,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	geodude: {learnset: {
 		rapidspin: ["3L1"],
 		ancientpower: ["3L1"],
@@ -6520,7 +6520,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	geodudealola: {learnset: {
 		attract: ["3L1"],
 		block: ["3L1"],
@@ -6567,7 +6567,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	graveler: {learnset: {
 		ancientpower: ["3L1"],
 		secretpower: ["3L1"],
@@ -6629,7 +6629,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	graveleralola: {learnset: {
 		attract: ["3L1"],
 		block: ["3L1"],
@@ -6672,7 +6672,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	golem: {learnset: {
 		ancientpower: ["3L1"],
 		secretpower: ["3L1"],
@@ -6738,7 +6738,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	golemalola: {learnset: {
 		attract: ["3L1"],
 		block: ["3L1"],
@@ -6782,7 +6782,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	ponyta: {learnset: {
 		secretpower: ["3L1"],
 		strength: ["3L1"],
@@ -6836,7 +6836,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thrash: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	ponytagalar: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -6870,7 +6870,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		thrash: ["3L1"],
-	},
+	}},
 	rapidash: {learnset: {
 		secretpower: ["3L1"],
 		strength: ["3L1"],
@@ -6926,7 +6926,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	rapidashgalar: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -6960,7 +6960,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	slowpoke: {learnset: {
 		whirlpool: ["3L1"],
 		dive: ["3L1"],
@@ -7040,7 +7040,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	slowbro: {learnset: {
 		whirlpool: ["3L1"],
 		dive: ["3L1"],
@@ -7131,7 +7131,7 @@ let BattleLearnsets = {
 		withdraw: ["3L1"],
 		yawn: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	slowking: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -7206,7 +7206,7 @@ let BattleLearnsets = {
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	magnemite: {learnset: {
 		agility: ["3L1"],
 		secretpower: ["3L1"],
@@ -7256,7 +7256,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	magneton: {learnset: {
 		refresh: ["3L1"],
 		secretpower: ["3L1"],
@@ -7308,7 +7308,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		triattack: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	magnezone: {learnset: {
 		endure: ["3L1"],
 		rollout: ["3L1"],
@@ -7354,7 +7354,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		triattack: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	farfetchd: {learnset: {
 		wish: ["3L1"],
 		yawn: ["3L1"],
@@ -7423,7 +7423,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	farfetchdgalar: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -7458,7 +7458,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		superpower: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	sirfetchd: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -7487,7 +7487,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		superpower: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	doduo: {learnset: {
 		lowkick: ["3L1"],
 		aircutter: ["3L1"],
@@ -7543,7 +7543,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	dodrio: {learnset: {
 		batonpass: ["3L1"],
 		aircutter: ["3L1"],
@@ -7597,7 +7597,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	seel: {learnset: {
 		flail: ["3L1"],
 		helpinghand: ["3L1"],
@@ -7658,7 +7658,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	dewgong: {learnset: {
 		secretpower: ["3L1"],
 		attract: ["3L1"],
@@ -7708,7 +7708,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	grimer: {learnset: {
 		helpinghand: ["3L1"],
 		dig: ["3L1"],
@@ -7776,7 +7776,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	grimeralola: {learnset: {
 		acidarmor: ["3L1"],
 		attract: ["3L1"],
@@ -7830,7 +7830,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	muk: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -7893,7 +7893,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	mukalola: {learnset: {
 		acidarmor: ["3L1"],
 		attract: ["3L1"],
@@ -7944,7 +7944,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	shellder: {learnset: {
 		refresh: ["3L1"],
 		secretpower: ["3L1"],
@@ -8000,7 +8000,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	cloyster: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -8060,7 +8060,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	gastly: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -8125,7 +8125,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	haunter: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -8186,7 +8186,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	gengar: {learnset: {
 		astonish: ["3L1"],
 		secretpower: ["3L1"],
@@ -8268,7 +8268,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	onix: {learnset: {
 		sharpen: ["3L1"],
 		ancientpower: ["3L1"],
@@ -8331,7 +8331,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	steelix: {learnset: {
 		mimic: ["3L1"],
 		ancientpower: ["3L1"],
@@ -8392,7 +8392,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	drowzee: {learnset: {
 		amnesia: ["3L1"],
 		bellydrum: ["3L1"],
@@ -8472,7 +8472,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	hypno: {learnset: {
 		batonpass: ["3L1"],
 		secretpower: ["3L1"],
@@ -8548,7 +8548,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	krabby: {learnset: {
 		vicegrip: ["3L1"],
 		secretpower: ["3L1"],
@@ -8617,7 +8617,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	kingler: {learnset: {
 		vicegrip: ["3L1"],
 		ancientpower: ["3L1"],
@@ -8685,7 +8685,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	voltorb: {learnset: {
 		agility: ["3L1"],
 		refresh: ["3L1"],
@@ -8734,7 +8734,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	electrode: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -8783,7 +8783,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	exeggcute: {learnset: {
 		sweetscent: ["3L1"],
 		wish: ["3L1"],
@@ -8846,7 +8846,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	exeggutor: {learnset: {
 		refresh: ["3L1"],
 		ancientpower: ["3L1"],
@@ -8904,7 +8904,7 @@ let BattleLearnsets = {
 		teleport: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	exeggutoralola: {learnset: {
 		attract: ["3L1"],
 		barrage: ["3L1"],
@@ -8948,7 +8948,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cubone: {learnset: {
 		furyattack: ["3L1"],
 		furycutter: ["3L1"],
@@ -9027,7 +9027,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	marowak: {learnset: {
 		sing: ["3L1"],
 		furycutter: ["3L1"],
@@ -9103,7 +9103,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	marowakalola: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -9161,7 +9161,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	marowakalolatotem: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -9219,7 +9219,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	tyrogue: {learnset: {
 		dizzypunch: ["3L1"],
 		rage: ["3L1"],
@@ -9273,7 +9273,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hitmonlee: {learnset: {
 		refresh: ["3L1"],
 		secretpower: ["3L1"],
@@ -9342,7 +9342,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hitmonchan: {learnset: {
 		mindreader: ["3L1"],
 		secretpower: ["3L1"],
@@ -9407,7 +9407,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hitmontop: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -9466,7 +9466,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		triplekick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	lickitung: {learnset: {
 		doubleslap: ["3L1"],
 		healbell: ["3L1"],
@@ -9559,7 +9559,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	lickilicky: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -9626,7 +9626,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	koffing: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -9683,7 +9683,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	weezing: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -9736,7 +9736,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	weezinggalar: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -9774,7 +9774,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	rhyhorn: {learnset: {
 		ancientpower: ["3L1"],
 		secretpower: ["3L1"],
@@ -9848,7 +9848,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rhydon: {learnset: {
 		ancientpower: ["3L1"],
 		cut: ["3L1"],
@@ -9941,7 +9941,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	rhyperior: {learnset: {
 		ancientpower: ["3L1"],
 		furycutter: ["3L1"],
@@ -10019,7 +10019,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	happiny: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -10071,7 +10071,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	chansey: {learnset: {
 		sweetkiss: ["3L1"],
 		sweetscent: ["3L1"],
@@ -10171,7 +10171,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	blissey: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -10257,7 +10257,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	tangela: {learnset: {
 		morningsun: ["3L1"],
 		bulletseed: ["3L1"],
@@ -10321,7 +10321,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	tangrowth: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -10380,7 +10380,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	kangaskhan: {learnset: {
 		feintattack: ["3L1"],
 		sing: ["3L1"],
@@ -10477,7 +10477,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	horsea: {learnset: {
 		haze: ["3L1"],
 		dive: ["3L1"],
@@ -10536,7 +10536,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	seadra: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -10587,7 +10587,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	kingdra: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -10637,7 +10637,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	goldeen: {learnset: {
 		furycutter: ["3L1"],
 		secretpower: ["3L1"],
@@ -10697,7 +10697,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	seaking: {learnset: {
 		furycutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -10755,7 +10755,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	staryu: {learnset: {
 		rollout: ["3L1"],
 		twister: ["3L1"],
@@ -10819,7 +10819,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	starmie: {learnset: {
 		refresh: ["3L1"],
 		rollout: ["3L1"],
@@ -10886,7 +10886,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	mimejr: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -10953,7 +10953,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	mrmime: {learnset: {
 		mindreader: ["3L1"],
 		followme: ["3L1"],
@@ -11047,7 +11047,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	mrmimegalar: {learnset: {
 		attract: ["3L1"],
 		batonpass: ["3L1"],
@@ -11107,7 +11107,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	mrrime: {learnset: {
 		attract: ["3L1"],
 		batonpass: ["3L1"],
@@ -11167,7 +11167,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	scyther: {learnset: {
 		sonicboom: ["3L1"],
 		morningsun: ["3L1"],
@@ -11223,7 +11223,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	scizor: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -11275,7 +11275,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	smoochum: {learnset: {
 		dizzypunch: ["3L1"],
 		petaldance: ["3L1"],
@@ -11345,7 +11345,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	jynx: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -11425,7 +11425,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	elekid: {learnset: {
 		dizzypunch: ["3L1"],
 		pursuit: ["3L1"],
@@ -11487,7 +11487,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	electabuzz: {learnset: {
 		crosschop: ["3L1"],
 		followme: ["3L1"],
@@ -11555,7 +11555,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	electivire: {learnset: {
 		crosschop: ["3L1"],
 		endure: ["3L1"],
@@ -11609,7 +11609,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	magby: {learnset: {
 		dizzypunch: ["3L1"],
 		bodyslam: ["3L1"],
@@ -11670,7 +11670,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	magmar: {learnset: {
 		crosschop: ["3L1"],
 		followme: ["3L1"],
@@ -11735,7 +11735,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	magmortar: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -11787,7 +11787,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	pinsir: {learnset: {
 		vicegrip: ["3L1"],
 		rockthrow: ["3L1"],
@@ -11851,7 +11851,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		visegrip: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	tauros: {learnset: {
 		quickattack: ["3L1"],
 		refresh: ["3L1"],
@@ -11918,7 +11918,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	magikarp: {learnset: {
 		dragonrage: ["3L1"],
 		bubble: ["3L1"],
@@ -11928,7 +11928,7 @@ let BattleLearnsets = {
 		hydropump: ["3L1"],
 		splash: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	gyarados: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -12000,7 +12000,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	lapras: {learnset: {
 		bite: ["3L1"],
 		secretpower: ["3L1"],
@@ -12082,10 +12082,10 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	ditto: {learnset: {
 		transform: ["3L1"],
-	},
+	}},
 	eevee: {learnset: {
 		growth: ["3L1"],
 		sing: ["3L1"],
@@ -12144,7 +12144,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	eeveestarter: {learnset: {
 		bite: ["3L1"],
 		dig: ["3L1"],
@@ -12168,13 +12168,13 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	eeveegmax: {learnset: {
 		growl: ["3L1"],
 		quickattack: ["3L1"],
 		sandattack: ["3L1"],
 		tailwhip: ["3L1"],
-	},
+	}},
 	vaporeon: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -12247,7 +12247,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	jolteon: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -12314,7 +12314,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	flareon: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -12381,7 +12381,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	espeon: {learnset: {
 		mimic: ["3L1"],
 		secretpower: ["3L1"],
@@ -12447,7 +12447,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		trick: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	umbreon: {learnset: {
 		mimic: ["3L1"],
 		secretpower: ["3L1"],
@@ -12514,7 +12514,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	leafeon: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -12577,7 +12577,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	glaceon: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -12634,7 +12634,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	porygon: {learnset: {
 		barrier: ["3L1"],
 		secretpower: ["3L1"],
@@ -12698,7 +12698,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	porygon2: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -12753,7 +12753,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	porygonz: {learnset: {
 		endure: ["3L1"],
 		swift: ["3L1"],
@@ -12804,7 +12804,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	omanyte: {learnset: {
 		rockthrow: ["3L1"],
 		dive: ["3L1"],
@@ -12869,7 +12869,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	omastar: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -12932,7 +12932,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	kabuto: {learnset: {
 		rockthrow: ["3L1"],
 		mudslap: ["3L1"],
@@ -12998,7 +12998,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	kabutops: {learnset: {
 		mudslap: ["3L1"],
 		dig: ["3L1"],
@@ -13072,7 +13072,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	aerodactyl: {learnset: {
 		rockthrow: ["3L1"],
 		aircutter: ["3L1"],
@@ -13137,7 +13137,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	munchlax: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -13216,7 +13216,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	snorlax: {learnset: {
 		lovelykiss: ["3L1"],
 		splash: ["3L1"],
@@ -13318,7 +13318,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	articuno: {learnset: {
 		extrasensory: ["3L1"],
 		haze: ["3L1"],
@@ -13377,7 +13377,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	zapdos: {learnset: {
 		batonpass: ["3L1"],
 		extrasensory: ["3L1"],
@@ -13435,7 +13435,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	moltres: {learnset: {
 		extrasensory: ["3L1"],
 		morningsun: ["3L1"],
@@ -13491,7 +13491,7 @@ let BattleLearnsets = {
 		whirlwind: ["3L1"],
 		willowisp: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	dratini: {learnset: {
 		hydropump: ["3L1"],
 		whirlpool: ["3L1"],
@@ -13558,7 +13558,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	dragonair: {learnset: {
 		whirlpool: ["3L1"],
 		secretpower: ["3L1"],
@@ -13621,7 +13621,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	dragonite: {learnset: {
 		healbell: ["3L1"],
 		aircutter: ["3L1"],
@@ -13713,7 +13713,7 @@ let BattleLearnsets = {
 		wingattack: ["3L1"],
 		wrap: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	mewtwo: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -13816,7 +13816,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	mew: {learnset: {
 		fakeout: ["3L1"],
 		feintattack: ["3L1"],
@@ -14005,7 +14005,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	chikorita: {learnset: {
 		petaldance: ["3L1"],
 		doubleedge: ["3L1"],
@@ -14061,7 +14061,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	bayleef: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -14111,7 +14111,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	meganium: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -14166,7 +14166,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cyndaquil: {learnset: {
 		blastburn: ["3L1"],
 		bodyslam: ["3L1"],
@@ -14222,7 +14222,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	quilava: {learnset: {
 		bodyslam: ["3L1"],
 		mimic: ["3L1"],
@@ -14274,7 +14274,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	typhlosion: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -14340,7 +14340,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	totodile: {learnset: {
 		submission: ["3L1"],
 		bodyslam: ["3L1"],
@@ -14417,7 +14417,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	croconaw: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -14489,7 +14489,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	feraligatr: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -14566,7 +14566,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	sentret: {learnset: {
 		dizzypunch: ["3L1"],
 		bodyslam: ["3L1"],
@@ -14638,7 +14638,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	furret: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -14708,7 +14708,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	hoothoot: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -14774,7 +14774,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	noctowl: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -14834,7 +14834,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	ledyba: {learnset: {
 		barrier: ["3L1"],
 		megapunch: ["3L1"],
@@ -14894,7 +14894,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	ledian: {learnset: {
 		megapunch: ["3L1"],
 		mimic: ["3L1"],
@@ -14949,7 +14949,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	spinarak: {learnset: {
 		growth: ["3L1"],
 		bodyslam: ["3L1"],
@@ -15001,7 +15001,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		twineedle: ["3L1"],
-	},
+	}},
 	ariados: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -15047,7 +15047,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	chinchou: {learnset: {
 		lightscreen: ["3L1"],
 		doubleedge: ["3L1"],
@@ -15102,7 +15102,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	lanturn: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -15158,7 +15158,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	togepi: {learnset: {
 		counter: ["3L1"],
 		mimic: ["3L1"],
@@ -15237,7 +15237,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	togetic: {learnset: {
 		counter: ["3L1"],
 		mimic: ["3L1"],
@@ -15322,7 +15322,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	togekiss: {learnset: {
 		aircutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -15402,7 +15402,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	natu: {learnset: {
 		safeguard: ["3L1"],
 		doubleedge: ["3L1"],
@@ -15468,7 +15468,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	xatu: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -15529,7 +15529,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	mareep: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -15578,7 +15578,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	flaaffy: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -15632,7 +15632,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	ampharos: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -15688,7 +15688,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	azurill: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -15745,7 +15745,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	marill: {learnset: {
 		dizzypunch: ["3L1"],
 		scaryface: ["3L1"],
@@ -15818,7 +15818,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	azumarill: {learnset: {
 		bodyslam: ["3L1"],
 		megakick: ["3L1"],
@@ -15880,7 +15880,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	bonsly: {learnset: {
 		slam: ["3L1"],
 		secretpower: ["3L1"],
@@ -15929,7 +15929,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	sudowoodo: {learnset: {
 		seismictoss: ["3L1"],
 		secretpower: ["3L1"],
@@ -15995,7 +15995,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hoppip: {learnset: {
 		agility: ["3L1"],
 		mimic: ["3L1"],
@@ -16049,7 +16049,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		tailwhip: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	skiploom: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -16096,7 +16096,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		tailwhip: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	jumpluff: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -16145,7 +16145,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		tailwhip: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	aipom: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -16226,7 +16226,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	ambipom: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -16288,7 +16288,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	sunkern: {learnset: {
 		splash: ["3L1"],
 		mimic: ["3L1"],
@@ -16335,7 +16335,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	sunflora: {learnset: {
 		mimic: ["3L1"],
 		secretpower: ["3L1"],
@@ -16381,7 +16381,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	yanma: {learnset: {
 		sweetkiss: ["3L1"],
 		mimic: ["3L1"],
@@ -16434,7 +16434,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	yanmega: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -16482,7 +16482,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	wooper: {learnset: {
 		bellydrum: ["3L1"],
 		scaryface: ["3L1"],
@@ -16548,7 +16548,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	quagsire: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -16617,7 +16617,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	murkrow: {learnset: {
 		beatup: ["3L1"],
 		doubleedge: ["3L1"],
@@ -16681,7 +16681,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	honchkrow: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -16728,7 +16728,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	misdreavus: {learnset: {
 		hypnosis: ["3L1"],
 		doubleedge: ["3L1"],
@@ -16793,7 +16793,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	mismagius: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -16844,10 +16844,10 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	unown: {learnset: {
 		hiddenpower: ["3L1"],
-	},
+	}},
 	wynaut: {learnset: {
 		tickle: ["3L1"],
 		amnesia: ["3L1"],
@@ -16858,7 +16858,7 @@ let BattleLearnsets = {
 		mirrorcoat: ["3L1"],
 		safeguard: ["3L1"],
 		splash: ["3L1"],
-	},
+	}},
 	wobbuffet: {learnset: {
 		mimic: ["3L1"],
 		amnesia: ["3L1"],
@@ -16869,7 +16869,7 @@ let BattleLearnsets = {
 		mirrorcoat: ["3L1"],
 		safeguard: ["3L1"],
 		splash: ["3L1"],
-	},
+	}},
 	girafarig: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -16941,7 +16941,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		wish: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	pineco: {learnset: {
 		bodyslam: ["3L1"],
 		mimic: ["3L1"],
@@ -16995,7 +16995,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	forretress: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -17047,7 +17047,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	dunsparce: {learnset: {
 		furyattack: ["3L1"],
 		horndrill: ["3L1"],
@@ -17118,7 +17118,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	gligar: {learnset: {
 		dreameater: ["3L1"],
 		mimic: ["3L1"],
@@ -17181,7 +17181,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	gliscor: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -17232,7 +17232,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	snubbull: {learnset: {
 		lovelykiss: ["3L1"],
 		bodyslam: ["3L1"],
@@ -17313,7 +17313,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	granbull: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -17393,7 +17393,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	qwilfish: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -17459,7 +17459,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	shuckle: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -17514,7 +17514,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	heracross: {learnset: {
 		bodyslam: ["3L1"],
 		mimic: ["3L1"],
@@ -17577,7 +17577,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sneasel: {learnset: {
 		moonlight: ["3L1"],
 		doubleedge: ["3L1"],
@@ -17657,7 +17657,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	weavile: {learnset: {
 		fakeout: ["3L1"],
 		furycutter: ["3L1"],
@@ -17726,7 +17726,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	teddiursa: {learnset: {
 		bodyslam: ["3L1"],
 		megakick: ["3L1"],
@@ -17802,7 +17802,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		yawn: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	ursaring: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -17873,7 +17873,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	slugma: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -17926,7 +17926,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	magcargo: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -17980,7 +17980,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	swinub: {learnset: {
 		whirlwind: ["3L1"],
 		charm: ["3L1"],
@@ -18039,7 +18039,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		tackle: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	piloswine: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -18099,7 +18099,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		thrash: ["3L1"],
-	},
+	}},
 	mamoswine: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -18157,7 +18157,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		thrash: ["3L1"],
-	},
+	}},
 	corsola: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -18233,7 +18233,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	corsolagalar: {learnset: {
 		amnesia: ["3L1"],
 		ancientpower: ["3L1"],
@@ -18287,7 +18287,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	cursola: {learnset: {
 		amnesia: ["3L1"],
 		ancientpower: ["3L1"],
@@ -18341,7 +18341,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	remoraid: {learnset: {
 		amnesia: ["3L1"],
 		mist: ["3L1"],
@@ -18402,7 +18402,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		waterspout: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	octillery: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -18462,7 +18462,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	delibird: {learnset: {
 		payday: ["3L1"],
 		doubleedge: ["3L1"],
@@ -18527,7 +18527,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		thief: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	mantyke: {learnset: {
 		aircutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -18582,7 +18582,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	mantine: {learnset: {
 		gust: ["3L1"],
 		doubleedge: ["3L1"],
@@ -18648,7 +18648,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	skarmory: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -18705,7 +18705,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	houndour: {learnset: {
 		bodyslam: ["3L1"],
 		charm: ["3L1"],
@@ -18769,7 +18769,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	houndoom: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -18829,7 +18829,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	phanpy: {learnset: {
 		absorb: ["3L1"],
 		encore: ["3L1"],
@@ -18881,7 +18881,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		toxic: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	donphan: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -18934,7 +18934,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		swagger: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	stantler: {learnset: {
 		safeguard: ["3L1"],
 		bodyslam: ["3L1"],
@@ -19004,7 +19004,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	smeargle: {learnset: {
 		falseswipe: ["3L1"],
 		meanlook: ["3L1"],
@@ -19015,7 +19015,7 @@ let BattleLearnsets = {
 		furyswipes: ["3L1"],
 		seismictoss: ["3L1"],
 		sketch: ["3L1"],
-	},
+	}},
 	miltank: {learnset: {
 		counter: ["3L1"],
 		megakick: ["3L1"],
@@ -19087,7 +19087,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	raikou: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19142,7 +19142,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	entei: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19198,7 +19198,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	suicune: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19257,7 +19257,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	larvitar: {learnset: {
 		rage: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19315,7 +19315,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pupitar: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -19370,7 +19370,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	tyranitar: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19458,7 +19458,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	lugia: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19538,7 +19538,7 @@ let BattleLearnsets = {
 		whirlpool: ["3L1"],
 		whirlwind: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	hooh: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -19607,7 +19607,7 @@ let BattleLearnsets = {
 		whirlwind: ["3L1"],
 		willowisp: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	celebi: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -19675,7 +19675,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	treecko: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -19745,7 +19745,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	grovyle: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -19808,7 +19808,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sceptile: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -19877,7 +19877,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	torchic: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -19938,7 +19938,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	combusken: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20000,7 +20000,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	blaziken: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20072,7 +20072,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	mudkip: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -20136,7 +20136,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	marshtomp: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20198,7 +20198,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	swampert: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20266,7 +20266,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	poochyena: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20319,7 +20319,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	mightyena: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -20370,7 +20370,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	zigzagoon: {learnset: {
 		defensecurl: ["3L1"],
 		mimic: ["3L1"],
@@ -20434,7 +20434,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	zigzagoongalar: {learnset: {
 		attract: ["3L1"],
 		blizzard: ["3L1"],
@@ -20478,7 +20478,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	linoone: {learnset: {
 		defensecurl: ["3L1"],
 		mimic: ["3L1"],
@@ -20545,7 +20545,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	linoonegalar: {learnset: {
 		attract: ["3L1"],
 		blizzard: ["3L1"],
@@ -20590,7 +20590,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	obstagoon: {learnset: {
 		attract: ["3L1"],
 		blizzard: ["3L1"],
@@ -20649,18 +20649,18 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	wurmple: {learnset: {
 		poisonsting: ["3L1"],
 		snore: ["3L1"],
 		stringshot: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	silcoon: {learnset: {
 		stringshot: ["3L1"],
 		harden: ["3L1"],
 		irondefense: ["3L1"],
-	},
+	}},
 	beautifly: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -20702,12 +20702,12 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	cascoon: {learnset: {
 		stringshot: ["3L1"],
 		harden: ["3L1"],
 		irondefense: ["3L1"],
-	},
+	}},
 	dustox: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -20749,7 +20749,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	lotad: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -20803,7 +20803,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	lombre: {learnset: {
 		doubleedge: ["3L1"],
 		dynamicpunch: ["3L1"],
@@ -20873,7 +20873,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	ludicolo: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -20948,7 +20948,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	seedot: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21000,7 +21000,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	nuzleaf: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21068,7 +21068,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thief: ["3L1"],
 		torment: ["3L1"],
-	},
+	}},
 	shiftry: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21145,7 +21145,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		torment: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	taillow: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21192,7 +21192,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	swellow: {learnset: {
 		batonpass: ["3L1"],
 		counter: ["3L1"],
@@ -21234,7 +21234,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	wingull: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -21281,7 +21281,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	pelipper: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -21334,7 +21334,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	ralts: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21411,7 +21411,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	kirlia: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21479,7 +21479,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	gardevoir: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21550,7 +21550,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		willowisp: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	gallade: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -21635,7 +21635,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	surskit: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -21685,7 +21685,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	masquerain: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -21734,7 +21734,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	shroomish: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21779,7 +21779,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	breloom: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21839,7 +21839,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	slakoth: {learnset: {
 		doubleedge: ["3L1"],
 		dynamicpunch: ["3L1"],
@@ -21905,7 +21905,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	vigoroth: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -21970,7 +21970,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	slaking: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -22037,7 +22037,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	nincada: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -22082,7 +22082,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		sunnyday: ["3L1"],
-	},
+	}},
 	ninjask: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -22134,7 +22134,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	shedinja: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -22187,7 +22187,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	whismur: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -22248,7 +22248,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	loudred: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -22313,7 +22313,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	exploud: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -22383,7 +22383,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	makuhita: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -22448,7 +22448,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vitalthrow: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	hariyama: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -22508,7 +22508,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vitalthrow: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	nosepass: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -22565,7 +22565,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	probopass: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -22614,7 +22614,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		triattack: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	skitty: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -22679,7 +22679,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	delcatty: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -22736,7 +22736,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	sableye: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -22820,7 +22820,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	mawile: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -22894,7 +22894,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
 		tickle: ["3L1"],
-	},
+	}},
 	aron: {learnset: {
 		defensecurl: ["3L1"],
 		mimic: ["3L1"],
@@ -22950,7 +22950,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	lairon: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -23001,7 +23001,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	aggron: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23079,7 +23079,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	meditite: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -23147,7 +23147,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	medicham: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -23213,7 +23213,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	electrike: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -23261,7 +23261,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	manectric: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -23313,7 +23313,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	plusle: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23370,7 +23370,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	minun: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23427,7 +23427,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	volbeat: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23488,7 +23488,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	illumise: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23553,7 +23553,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	budew: {learnset: {
 		mudslap: ["3L1"],
 		cut: ["3L1"],
@@ -23601,7 +23601,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	roselia: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -23661,7 +23661,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	roserade: {learnset: {
 		furycutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -23712,7 +23712,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	gulpin: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -23773,7 +23773,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	swalot: {learnset: {
 		counter: ["3L1"],
 		defensecurl: ["3L1"],
@@ -23832,7 +23832,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	carvanha: {learnset: {
 		mimic: ["3L1"],
 		refresh: ["3L1"],
@@ -23886,7 +23886,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	sharpedo: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -23944,7 +23944,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	wailmer: {learnset: {
 		mimic: ["3L1"],
 		headbutt: ["3L1"],
@@ -23998,7 +23998,7 @@ let BattleLearnsets = {
 		waterspout: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	wailord: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -24050,7 +24050,7 @@ let BattleLearnsets = {
 		waterspout: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	numel: {learnset: {
 		charm: ["3L1"],
 		mimic: ["3L1"],
@@ -24106,7 +24106,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	camerupt: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -24160,7 +24160,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	torkoal: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -24219,7 +24219,7 @@ let BattleLearnsets = {
 		willowisp: ["3L1"],
 		withdraw: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	spoink: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -24279,7 +24279,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	grumpig: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -24346,7 +24346,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	spinda: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -24430,7 +24430,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	trapinch: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -24479,7 +24479,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		sunnyday: ["3L1"],
 		superpower: ["3L1"],
-	},
+	}},
 	vibrava: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -24538,7 +24538,7 @@ let BattleLearnsets = {
 		supersonic: ["3L1"],
 		swift: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	flygon: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -24608,7 +24608,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	cacnea: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -24672,7 +24672,7 @@ let BattleLearnsets = {
 		teeterdance: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cacturne: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -24734,7 +24734,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	swablu: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -24791,7 +24791,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	altaria: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -24853,7 +24853,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	zangoose: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -24936,7 +24936,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	seviper: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -24989,7 +24989,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	lunatone: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25052,7 +25052,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tackle: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	solrock: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25120,7 +25120,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	barboach: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25170,7 +25170,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	whiscash: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25225,7 +25225,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	corphish: {learnset: {
 		counter: ["3L1"],
 		mimic: ["3L1"],
@@ -25292,7 +25292,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	crawdaunt: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25360,7 +25360,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	baltoy: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25415,7 +25415,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		sunnyday: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	claydol: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25475,7 +25475,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		teleport: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	lileep: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25527,7 +25527,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tickle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cradily: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25579,7 +25579,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	anorith: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25630,7 +25630,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	armaldo: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25685,7 +25685,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	feebas: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25730,7 +25730,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		waterfall: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	milotic: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -25786,7 +25786,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	castform: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -25838,7 +25838,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	kecleon: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -25924,7 +25924,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	shuppet: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -25983,7 +25983,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	banette: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26039,7 +26039,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	duskull: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26099,7 +26099,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	dusclops: {learnset: {
 		counter: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26174,7 +26174,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	dusknoir: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -26244,7 +26244,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	tropius: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26303,7 +26303,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	chingling: {learnset: {
 		endure: ["3L1"],
 		rollout: ["3L1"],
@@ -26362,7 +26362,7 @@ let BattleLearnsets = {
 		wish: ["3L1"],
 		wrap: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	chimecho: {learnset: {
 		defensecurl: ["3L1"],
 		mimic: ["3L1"],
@@ -26428,7 +26428,7 @@ let BattleLearnsets = {
 		wish: ["3L1"],
 		wrap: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	absol: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -26510,7 +26510,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	snorunt: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26555,7 +26555,7 @@ let BattleLearnsets = {
 		spikes: ["3L1"],
 		substitute: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	glalie: {learnset: {
 		defensecurl: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26609,7 +26609,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		taunt: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	froslass: {learnset: {
 		mudslap: ["3L1"],
 		rollout: ["3L1"],
@@ -26672,7 +26672,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	spheal: {learnset: {
 		charm: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26730,7 +26730,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	sealeo: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26780,7 +26780,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	walrein: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26834,7 +26834,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	clamperl: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -26873,7 +26873,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	huntail: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26918,7 +26918,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	gorebyss: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -26964,7 +26964,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	relicanth: {learnset: {
 		bodyslam: ["3L1"],
 		mimic: ["3L1"],
@@ -27021,7 +27021,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	luvdisc: {learnset: {
 		doubleedge: ["3L1"],
 		mimic: ["3L1"],
@@ -27066,7 +27066,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	bagon: {learnset: {
 		bodyslam: ["3L1"],
 		irondefense: ["3L1"],
@@ -27120,7 +27120,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		toxic: ["3L1"],
 		twister: ["3L1"],
-	},
+	}},
 	shelgon: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -27170,7 +27170,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swagger: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	salamence: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -27230,12 +27230,12 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swagger: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	beldum: {learnset: {
 		headbutt: ["3L1"],
 		irondefense: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	metang: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -27296,7 +27296,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	metagross: {learnset: {
 		bodyslam: ["3L1"],
 		defensecurl: ["3L1"],
@@ -27357,7 +27357,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	regirock: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -27416,7 +27416,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	regice: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -27476,7 +27476,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	registeel: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -27536,7 +27536,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	latias: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -27606,7 +27606,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	latios: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -27673,7 +27673,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	kyogre: {learnset: {
 		defensecurl: ["3L1"],
 		mimic: ["3L1"],
@@ -27730,7 +27730,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		waterspout: ["3L1"],
-	},
+	}},
 	groudon: {learnset: {
 		bodyslam: ["3L1"],
 		counter: ["3L1"],
@@ -27797,7 +27797,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rayquaza: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -27864,7 +27864,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	jirachi: {learnset: {
 		defensecurl: ["3L1"],
 		dynamicpunch: ["3L1"],
@@ -27937,7 +27937,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	deoxys: {learnset: {
 		bodyslam: ["3L1"],
 		doubleedge: ["3L1"],
@@ -28026,7 +28026,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	turtwig: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -28080,7 +28080,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	grotle: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -28124,7 +28124,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	torterra: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -28177,7 +28177,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	chimchar: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -28239,7 +28239,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	monferno: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -28295,7 +28295,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	infernape: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -28356,7 +28356,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	piplup: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -28410,7 +28410,7 @@ let BattleLearnsets = {
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	prinplup: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -28460,7 +28460,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	empoleon: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -28518,7 +28518,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	starly: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -28565,7 +28565,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	staravia: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -28603,7 +28603,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	staraptor: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -28642,7 +28642,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	bidoof: {learnset: {
 		furycutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -28700,7 +28700,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watersport: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	bibarel: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -28760,7 +28760,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	kricketot: {learnset: {
 		mudslap: ["3L1"],
 		stringshot: ["3L1"],
@@ -28769,7 +28769,7 @@ let BattleLearnsets = {
 		growl: ["3L1"],
 		snore: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	kricketune: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -28816,7 +28816,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	shinx: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -28862,7 +28862,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	luxio: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -28903,7 +28903,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	luxray: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -28946,7 +28946,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cranidos: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -29005,7 +29005,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	rampardos: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -29065,7 +29065,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	shieldon: {learnset: {
 		mudslap: ["3L1"],
 		dig: ["3L1"],
@@ -29118,7 +29118,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	bastiodon: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -29166,14 +29166,14 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	burmy: {learnset: {
 		stringshot: ["3L1"],
 		hiddenpower: ["3L1"],
 		protect: ["3L1"],
 		snore: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	wormadam: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -29215,7 +29215,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	wormadamsandy: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -29260,7 +29260,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	wormadamtrash: {learnset: {
 		endure: ["3L1"],
 		stringshot: ["3L1"],
@@ -29298,7 +29298,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	mothim: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -29342,7 +29342,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	combee: {learnset: {
 		mudslap: ["3L1"],
 		stringshot: ["3L1"],
@@ -29352,7 +29352,7 @@ let BattleLearnsets = {
 		gust: ["3L1"],
 		snore: ["3L1"],
 		sweetscent: ["3L1"],
-	},
+	}},
 	vespiquen: {learnset: {
 		aircutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -29400,7 +29400,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pachirisu: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -29451,7 +29451,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	buizel: {learnset: {
 		endure: ["3L1"],
 		dig: ["3L1"],
@@ -29506,7 +29506,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	floatzel: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -29561,7 +29561,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	cherubi: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -29602,7 +29602,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		tickle: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	cherrim: {learnset: {
 		rollout: ["3L1"],
 		flash: ["3L1"],
@@ -29639,7 +29639,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	shellos: {learnset: {
 		headbutt: ["3L1"],
 		stringshot: ["3L1"],
@@ -29691,7 +29691,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	gastrodon: {learnset: {
 		headbutt: ["3L1"],
 		stringshot: ["3L1"],
@@ -29746,7 +29746,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	drifloon: {learnset: {
 		aircutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -29811,7 +29811,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	drifblim: {learnset: {
 		aircutter: ["3L1"],
 		mudslap: ["3L1"],
@@ -29875,7 +29875,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	buneary: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -29940,7 +29940,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	lopunny: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30003,7 +30003,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	glameow: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -30061,7 +30061,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	purugly: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -30117,7 +30117,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	stunky: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30171,7 +30171,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	skuntank: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30222,7 +30222,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	bronzor: {learnset: {
 		ancientpower: ["3L1"],
 		rollout: ["3L1"],
@@ -30271,7 +30271,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		tackle: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	bronzong: {learnset: {
 		ancientpower: ["3L1"],
 		rollout: ["3L1"],
@@ -30326,7 +30326,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		trick: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	chatot: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -30371,7 +30371,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	spiritomb: {learnset: {
 		endure: ["3L1"],
 		silverwind: ["3L1"],
@@ -30423,7 +30423,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	gible: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30475,7 +30475,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		toxic: ["3L1"],
 		twister: ["3L1"],
-	},
+	}},
 	gabite: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -30520,7 +30520,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	garchomp: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -30572,7 +30572,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	riolu: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30634,7 +30634,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	lucario: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30700,7 +30700,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	hippopotas: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -30752,7 +30752,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlwind: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	hippowdon: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -30800,7 +30800,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	skorupi: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30856,7 +30856,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	drapion: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -30912,7 +30912,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	croagunk: {learnset: {
 		furycutter: ["3L1"],
 		rocksmash: ["3L1"],
@@ -30976,7 +30976,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	toxicroak: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -31037,7 +31037,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	carnivine: {learnset: {
 		bulletseed: ["3L1"],
 		endure: ["3L1"],
@@ -31087,7 +31087,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	finneon: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -31136,7 +31136,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	lumineon: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -31176,7 +31176,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	snover: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -31228,7 +31228,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		swordsdance: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	abomasnow: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -31287,7 +31287,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		swordsdance: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	rotom: {learnset: {
 		mudslap: ["3L1"],
 		flash: ["3L1"],
@@ -31331,20 +31331,20 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	rotomheat: {learnset: {
 		overheat: ["3L1"],
-	},
+	}},
 	rotomwash: {learnset: {
 		hydropump: ["3L1"],
-	},
+	}},
 	rotomfrost: {learnset: {
 		blizzard: ["3L1"],
-	},
+	}},
 	rotomfan: {learnset: {
-	},
+	}},
 	rotommow: {learnset: {
-	},
+	}},
 	uxie: {learnset: {
 		headbutt: ["3L1"],
 		mudslap: ["3L1"],
@@ -31404,7 +31404,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		waterpulse: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	mesprit: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -31460,7 +31460,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	azelf: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -31520,7 +31520,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	dialga: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -31577,7 +31577,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	palkia: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -31636,7 +31636,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	heatran: {learnset: {
 		endure: ["3L1"],
 		eruption: ["3L1"],
@@ -31683,7 +31683,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	regigigas: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -31731,7 +31731,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	giratina: {learnset: {
 		aircutter: ["3L1"],
 		endure: ["3L1"],
@@ -31789,7 +31789,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	cresselia: {learnset: {
 		endure: ["3L1"],
 		furycutter: ["3L1"],
@@ -31837,7 +31837,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	phione: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -31881,7 +31881,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	manaphy: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -31934,7 +31934,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	darkrai: {learnset: {
 		endure: ["3L1"],
 		headbutt: ["3L1"],
@@ -31995,7 +31995,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	shaymin: {learnset: {
 		aircutter: ["3L1"],
 		bulletseed: ["3L1"],
@@ -32038,7 +32038,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	arceus: {learnset: {
 		ancientpower: ["3L1"],
 		bulletseed: ["3L1"],
@@ -32125,7 +32125,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	victini: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -32178,7 +32178,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	snivy: {learnset: {
 		aromatherapy: ["3L1"],
 		cut: ["3L1"],
@@ -32230,7 +32230,7 @@ let BattleLearnsets = {
 		twister: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	servine: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -32274,7 +32274,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	serperior: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -32323,7 +32323,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	tepig: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -32369,7 +32369,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	pignite: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -32417,7 +32417,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	emboar: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -32470,7 +32470,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	oshawott: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -32516,7 +32516,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	dewott: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -32560,7 +32560,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	samurott: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -32612,7 +32612,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	patrat: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -32661,7 +32661,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		thunderbolt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	watchog: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -32721,7 +32721,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	lillipup: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -32767,7 +32767,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	herdier: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -32807,7 +32807,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	stoutland: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -32850,7 +32850,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	purrloin: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -32904,7 +32904,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	liepard: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -32957,7 +32957,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		torment: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	pansage: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33009,7 +33009,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	simisage: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33055,7 +33055,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	pansear: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33107,7 +33107,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	simisear: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33155,7 +33155,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	panpour: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33210,7 +33210,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	simipour: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -33260,7 +33260,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	munna: {learnset: {
 		flash: ["3L1"],
 		barrier: ["3L1"],
@@ -33314,7 +33314,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	musharna: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33363,7 +33363,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	pidove: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -33403,7 +33403,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		uproar: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	tranquill: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -33440,7 +33440,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	unfezant: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -33479,7 +33479,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	blitzle: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33521,7 +33521,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	zebstrika: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -33559,7 +33559,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	roggenrola: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33597,7 +33597,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		tackle: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	boldore: {learnset: {
 		curse: ["3L1"],
 		rocksmash: ["3L1"],
@@ -33632,7 +33632,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	gigalith: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33671,7 +33671,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		tackle: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	woobat: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33730,7 +33730,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	swoobat: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -33789,7 +33789,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	drilbur: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -33833,7 +33833,7 @@ let BattleLearnsets = {
 		submission: ["3L1"],
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	excadrill: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -33877,7 +33877,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	audino: {learnset: {
 		present: ["3L1"],
 		dig: ["3L1"],
@@ -33946,7 +33946,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	timburr: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34000,7 +34000,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	gurdurr: {learnset: {
 		machpunch: ["3L1"],
 		rocksmash: ["3L1"],
@@ -34049,7 +34049,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	conkeldurr: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34100,7 +34100,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	tympole: {learnset: {
 		secretpower: ["3L1"],
 		bubble: ["3L1"],
@@ -34142,7 +34142,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	palpitoad: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34182,7 +34182,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	seismitoad: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34235,7 +34235,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	throh: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34285,7 +34285,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	sawk: {learnset: {
 		secretpower: ["3L1"],
 		strength: ["3L1"],
@@ -34334,7 +34334,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	sewaddle: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -34376,7 +34376,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	swadloon: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -34410,7 +34410,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	leavanny: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -34454,7 +34454,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	venipede: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34489,7 +34489,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		toxic: ["3L1"],
 		twineedle: ["3L1"],
-	},
+	}},
 	whirlipede: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34520,7 +34520,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swagger: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	scolipede: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -34564,7 +34564,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cottonee: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34609,7 +34609,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		tickle: ["3L1"],
-	},
+	}},
 	whimsicott: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34658,7 +34658,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	petilil: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -34701,7 +34701,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	lilligant: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -34738,7 +34738,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		teeterdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	basculin: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -34789,7 +34789,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	sandile: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -34835,7 +34835,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	krokorok: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -34881,7 +34881,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	krookodile: {learnset: {
 		counter: ["3L1"],
 		meanlook: ["3L1"],
@@ -34935,7 +34935,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	darumaka: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -34991,7 +34991,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	darumakagalar: {learnset: {
 		attract: ["3L1"],
 		bellydrum: ["3L1"],
@@ -35035,7 +35035,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	darmanitan: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35097,7 +35097,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	darmanitangalar: {learnset: {
 		attract: ["3L1"],
 		bellydrum: ["3L1"],
@@ -35144,7 +35144,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	maractus: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -35191,7 +35191,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	dwebble: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -35234,7 +35234,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	crustle: {learnset: {
 		counter: ["3L1"],
 		cut: ["3L1"],
@@ -35277,7 +35277,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	scraggy: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35337,7 +35337,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	scrafty: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35396,7 +35396,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	sigilyph: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35452,7 +35452,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	yamask: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35502,7 +35502,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	yamaskgalar: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -35537,7 +35537,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	cofagrigus: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -35588,7 +35588,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	runerigus: {learnset: {
 		amnesia: ["3L1"],
 		astonish: ["3L1"],
@@ -35629,7 +35629,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	tirtouga: {learnset: {
 		dig: ["3L1"],
 		dive: ["3L1"],
@@ -35678,7 +35678,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	carracosta: {learnset: {
 		dig: ["3L1"],
 		dive: ["3L1"],
@@ -35725,7 +35725,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	archen: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -35772,7 +35772,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	archeops: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -35822,7 +35822,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	trubbish: {learnset: {
 		secretpower: ["3L1"],
 		doubleslap: ["3L1"],
@@ -35864,7 +35864,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	garbodor: {learnset: {
 		secretpower: ["3L1"],
 		doubleslap: ["3L1"],
@@ -35908,7 +35908,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderbolt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	zorua: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -35958,7 +35958,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	zoroark: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -36008,7 +36008,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	minccino: {learnset: {
 		growl: ["3L1"],
 		secretpower: ["3L1"],
@@ -36053,7 +36053,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		tickle: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	cinccino: {learnset: {
 		secretpower: ["3L1"],
 		covet: ["3L1"],
@@ -36098,7 +36098,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		tickle: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	gothita: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36158,7 +36158,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	gothorita: {learnset: {
 		imprison: ["3L1"],
 		mirrorcoat: ["3L1"],
@@ -36217,7 +36217,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	gothitelle: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36278,7 +36278,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	solosis: {learnset: {
 		flash: ["3L1"],
 		doubleteam: ["3L1"],
@@ -36334,7 +36334,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	duosion: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36386,7 +36386,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	reuniclus: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -36449,7 +36449,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	ducklett: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -36486,7 +36486,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	swanna: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -36521,7 +36521,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	vanillite: {learnset: {
 		secretpower: ["3L1"],
 		doubleteam: ["3L1"],
@@ -36562,7 +36562,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	vanillish: {learnset: {
 		secretpower: ["3L1"],
 		doubleteam: ["3L1"],
@@ -36602,7 +36602,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	vanilluxe: {learnset: {
 		secretpower: ["3L1"],
 		doubleteam: ["3L1"],
@@ -36645,7 +36645,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		uproar: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	deerling: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36691,7 +36691,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	sawsbuck: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -36736,7 +36736,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	emolga: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -36779,7 +36779,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		tickle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	karrablast: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -36822,7 +36822,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	escavalier: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -36868,7 +36868,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		takedown: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	foongus: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36907,7 +36907,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	amoonguss: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -36941,7 +36941,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	frillish: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37000,7 +37000,7 @@ let BattleLearnsets = {
 		waterspout: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	jellicent: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37058,7 +37058,7 @@ let BattleLearnsets = {
 		waterspout: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	alomomola: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -37105,7 +37105,7 @@ let BattleLearnsets = {
 		watersport: ["3L1"],
 		whirlpool: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	joltik: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -37148,7 +37148,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	galvantula: {learnset: {
 		disable: ["3L1"],
 		pursuit: ["3L1"],
@@ -37190,7 +37190,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	ferroseed: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37231,7 +37231,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	ferrothorn: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -37279,7 +37279,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	klink: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37314,7 +37314,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		visegrip: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	klang: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37349,7 +37349,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		visegrip: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	klinklang: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37385,12 +37385,12 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		visegrip: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	tynamo: {learnset: {
 		spark: ["3L1"],
 		tackle: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	eelektrik: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37426,7 +37426,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	eelektross: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -37477,7 +37477,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	elgyem: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37534,7 +37534,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	beheeyem: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37590,7 +37590,7 @@ let BattleLearnsets = {
 		triattack: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	litwick: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37640,7 +37640,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	lampent: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37687,7 +37687,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	chandelure: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -37735,7 +37735,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	axew: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37785,7 +37785,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	fraxure: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37833,7 +37833,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	haxorus: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37886,7 +37886,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	cubchoo: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37934,7 +37934,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		thrash: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	beartic: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -37991,7 +37991,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		thrash: ["3L1"],
-	},
+	}},
 	cryogonal: {learnset: {
 		secretpower: ["3L1"],
 		acidarmor: ["3L1"],
@@ -38034,7 +38034,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	shelmet: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -38073,7 +38073,7 @@ let BattleLearnsets = {
 		spikes: ["3L1"],
 		substitute: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	accelgor: {learnset: {
 		secretpower: ["3L1"],
 		frustration: ["3L1"],
@@ -38114,7 +38114,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		toxic: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	stunfisk: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -38167,7 +38167,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	stunfiskgalar: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -38208,7 +38208,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	mienfoo: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38258,7 +38258,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		toxic: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	mienshao: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38305,7 +38305,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	druddigon: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -38361,7 +38361,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	golett: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38418,7 +38418,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	golurk: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38481,7 +38481,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderpunch: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	pawniard: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38533,7 +38533,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderwave: ["3L1"],
 		torment: ["3L1"],
-	},
+	}},
 	bisharp: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38583,7 +38583,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderwave: ["3L1"],
 		torment: ["3L1"],
-	},
+	}},
 	bouffalant: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38632,7 +38632,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rufflet: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38673,7 +38673,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	braviary: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38716,7 +38716,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	vullaby: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38762,7 +38762,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	mandibuzz: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38810,7 +38810,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	heatmor: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38868,7 +38868,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		tickle: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	durant: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -38912,7 +38912,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		thunderwave: ["3L1"],
 		visegrip: ["3L1"],
-	},
+	}},
 	deino: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -38957,7 +38957,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	zweilous: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -39003,7 +39003,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hydreigon: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -39066,7 +39066,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		triattack: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	larvesta: {learnset: {
 		secretpower: ["3L1"],
 		absorb: ["3L1"],
@@ -39107,7 +39107,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	volcarona: {learnset: {
 		secretpower: ["3L1"],
 		absorb: ["3L1"],
@@ -39149,7 +39149,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	cobalion: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39196,7 +39196,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		taunt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	terrakion: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39243,7 +39243,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		takedown: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	virizion: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -39294,7 +39294,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		takedown: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	tornadus: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -39339,7 +39339,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	thundurus: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -39385,7 +39385,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	reshiram: {learnset: {
 		mist: ["3L1"],
 		cut: ["3L1"],
@@ -39437,7 +39437,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	zekrom: {learnset: {
 		haze: ["3L1"],
 		cut: ["3L1"],
@@ -39488,7 +39488,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thunderwave: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	landorus: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39531,7 +39531,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		swordsdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	kyurem: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39583,7 +39583,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swift: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	kyuremblack: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39635,7 +39635,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swift: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	kyuremwhite: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39687,7 +39687,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swift: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	keldeo: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39739,7 +39739,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		takedown: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	meloetta: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -39796,7 +39796,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	genesect: {learnset: {
 		blazekick: ["3L1"],
 		extremespeed: ["3L1"],
@@ -39844,7 +39844,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		triattack: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	chespin: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -39904,7 +39904,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	quilladin: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -39961,7 +39961,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	chesnaught: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -40024,7 +40024,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	fennekin: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -40066,7 +40066,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	braixen: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -40114,7 +40114,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	delphox: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -40169,7 +40169,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	froakie: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -40217,7 +40217,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	frogadier: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -40263,7 +40263,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	greninja: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -40315,7 +40315,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	greninjaash: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -40361,7 +40361,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	bunnelby: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -40413,7 +40413,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	diggersby: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -40477,7 +40477,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	fletchling: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -40510,7 +40510,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	fletchinder: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -40547,7 +40547,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	talonflame: {learnset: {
 		secretpower: ["3L1"],
 		aerialace: ["3L1"],
@@ -40587,18 +40587,18 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	scatterbug: {learnset: {
 		poisonpowder: ["3L1"],
 		stringshot: ["3L1"],
 		stunspore: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	spewpa: {learnset: {
 		harden: ["3L1"],
 		irondefense: ["3L1"],
 		protect: ["3L1"],
-	},
+	}},
 	vivillon: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40637,7 +40637,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	vivillonfancy: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40676,7 +40676,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	vivillonpokeball: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40715,7 +40715,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		thief: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	litleo: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -40758,7 +40758,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	pyroar: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -40801,7 +40801,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	flabebe: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40840,7 +40840,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	floette: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40878,7 +40878,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	floetteeternal: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -40916,7 +40916,7 @@ let BattleLearnsets = {
 		magiccoat: ["3L1"],
 		snore: ["3L1"],
 		synthesis: ["3L1"],
-	},
+	}},
 	florges: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -40953,7 +40953,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	skiddo: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -40996,7 +40996,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	gogoat: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41042,7 +41042,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
-	},
+	}},
 	pancham: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41105,7 +41105,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	pangoro: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41177,7 +41177,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	furfrou: {learnset: {
 		dig: ["3L1"],
 		flash: ["3L1"],
@@ -41218,7 +41218,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	espurr: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -41273,7 +41273,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		trick: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	meowstic: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -41330,7 +41330,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	meowsticf: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -41388,7 +41388,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	honedge: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41426,7 +41426,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	doublade: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41462,7 +41462,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	aegislash: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41502,7 +41502,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		swordsdance: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	spritzee: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -41547,7 +41547,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		thunderbolt: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	aromatisse: {learnset: {
 		disable: ["3L1"],
 		flash: ["3L1"],
@@ -41593,7 +41593,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
-	},
+	}},
 	swirlix: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -41639,7 +41639,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	slurpuff: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -41686,7 +41686,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	inkay: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -41740,7 +41740,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderbolt: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	malamar: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -41795,7 +41795,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderbolt: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	binacle: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41857,7 +41857,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		watergun: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	barbaracle: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -41926,7 +41926,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	skrelp: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -41968,7 +41968,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	dragalge: {learnset: {
 		dive: ["3L1"],
 		secretpower: ["3L1"],
@@ -42011,7 +42011,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	clauncher: {learnset: {
 		cut: ["3L1"],
 		dive: ["3L1"],
@@ -42051,7 +42051,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	clawitzer: {learnset: {
 		cut: ["3L1"],
 		dive: ["3L1"],
@@ -42092,7 +42092,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
-	},
+	}},
 	helioptile: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -42136,7 +42136,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	heliolisk: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -42188,7 +42188,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	tyrunt: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42235,7 +42235,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		thrash: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	tyrantrum: {learnset: {
 		dig: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42280,7 +42280,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		thrash: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	amaura: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42333,7 +42333,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	aurorus: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42386,7 +42386,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	sylveon: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -42439,7 +42439,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		takedown: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	hawlucha: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42500,7 +42500,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	dedenne: {learnset: {
 		cut: ["3L1"],
 		dig: ["3L1"],
@@ -42539,7 +42539,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	carbink: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -42578,7 +42578,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	goomy: {learnset: {
 		secretpower: ["3L1"],
 		acidarmor: ["3L1"],
@@ -42618,7 +42618,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	sliggoo: {learnset: {
 		secretpower: ["3L1"],
 		bide: ["3L1"],
@@ -42657,7 +42657,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	goodra: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -42714,7 +42714,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	klefki: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -42753,7 +42753,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	phantump: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42805,7 +42805,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	trevenant: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42859,7 +42859,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	pumpkaboo: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42911,7 +42911,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	gourgeist: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -42961,7 +42961,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	bergmite: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -43008,7 +43008,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		tackle: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	avalugg: {learnset: {
 		flash: ["3L1"],
 		rocksmash: ["3L1"],
@@ -43060,7 +43060,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		tackle: ["3L1"],
 		takedown: ["3L1"],
-	},
+	}},
 	noibat: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -43112,7 +43112,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	noivern: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -43169,7 +43169,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		whirlwind: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	xerneas: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -43210,7 +43210,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	yveltal: {learnset: {
 		cut: ["3L1"],
 		secretpower: ["3L1"],
@@ -43247,7 +43247,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	zygarde: {learnset: {
 		rocksmash: ["3L1"],
 		secretpower: ["3L1"],
@@ -43289,7 +43289,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		swagger: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	diancie: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -43331,7 +43331,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	hoopa: {learnset: {
 		flash: ["3L1"],
 		secretpower: ["3L1"],
@@ -43384,7 +43384,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	volcanion: {learnset: {
 		cut: ["3L1"],
 		rocksmash: ["3L1"],
@@ -43426,7 +43426,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	rowlet: {learnset: {
 		covet: ["3L1"],
 		curse: ["3L1"],
@@ -43469,7 +43469,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	dartrix: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -43508,7 +43508,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	decidueye: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -43552,7 +43552,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	litten: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -43599,7 +43599,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	torracat: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -43645,7 +43645,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	incineroar: {learnset: {
 		bind: ["3L1"],
 		blastburn: ["3L1"],
@@ -43709,7 +43709,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		thunderpunch: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	popplio: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -43751,7 +43751,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	brionne: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -43792,7 +43792,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	primarina: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -43844,7 +43844,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	pikipek: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -43880,7 +43880,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	trumbeak: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -43916,7 +43916,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	toucannon: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -43953,7 +43953,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	yungoos: {learnset: {
 		attract: ["3L1"],
 		bide: ["3L1"],
@@ -43994,7 +43994,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	gumshoos: {learnset: {
 		attract: ["3L1"],
 		bide: ["3L1"],
@@ -44039,7 +44039,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	gumshoostotem: {learnset: {
 		attract: ["3L1"],
 		bide: ["3L1"],
@@ -44084,7 +44084,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	grubbin: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -44115,7 +44115,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		visegrip: ["3L1"],
-	},
+	}},
 	charjabug: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -44147,7 +44147,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		visegrip: ["3L1"],
-	},
+	}},
 	vikavolt: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -44187,7 +44187,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		visegrip: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	vikavolttotem: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -44222,7 +44222,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		visegrip: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	crabrawler: {learnset: {
 		amnesia: ["3L1"],
 		attract: ["3L1"],
@@ -44261,7 +44261,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	crabominable: {learnset: {
 		attract: ["3L1"],
 		blizzard: ["3L1"],
@@ -44303,7 +44303,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	oricorio: {learnset: {
 		aerialace: ["3L1"],
 		agility: ["3L1"],
@@ -44341,7 +44341,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		teeterdance: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	cutiefly: {learnset: {
 		aerialace: ["3L1"],
 		covet: ["3L1"],
@@ -44383,7 +44383,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		thief: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	ribombee: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44429,7 +44429,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		thief: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	ribombeetotem: {learnset: {
 		absorb: ["3L1"],
 		aerialace: ["3L1"],
@@ -44467,7 +44467,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	rockruff: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -44502,7 +44502,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	lycanroc: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -44539,7 +44539,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		taunt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	lycanrocmidnight: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -44582,7 +44582,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	lycanrocdusk: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -44621,7 +44621,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	wishiwashi: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44662,7 +44662,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	mareanie: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44707,7 +44707,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		swallow: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	toxapex: {learnset: {
 		block: ["3L1"],
 		covet: ["3L1"],
@@ -44750,7 +44750,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		surf: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	mudbray: {learnset: {
 		bide: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44789,7 +44789,7 @@ let BattleLearnsets = {
 		strength: ["3L1"],
 		substitute: ["3L1"],
 		superpower: ["3L1"],
-	},
+	}},
 	mudsdale: {learnset: {
 		bide: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44829,7 +44829,7 @@ let BattleLearnsets = {
 		strength: ["3L1"],
 		substitute: ["3L1"],
 		superpower: ["3L1"],
-	},
+	}},
 	dewpider: {learnset: {
 		aurorabeam: ["3L1"],
 		bubble: ["3L1"],
@@ -44869,7 +44869,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	araquanid: {learnset: {
 		bubble: ["3L1"],
 		doubleteam: ["3L1"],
@@ -44909,7 +44909,7 @@ let BattleLearnsets = {
 		surf: ["3L1"],
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	araquanidtotem: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -44944,7 +44944,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	fomantis: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -44978,7 +44978,7 @@ let BattleLearnsets = {
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	lurantis: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -45015,7 +45015,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	lurantistotem: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -45052,7 +45052,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	morelull: {learnset: {
 		doubleteam: ["3L1"],
 		flash: ["3L1"],
@@ -45095,7 +45095,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		sunnyday: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	shiinotic: {learnset: {
 		doubleteam: ["3L1"],
 		flash: ["3L1"],
@@ -45137,7 +45137,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		thunderwave: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	salandit: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -45184,7 +45184,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	salazzle: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -45234,7 +45234,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	salazzletotem: {learnset: {
 		attract: ["3L1"],
 		covet: ["3L1"],
@@ -45274,7 +45274,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	stufful: {learnset: {
 		aerialace: ["3L1"],
 		bide: ["3L1"],
@@ -45320,7 +45320,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	bewear: {learnset: {
 		aerialace: ["3L1"],
 		bide: ["3L1"],
@@ -45369,7 +45369,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thrash: ["3L1"],
 		thunderpunch: ["3L1"],
-	},
+	}},
 	bounsweet: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -45407,7 +45407,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
 		teeterdance: ["3L1"],
-	},
+	}},
 	steenee: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -45447,7 +45447,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		sweetscent: ["3L1"],
 		teeterdance: ["3L1"],
-	},
+	}},
 	tsareena: {learnset: {
 		covet: ["3L1"],
 		doubleslap: ["3L1"],
@@ -45492,7 +45492,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		taunt: ["3L1"],
 		teeterdance: ["3L1"],
-	},
+	}},
 	comfey: {learnset: {
 		amnesia: ["3L1"],
 		aromatherapy: ["3L1"],
@@ -45538,7 +45538,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	oranguru: {learnset: {
 		block: ["3L1"],
 		covet: ["3L1"],
@@ -45589,7 +45589,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		trick: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	passimian: {learnset: {
 		aerialace: ["3L1"],
 		block: ["3L1"],
@@ -45643,7 +45643,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		uproar: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	wimpod: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -45674,7 +45674,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		waterfall: ["3L1"],
-	},
+	}},
 	golisopod: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -45727,7 +45727,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		waterfall: ["3L1"],
-	},
+	}},
 	sandygast: {learnset: {
 		absorb: ["3L1"],
 		amnesia: ["3L1"],
@@ -45771,7 +45771,7 @@ let BattleLearnsets = {
 		swallow: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	palossand: {learnset: {
 		absorb: ["3L1"],
 		astonish: ["3L1"],
@@ -45809,7 +45809,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	pyukumuku: {learnset: {
 		bide: ["3L1"],
 		block: ["3L1"],
@@ -45844,7 +45844,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		tickle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	typenull: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -45886,7 +45886,7 @@ let BattleLearnsets = {
 		takedown: ["3L1"],
 		thunderwave: ["3L1"],
 		triattack: ["3L1"],
-	},
+	}},
 	silvally: {learnset: {
 		doubleteam: ["3L1"],
 		frustration: ["3L1"],
@@ -45943,7 +45943,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		triattack: ["3L1"],
-	},
+	}},
 	minior: {learnset: {
 		ancientpower: ["3L1"],
 		attract: ["3L1"],
@@ -45982,7 +45982,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	komala: {learnset: {
 		attract: ["3L1"],
 		brickbreak: ["3L1"],
@@ -46020,7 +46020,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	turtonator: {learnset: {
 		block: ["3L1"],
 		doubleteam: ["3L1"],
@@ -46070,7 +46070,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	togedemaru: {learnset: {
 		covet: ["3L1"],
 		doubleteam: ["3L1"],
@@ -46117,7 +46117,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		tickle: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	togedemarutotem: {learnset: {
 		attract: ["3L1"],
 		bounce: ["3L1"],
@@ -46152,7 +46152,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	mimikyu: {learnset: {
 		covet: ["3L1"],
 		dreameater: ["3L1"],
@@ -46203,7 +46203,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	mimikyutotem: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -46247,7 +46247,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	bruxish: {learnset: {
 		aerialace: ["3L1"],
 		astonish: ["3L1"],
@@ -46295,7 +46295,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	drampa: {learnset: {
 		block: ["3L1"],
 		doubleteam: ["3L1"],
@@ -46358,7 +46358,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		twister: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	dhelmise: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -46406,7 +46406,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	jangmoo: {learnset: {
 		aerialace: ["3L1"],
 		bide: ["3L1"],
@@ -46451,7 +46451,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	hakamoo: {learnset: {
 		aerialace: ["3L1"],
 		bide: ["3L1"],
@@ -46496,7 +46496,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	kommoo: {learnset: {
 		aerialace: ["3L1"],
 		bide: ["3L1"],
@@ -46554,7 +46554,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thunderpunch: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	kommoototem: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -46607,7 +46607,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	tapukoko: {learnset: {
 		aerialace: ["3L1"],
 		agility: ["3L1"],
@@ -46653,7 +46653,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	tapulele: {learnset: {
 		aromatherapy: ["3L1"],
 		astonish: ["3L1"],
@@ -46695,7 +46695,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	tapubulu: {learnset: {
 		brickbreak: ["3L1"],
 		bulkup: ["3L1"],
@@ -46739,7 +46739,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	tapufini: {learnset: {
 		blizzard: ["3L1"],
 		calmmind: ["3L1"],
@@ -46783,15 +46783,15 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	cosmog: {learnset: {
 		splash: ["3L1"],
 		teleport: ["3L1"],
-	},
+	}},
 	cosmoem: {learnset: {
 		cosmicpower: ["3L1"],
 		teleport: ["3L1"],
-	},
+	}},
 	solgaleo: {learnset: {
 		doubleteam: ["3L1"],
 		endeavor: ["3L1"],
@@ -46844,7 +46844,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	lunala: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -46899,7 +46899,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		trick: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	nihilego: {learnset: {
 		acid: ["3L1"],
 		bind: ["3L1"],
@@ -46935,7 +46935,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		tickle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	buzzwole: {learnset: {
 		bounce: ["3L1"],
 		brickbreak: ["3L1"],
@@ -46973,7 +46973,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		toxic: ["3L1"],
 		vitalthrow: ["3L1"],
-	},
+	}},
 	pheromosa: {learnset: {
 		agility: ["3L1"],
 		blizzard: ["3L1"],
@@ -47012,7 +47012,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		triplekick: ["3L1"],
-	},
+	}},
 	xurkitree: {learnset: {
 		bind: ["3L1"],
 		calmmind: ["3L1"],
@@ -47050,7 +47050,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		wrap: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	celesteela: {learnset: {
 		absorb: ["3L1"],
 		block: ["3L1"],
@@ -47086,7 +47086,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		tackle: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	kartana: {learnset: {
 		aerialace: ["3L1"],
 		aircutter: ["3L1"],
@@ -47115,7 +47115,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		synthesis: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	guzzlord: {learnset: {
 		bite: ["3L1"],
 		brickbreak: ["3L1"],
@@ -47151,7 +47151,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thrash: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	necrozma: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -47199,13 +47199,13 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		thief: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	necrozmaduskmane: {learnset: {
-	},
+	}},
 	necrozmadawnwings: {learnset: {
-	},
+	}},
 	necrozmaultra: {learnset: {
-	},
+	}},
 	magearna: {learnset: {
 		aurorabeam: ["3L1"],
 		brickbreak: ["3L1"],
@@ -47238,7 +47238,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	magearnaoriginal: {learnset: {
 		aurorabeam: ["3L1"],
 		brickbreak: ["3L1"],
@@ -47271,7 +47271,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	marshadow: {learnset: {
 		doubleteam: ["3L1"],
 		focuspunch: ["3L1"],
@@ -47321,7 +47321,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		thunderpunch: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	poipole: {learnset: {
 		acid: ["3L1"],
 		charm: ["3L1"],
@@ -47345,7 +47345,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	naganadel: {learnset: {
 		acid: ["3L1"],
 		aerialace: ["3L1"],
@@ -47383,7 +47383,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	stakataka: {learnset: {
 		bide: ["3L1"],
 		bind: ["3L1"],
@@ -47416,7 +47416,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	blacephalon: {learnset: {
 		astonish: ["3L1"],
 		calmmind: ["3L1"],
@@ -47455,7 +47455,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		uproar: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	zeraora: {learnset: {
 		aerialace: ["3L1"],
 		doubleteam: ["3L1"],
@@ -47508,7 +47508,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderpunch: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	meltan: {learnset: {
 		toxic: ["3L1"],
 		acidarmor: ["3L1"],
@@ -47526,7 +47526,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	melmetal: {learnset: {
 		earthquake: ["3L1"],
 		toxic: ["3L1"],
@@ -47560,7 +47560,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	grookey: {learnset: {
 		attract: ["3L1"],
 		endeavor: ["3L1"],
@@ -47595,7 +47595,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	thwackey: {learnset: {
 		attract: ["3L1"],
 		endeavor: ["3L1"],
@@ -47625,7 +47625,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rillaboom: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -47666,7 +47666,7 @@ let BattleLearnsets = {
 		swordsdance: ["3L1"],
 		taunt: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	scorbunny: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47703,7 +47703,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	raboot: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47738,7 +47738,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	cinderace: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47780,7 +47780,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	sobble: {learnset: {
 		attract: ["3L1"],
 		batonpass: ["3L1"],
@@ -47811,7 +47811,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	drizzile: {learnset: {
 		attract: ["3L1"],
 		batonpass: ["3L1"],
@@ -47839,7 +47839,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	inteleon: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47880,7 +47880,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	skwovet: {learnset: {
 		amnesia: ["3L1"],
 		attract: ["3L1"],
@@ -47911,7 +47911,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	greedent: {learnset: {
 		amnesia: ["3L1"],
 		attract: ["3L1"],
@@ -47944,7 +47944,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		thief: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rookidee: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47973,7 +47973,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	corvisquire: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -47998,7 +47998,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	corviknight: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48032,11 +48032,11 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		taunt: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	blipbug: {learnset: {
 		recover: ["3L1"],
 		supersonic: ["3L1"],
-	},
+	}},
 	dottler: {learnset: {
 		attract: ["3L1"],
 		calmmind: ["3L1"],
@@ -48061,7 +48061,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	orbeetle: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48095,7 +48095,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	nickit: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48120,7 +48120,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		thief: ["3L1"],
 		torment: ["3L1"],
-	},
+	}},
 	thievul: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48146,7 +48146,7 @@ let BattleLearnsets = {
 		tailwhip: ["3L1"],
 		taunt: ["3L1"],
 		thief: ["3L1"],
-	},
+	}},
 	gossifleur: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -48176,7 +48176,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
-	},
+	}},
 	eldegoss: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -48204,7 +48204,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		synthesis: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	wooloo: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48227,7 +48227,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	dubwool: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48253,7 +48253,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		takedown: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	chewtle: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -48277,7 +48277,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	drednaw: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -48320,7 +48320,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	yamper: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -48348,7 +48348,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	boltund: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48378,7 +48378,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	rolycoly: {learnset: {
 		ancientpower: ["3L1"],
 		attract: ["3L1"],
@@ -48406,7 +48406,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		tackle: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	carkol: {learnset: {
 		ancientpower: ["3L1"],
 		attract: ["3L1"],
@@ -48436,7 +48436,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		tackle: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	coalossal: {learnset: {
 		ancientpower: ["3L1"],
 		attract: ["3L1"],
@@ -48473,7 +48473,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		tackle: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	applin: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -48481,7 +48481,7 @@ let BattleLearnsets = {
 		recycle: ["3L1"],
 		rollout: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	flapple: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -48510,7 +48510,7 @@ let BattleLearnsets = {
 		twister: ["3L1"],
 		wingattack: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	appletun: {learnset: {
 		amnesia: ["3L1"],
 		astonish: ["3L1"],
@@ -48544,7 +48544,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		sweetscent: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	silicobra: {learnset: {
 		attract: ["3L1"],
 		dig: ["3L1"],
@@ -48568,7 +48568,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	sandaconda: {learnset: {
 		attract: ["3L1"],
 		dig: ["3L1"],
@@ -48597,7 +48597,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	cramorant: {learnset: {
 		aerialace: ["3L1"],
 		agility: ["3L1"],
@@ -48635,7 +48635,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	arrokuda: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48661,7 +48661,7 @@ let BattleLearnsets = {
 		thrash: ["3L1"],
 		waterfall: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	barraskewda: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -48689,7 +48689,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		waterfall: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	toxel: {learnset: {
 		acid: ["3L1"],
 		attract: ["3L1"],
@@ -48705,7 +48705,7 @@ let BattleLearnsets = {
 		sleeptalk: ["3L1"],
 		snore: ["3L1"],
 		substitute: ["3L1"],
-	},
+	}},
 	toxtricity: {learnset: {
 		acid: ["3L1"],
 		attract: ["3L1"],
@@ -48741,7 +48741,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	toxtricitylowkey: {learnset: {
 		acid: ["3L1"],
 		attract: ["3L1"],
@@ -48777,7 +48777,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	sizzlipede: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -48801,7 +48801,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		sunnyday: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	centiskorch: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -48828,7 +48828,7 @@ let BattleLearnsets = {
 		sunnyday: ["3L1"],
 		willowisp: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	clobbopus: {learnset: {
 		attract: ["3L1"],
 		bind: ["3L1"],
@@ -48858,7 +48858,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		taunt: ["3L1"],
 		waterfall: ["3L1"],
-	},
+	}},
 	grapploct: {learnset: {
 		attract: ["3L1"],
 		bind: ["3L1"],
@@ -48893,7 +48893,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		waterfall: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	sinistea: {learnset: {
 		aromatherapy: ["3L1"],
 		astonish: ["3L1"],
@@ -48915,7 +48915,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		willowisp: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	polteageist: {learnset: {
 		aromatherapy: ["3L1"],
 		astonish: ["3L1"],
@@ -48942,7 +48942,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		willowisp: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	hatenna: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -48967,7 +48967,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	hattrem: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -48992,7 +48992,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	hatterene: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -49021,7 +49021,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swordsdance: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	impidimp: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -49048,7 +49048,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	morgrem: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -49077,7 +49077,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	grimmsnarl: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -49117,7 +49117,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		trick: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	milcery: {learnset: {
 		acidarmor: ["3L1"],
 		aromatherapy: ["3L1"],
@@ -49135,7 +49135,7 @@ let BattleLearnsets = {
 		sweetkiss: ["3L1"],
 		sweetscent: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	alcremie: {learnset: {
 		acidarmor: ["3L1"],
 		aromatherapy: ["3L1"],
@@ -49166,7 +49166,7 @@ let BattleLearnsets = {
 		sweetscent: ["3L1"],
 		tackle: ["3L1"],
 		triattack: ["3L1"],
-	},
+	}},
 	falinks: {learnset: {
 		agility: ["3L1"],
 		beatup: ["3L1"],
@@ -49196,7 +49196,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		swordsdance: ["3L1"],
 		tackle: ["3L1"],
-	},
+	}},
 	pincurchin: {learnset: {
 		attract: ["3L1"],
 		bubblebeam: ["3L1"],
@@ -49227,7 +49227,7 @@ let BattleLearnsets = {
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
 		watergun: ["3L1"],
-	},
+	}},
 	snom: {learnset: {
 		attract: ["3L1"],
 		endure: ["3L1"],
@@ -49241,7 +49241,7 @@ let BattleLearnsets = {
 		sleeptalk: ["3L1"],
 		snore: ["3L1"],
 		substitute: ["3L1"],
-	},
+	}},
 	frosmoth: {learnset: {
 		attract: ["3L1"],
 		aurorabeam: ["3L1"],
@@ -49271,7 +49271,7 @@ let BattleLearnsets = {
 		stunspore: ["3L1"],
 		substitute: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	stonjourner: {learnset: {
 		ancientpower: ["3L1"],
 		attract: ["3L1"],
@@ -49300,7 +49300,7 @@ let BattleLearnsets = {
 		stomp: ["3L1"],
 		substitute: ["3L1"],
 		superpower: ["3L1"],
-	},
+	}},
 	eiscue: {learnset: {
 		agility: ["3L1"],
 		amnesia: ["3L1"],
@@ -49333,7 +49333,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		weatherball: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	indeedee: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -49362,7 +49362,7 @@ let BattleLearnsets = {
 		swift: ["3L1"],
 		triattack: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	indeedeef: {learnset: {
 		aromatherapy: ["3L1"],
 		attract: ["3L1"],
@@ -49393,7 +49393,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swift: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	morpeko: {learnset: {
 		agility: ["3L1"],
 		attract: ["3L1"],
@@ -49434,7 +49434,7 @@ let BattleLearnsets = {
 		tickle: ["3L1"],
 		torment: ["3L1"],
 		uproar: ["3L1"],
-	},
+	}},
 	cufant: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -49468,7 +49468,7 @@ let BattleLearnsets = {
 		swagger: ["3L1"],
 		tackle: ["3L1"],
 		whirlwind: ["3L1"],
-	},
+	}},
 	copperajah: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -49501,7 +49501,7 @@ let BattleLearnsets = {
 		superpower: ["3L1"],
 		tackle: ["3L1"],
 		taunt: ["3L1"],
-	},
+	}},
 	dracozolt: {learnset: {
 		aerialace: ["3L1"],
 		ancientpower: ["3L1"],
@@ -49539,7 +49539,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	arctozolt: {learnset: {
 		ancientpower: ["3L1"],
 		blizzard: ["3L1"],
@@ -49576,7 +49576,7 @@ let BattleLearnsets = {
 		thunderpunch: ["3L1"],
 		thundershock: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	dracovish: {learnset: {
 		ancientpower: ["3L1"],
 		bite: ["3L1"],
@@ -49609,7 +49609,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	arctovish: {learnset: {
 		ancientpower: ["3L1"],
 		bite: ["3L1"],
@@ -49641,7 +49641,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		watergun: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	duraludon: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -49674,7 +49674,7 @@ let BattleLearnsets = {
 		thunder: ["3L1"],
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	dreepy: {learnset: {
 		astonish: ["3L1"],
 		attract: ["3L1"],
@@ -49696,7 +49696,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swift: ["3L1"],
 		thunderwave: ["3L1"],
-	},
+	}},
 	drakloak: {learnset: {
 		agility: ["3L1"],
 		astonish: ["3L1"],
@@ -49731,7 +49731,7 @@ let BattleLearnsets = {
 		thunderbolt: ["3L1"],
 		thunderwave: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	dragapult: {learnset: {
 		agility: ["3L1"],
 		astonish: ["3L1"],
@@ -49775,7 +49775,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		triattack: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	zacian: {learnset: {
 		agility: ["3L1"],
 		bite: ["3L1"],
@@ -49805,7 +49805,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	zaciancrowned: {learnset: {
 		agility: ["3L1"],
 		bite: ["3L1"],
@@ -49835,7 +49835,7 @@ let BattleLearnsets = {
 		substitute: ["3L1"],
 		swift: ["3L1"],
 		swordsdance: ["3L1"],
-	},
+	}},
 	zamazenta: {learnset: {
 		agility: ["3L1"],
 		bite: ["3L1"],
@@ -49867,7 +49867,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		swift: ["3L1"],
-	},
+	}},
 	zamazentacrowned: {learnset: {
 		agility: ["3L1"],
 		bite: ["3L1"],
@@ -49899,7 +49899,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		swift: ["3L1"],
-	},
+	}},
 	eternatus: {learnset: {
 		agility: ["3L1"],
 		confuseray: ["3L1"],
@@ -49925,7 +49925,7 @@ let BattleLearnsets = {
 		solarbeam: ["3L1"],
 		substitute: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	tomohawk: {learnset: {
 		reflect: ["3L1"],
 		flash: ["3L1"],
@@ -49981,7 +49981,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	necturna: {learnset: {
 		flash: ["3L1"],
 		attract: ["3L1"],
@@ -50028,7 +50028,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	mollux: {learnset: {
 		flash: ["3L1"],
 		acid: ["3L1"],
@@ -50080,7 +50080,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		willowisp: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	aurumoth: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -50140,7 +50140,7 @@ let BattleLearnsets = {
 		willowisp: ["3L1"],
 		wingattack: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	malaconda: {learnset: {
 		cut: ["3L1"],
 		strength: ["3L1"],
@@ -50191,7 +50191,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	cawmodore: {learnset: {
 		rocksmash: ["3L1"],
 		strength: ["3L1"],
@@ -50240,7 +50240,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		watersport: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	volkraken: {learnset: {
 		dive: ["3L1"],
 		absorb: ["3L1"],
@@ -50288,7 +50288,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	plasmanta: {learnset: {
 		cut: ["3L1"],
 		acid: ["3L1"],
@@ -50326,7 +50326,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	naviathan: {learnset: {
 		icepunch: ["3L1"],
 		icywind: ["3L1"],
@@ -50382,7 +50382,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	crucibelle: {learnset: {
 		block: ["3L1"],
 		helpinghand: ["3L1"],
@@ -50429,7 +50429,7 @@ let BattleLearnsets = {
 		torment: ["3L1"],
 		toxic: ["3L1"],
 		withdraw: ["3L1"],
-	},
+	}},
 	kerfluffle: {learnset: {
 		fly: ["3L1"],
 		gigadrain: ["3L1"],
@@ -50470,7 +50470,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	pajantom: {learnset: {
 		aerialace: ["3L1"],
 		astonish: ["3L1"],
@@ -50516,7 +50516,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlpool: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	jumbao: {learnset: {
 		attract: ["3L1"],
 		block: ["3L1"],
@@ -50557,7 +50557,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	caribolt: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -50609,7 +50609,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	smokomodo: {learnset: {
 		attract: ["3L1"],
 		blastburn: ["3L1"],
@@ -50664,7 +50664,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	snaelstrom: {learnset: {
 		acidarmor: ["3L1"],
 		attract: ["3L1"],
@@ -50707,7 +50707,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	equilibra: {learnset: {
 		destinybond: ["3L1"],
 		doomdesire: ["3L1"],
@@ -50744,7 +50744,7 @@ let BattleLearnsets = {
 		snore: ["3L1"],
 		substitute: ["3L1"],
 		swagger: ["3L1"],
-	},
+	}},
 	syclant: {learnset: {
 		counter: ["3L1"],
 		cut: ["3L1"],
@@ -50798,7 +50798,7 @@ let BattleLearnsets = {
 		tailglow: ["3L1"],
 		taunt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	revenankh: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -50861,7 +50861,7 @@ let BattleLearnsets = {
 		trick: ["3L1"],
 		willowisp: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	pyroak: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -50926,7 +50926,7 @@ let BattleLearnsets = {
 		watersport: ["3L1"],
 		willowisp: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	fidgit: {learnset: {
 		endure: ["3L1"],
 		mudslap: ["3L1"],
@@ -50986,7 +50986,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	stratagem: {learnset: {
 		cut: ["3L1"],
 		endure: ["3L1"],
@@ -51037,7 +51037,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		trick: ["3L1"],
 		weatherball: ["3L1"],
-	},
+	}},
 	arghonaut: {learnset: {
 		cut: ["3L1"],
 		dive: ["3L1"],
@@ -51100,7 +51100,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	kitsunoh: {learnset: {
 		furycutter: ["3L1"],
 		headbutt: ["3L1"],
@@ -51168,7 +51168,7 @@ let BattleLearnsets = {
 		willowisp: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	cyclohm: {learnset: {
 		endure: ["3L1"],
 		flash: ["3L1"],
@@ -51235,7 +51235,7 @@ let BattleLearnsets = {
 		weatherball: ["3L1"],
 		whirlwind: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	colossoil: {learnset: {
 		ancientpower: ["3L1"],
 		dig: ["3L1"],
@@ -51299,7 +51299,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		torment: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	krilowatt: {learnset: {
 		endure: ["3L1"],
 		flash: ["3L1"],
@@ -51358,7 +51358,7 @@ let BattleLearnsets = {
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	voodoom: {learnset: {
 		endure: ["3L1"],
 		mimic: ["3L1"],
@@ -51423,7 +51423,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	syclar: {learnset: {
 		cut: ["3L1"],
 		doubleedge: ["3L1"],
@@ -51471,7 +51471,7 @@ let BattleLearnsets = {
 		tailglow: ["3L1"],
 		taunt: ["3L1"],
 		toxic: ["3L1"],
-	},
+	}},
 	embirch: {learnset: {
 		endure: ["3L1"],
 		flash: ["3L1"],
@@ -51532,7 +51532,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watersport: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	flarelm: {learnset: {
 		ancientpower: ["3L1"],
 		endure: ["3L1"],
@@ -51596,7 +51596,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watersport: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	breezi: {learnset: {
 		bodyslam: ["3L1"],
 		endure: ["3L1"],
@@ -51647,7 +51647,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		whirlwind: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	scratchet: {learnset: {
 		flash: ["3L1"],
 		strength: ["3L1"],
@@ -51693,7 +51693,7 @@ let BattleLearnsets = {
 		thief: ["3L1"],
 		toxic: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	necturine: {learnset: {
 		flash: ["3L1"],
 		attract: ["3L1"],
@@ -51737,7 +51737,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	cupra: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -51787,7 +51787,7 @@ let BattleLearnsets = {
 		willowisp: ["3L1"],
 		wingattack: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	argalis: {learnset: {
 		cut: ["3L1"],
 		flash: ["3L1"],
@@ -51841,7 +51841,7 @@ let BattleLearnsets = {
 		willowisp: ["3L1"],
 		wingattack: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	brattler: {learnset: {
 		cut: ["3L1"],
 		strength: ["3L1"],
@@ -51889,7 +51889,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		vinewhip: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	cawdet: {learnset: {
 		aerialace: ["3L1"],
 		attract: ["3L1"],
@@ -51934,7 +51934,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		watersport: ["3L1"],
 		wingattack: ["3L1"],
-	},
+	}},
 	volkritter: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -51975,7 +51975,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	snugglow: {learnset: {
 		acid: ["3L1"],
 		attract: ["3L1"],
@@ -52009,7 +52009,7 @@ let BattleLearnsets = {
 		thunderwave: ["3L1"],
 		toxic: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	floatoy: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -52059,7 +52059,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	caimanoe: {learnset: {
 		attract: ["3L1"],
 		bite: ["3L1"],
@@ -52114,7 +52114,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterpulse: ["3L1"],
 		whirlpool: ["3L1"],
-	},
+	}},
 	pluffle: {learnset: {
 		attract: ["3L1"],
 		charm: ["3L1"],
@@ -52145,7 +52145,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		wish: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	rebble: {learnset: {
 		cut: ["3L1"],
 		endure: ["3L1"],
@@ -52193,7 +52193,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	tactite: {learnset: {
 		cut: ["3L1"],
 		endure: ["3L1"],
@@ -52241,7 +52241,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		trick: ["3L1"],
-	},
+	}},
 	privatyke: {learnset: {
 		cut: ["3L1"],
 		dive: ["3L1"],
@@ -52303,7 +52303,7 @@ let BattleLearnsets = {
 		waterpulse: ["3L1"],
 		wrap: ["3L1"],
 		yawn: ["3L1"],
-	},
+	}},
 	voodoll: {learnset: {
 		endure: ["3L1"],
 		mimic: ["3L1"],
@@ -52358,7 +52358,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		wrap: ["3L1"],
-	},
+	}},
 	mumbao: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -52390,7 +52390,7 @@ let BattleLearnsets = {
 		tackle: ["3L1"],
 		toxic: ["3L1"],
 		wish: ["3L1"],
-	},
+	}},
 	fawnifer: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -52433,7 +52433,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	electrelk: {learnset: {
 		attract: ["3L1"],
 		bodyslam: ["3L1"],
@@ -52477,7 +52477,7 @@ let BattleLearnsets = {
 		toxic: ["3L1"],
 		uproar: ["3L1"],
 		zapcannon: ["3L1"],
-	},
+	}},
 	smogecko: {learnset: {
 		attract: ["3L1"],
 		bonerush: ["3L1"],
@@ -52523,7 +52523,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	smoguana: {learnset: {
 		attract: ["3L1"],
 		brickbreak: ["3L1"],
@@ -52566,7 +52566,7 @@ let BattleLearnsets = {
 		taunt: ["3L1"],
 		toxic: ["3L1"],
 		willowisp: ["3L1"],
-	},
+	}},
 	swirlpool: {learnset: {
 		acidarmor: ["3L1"],
 		attract: ["3L1"],
@@ -52606,7 +52606,7 @@ let BattleLearnsets = {
 		watergun: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 	coribalis: {learnset: {
 		blizzard: ["3L1"],
 		block: ["3L1"],
@@ -52644,7 +52644,7 @@ let BattleLearnsets = {
 		uproar: ["3L1"],
 		waterfall: ["3L1"],
 		waterpulse: ["3L1"],
-	},
+	}},
 };
 
 exports.BattleLearnsets = BattleLearnsets;
