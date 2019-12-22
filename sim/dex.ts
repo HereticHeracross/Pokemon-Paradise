@@ -431,6 +431,10 @@ export class ModdedDex {
 				);
 				if (!isLetsGo) template.isNonstandard = 'Past';
 			}
+		} else {
+			template = new Data.Template({
+				id, name, exists: false, tier: 'H', doublesTier: 'Illegal', isNonstandard: 'Custom',
+			});
 		}
 		if (template.exists) this.templateCache.set(id, template);
 		return template;
