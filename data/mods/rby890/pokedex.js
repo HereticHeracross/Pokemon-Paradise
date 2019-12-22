@@ -733,6 +733,19 @@ let BattlePokedex = {
 		evos: ["persian"],
 		eggGroups: ["Field"],
 	},
+	meowthgalar: {
+		num: 52,
+		species: "Meowth-Galar",
+		types: ["Rock"],
+		gender: "N",
+		baseStats: {hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90},
+		abilities: {},
+		heightm: 0.4,
+		weightkg: 4.2,
+		color: "Yellow",
+		evos: ["Perrserker"],
+		eggGroups: ["Field"],
+	},
 	persian: {
 		num: 53,
 		species: "Persian",
@@ -7334,7 +7347,7 @@ let BattlePokedex = {
 	grimmsnarl: {
 		num: -710,
 		species: "Grimmsnarl",
-		types: ["Normal","Normal"],
+		types: ["Normal"],
 		baseStats: {"hp":95,"atk":120,"def":65,"spa":85,"spd":85,"spe":60},
 		abilities: {"0":"Prankster","1":"Frisk","H":"Pickpocket"},
 	},
