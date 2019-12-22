@@ -405,25 +405,24 @@ export class ModdedDex {
 			}
 			if (!template.tier && !template.doublesTier && template.baseSpecies !== template.species) {
 				if (template.baseSpecies === 'Mimikyu') {
-					template.tier = this.data.FormatsData[toID(template.baseSpecies)].tier || 'H';
-					template.doublesTier = this.data.FormatsData[toID(template.baseSpecies)].doublesTier || 'H';
+					template.tier = this.data.FormatsData[toID(template.baseSpecies)].tier || 'Illegal';
+					template.doublesTier = this.data.FormatsData[toID(template.baseSpecies)].doublesTier || 'Illegal';
 				} else if (template.speciesid.endsWith('totem')) {
-					template.tier = this.data.FormatsData[template.speciesid.slice(0, -5)].tier || 'H';
-					template.doublesTier = this.data.FormatsData[template.speciesid.slice(0, -5)].doublesTier || 'H';
+					template.tier = this.data.FormatsData[template.speciesid.slice(0, -5)].tier || 'Illegal';
+					template.doublesTier = this.data.FormatsData[template.speciesid.slice(0, -5)].doublesTier || 'Illegal';
 				} else {
 					const baseFormatsData = this.data.FormatsData[toID(template.baseSpecies)];
 					if (!baseFormatsData) {
 						throw new Error(`${template.baseSpecies} has no formats-data entry`);
 					}
-					template.tier = baseFormatsData.tier || 'H';
-					template.doublesTier = baseFormatsData.doublesTier || 'H';
+					template.tier = baseFormatsData.tier || 'Illegal';
+					template.doublesTier = baseFormatsData.doublesTier || 'Illegal';
 				}
 			}
-			if (!template.tier) template.tier = 'H';
+			if (!template.tier) template.tier = 'Illegal';
 			if (!template.doublesTier) template.doublesTier = template.tier;
 			if (template.gen > this.gen) {
-				template.tier = 'H';
-				template.doublesTier = 'H';
+				template.doublesTier = 'Illegal';
 				template.isNonstandard = 'Future';
 			}
 			if (this.currentMod === 'letsgo' && !template.isNonstandard) {
@@ -435,7 +434,7 @@ export class ModdedDex {
 			}
 		} else {
 			template = new Data.Template({
-				id, name, exists: false, tier: 'H', doublesTier: 'H', isNonstandard: 'Custom',
+				id, name, exists: false, tier: 'Illegal', doublesTier: 'Illegal', isNonstandard: 'Custom',
 			});
 		}
 		if (template.exists) this.templateCache.set(id, template);
