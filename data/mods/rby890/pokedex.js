@@ -2059,6 +2059,7 @@ let BattlePokedex = {
 		weightkg: 4,
 		color: "Pink",
 		eggGroups: ["Undiscovered"],
+	},
 	rattataalola: {
 		num: -367,
 		species: "Rattata-Alola",
