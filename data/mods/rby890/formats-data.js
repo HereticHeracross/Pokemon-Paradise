@@ -8,6 +8,12 @@ let BattleFormatsData = {
 		exclusiveMoves: ["megadrain", "swordsdance", "swordsdance"],
 		tier: "LC",
 	},
+	steelix: {
+		randomBattleMoves: ["sleeppowder", "bodyslam"],
+		essentialMove: "razorleaf",
+		exclusiveMoves: ["megadrain", "swordsdance", "swordsdance"],
+		tier: "LC",
+	},
 	ivysaur: {
 		randomBattleMoves: ["sleeppowder", "swordsdance", "bodyslam"],
 		essentialMove: "razorleaf",
