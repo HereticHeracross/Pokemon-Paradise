@@ -423,7 +423,6 @@ let Formats = [
 
 		mod: 'rby890',
 		ruleset: ['Obtainable', 'Standard'],
-		banlist: ['Uber'],
 	},
 	{
 		name: "[Gen 3] RSE 890",
