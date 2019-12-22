@@ -405,7 +405,6 @@ export class ModdedDex {
 			}
 			if (!template.tier && !template.doublesTier && template.baseSpecies !== template.species) {
 				if (template.baseSpecies === 'Mimikyu') {
-					template.tier = this.data.FormatsData[toID(template.baseSpecies)].tier || 'Illegal';
 					template.doublesTier = this.data.FormatsData[toID(template.baseSpecies)].doublesTier || 'Illegal';
 				} else if (template.speciesid.endsWith('totem')) {
 					template.tier = this.data.FormatsData[template.speciesid.slice(0, -5)].tier || 'Illegal';
@@ -433,7 +432,7 @@ export class ModdedDex {
 			}
 		} else {
 			template = new Data.Template({
-				id, name, exists: false, tier: 'H', doublesTier: 'Illegal', isNonstandard: 'Custom',
+				id, name, exists: false, tier: 'Illegal', doublesTier: 'Illegal', isNonstandard: 'Custom',
 			});
 		}
 		if (template.exists) this.templateCache.set(id, template);
