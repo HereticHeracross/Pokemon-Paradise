@@ -2060,5649 +2060,5649 @@ let BattlePokedex = {
 		color: "Pink",
 		eggGroups: ["Undiscovered"],
 	},
-	rattataalola: {{
+	rattataalola: {
 		num: --367,
 		species: "Rattata-Alola",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":30,"atk":56,"def":35,"spa":43,"spd":43,"spe":72},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	raticatealola: {{
+	raticatealola: {
 		num: --366,
 		species: "Raticate-Alola",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":75,"atk":71,"def":70,"spa":80,"spd":80,"spe":77},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	raticatealolatotem: {{
+	raticatealolatotem: {
 		num: --366,
 		species: "Raticate-Alola-Totem",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":75,"atk":71,"def":70,"spa":80,"spd":80,"spe":77},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	pichu: {{
+	pichu: {
 		num: --214,
 		species: "Pichu",
 		types: ["Electric"],
 		baseStats: {"hp":20,"atk":40,"def":15,"spa":53,"spd":53,"spe":60},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	pichuspikyeared: {{
+	pichuspikyeared: {
 		num: --214,
 		species: "Pichu-Spiky-eared",
 		types: ["Electric"],
 		baseStats: {"hp":20,"atk":40,"def":15,"spa":53,"spd":53,"spe":60},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	pikachualola: {{
+	pikachualola: {
 		num: --361,
 		species: "Pikachu-Alola",
 		types: ["Electric"],
 		baseStats: {"hp":35,"atk":55,"def":40,"spa":75,"spd":75,"spe":90},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	raichualola: {{
+	raichualola: {
 		num: --360,
 		species: "Raichu-Alola",
 		types: ["Electric","Psychic"],
 		baseStats: {"hp":60,"atk":85,"def":50,"spa":138,"spd":138,"spe":110},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sandshrewalola: {{
+	sandshrewalola: {
 		num: --359,
 		species: "Sandshrew-Alola",
 		types: ["Ice","Rock"],
 		baseStats: {"hp":50,"atk":75,"def":90,"spa":28,"spd":28,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sandslashalola: {{
+	sandslashalola: {
 		num: --358,
 		species: "Sandslash-Alola",
 		types: ["Ice","Rock"],
 		baseStats: {"hp":75,"atk":100,"def":120,"spa":58,"spd":58,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cleffa: {{
+	cleffa: {
 		num: --213,
 		species: "Cleffa",
 		types: ["Normal"],
 		baseStats: {"hp":50,"atk":25,"def":28,"spa":73,"spd":73,"spe":15},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	vulpixalola: {{
+	vulpixalola: {
 		num: --349,
 		species: "Vulpix-Alola",
 		types: ["Ice"],
 		baseStats: {"hp":38,"atk":41,"def":40,"spa":83,"spd":83,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	ninetalesalola: {{
+	ninetalesalola: {
 		num: --348,
 		species: "Ninetales-Alola",
 		types: ["Ice","Normal"],
 		baseStats: {"hp":73,"atk":67,"def":75,"spa":131,"spd":131,"spe":109},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	igglybuff: {{
+	igglybuff: {
 		num: --212,
 		species: "Igglybuff",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":90,"atk":30,"def":15,"spa":50,"spd":50,"spe":15},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	crobat: {{
+	crobat: {
 		num: --217,
 		species: "Crobat",
 		types: ["Poison","Flying"],
 		baseStats: {"hp":85,"atk":90,"def":80,"spa":110,"spd":110,"spe":130},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	bellossom: {{
+	bellossom: {
 		num: --204,
 		species: "Bellossom",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":80,"def":95,"spa":140,"spd":140,"spe":50},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	diglettalola: {{
+	diglettalola: {
 		num: --336,
 		species: "Diglett-Alola",
 		types: ["Ground","Rock"],
 		baseStats: {"hp":10,"atk":55,"def":30,"spa":58,"spd":58,"spe":90},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	dugtrioalola: {{
+	dugtrioalola: {
 		num: --335,
 		species: "Dugtrio-Alola",
 		types: ["Ground","Rock"],
 		baseStats: {"hp":35,"atk":100,"def":60,"spa":85,"spd":85,"spe":110},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	meowthalola: {{
+	meowthalola: {
 		num: --334,
 		species: "Meowth-Alola",
 		types: ["Normal"],
 		baseStats: {"hp":40,"atk":35,"def":35,"spa":70,"spd":70,"spe":90},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	meowthgalar: {{
+	meowthgalar: {
 		num: --334,
 		species: "Meowth-Galar",
 		types: ["Rock"],
 		baseStats: {"hp":50,"atk":65,"def":55,"spa":60,"spd":60,"spe":40},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	persianalola: {{
+	persianalola: {
 		num: --333,
 		species: "Persian-Alola",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":60,"def":60,"spa":108,"spd":108,"spe":115},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	perrserker: {{
+	perrserker: {
 		num: -477,
 		species: "Perrserker",
 		types: ["Rock"],
 		baseStats: {"hp":70,"atk":110,"def":100,"spa":80,"spd":80,"spe":50},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	politoed: {{
+	politoed: {
 		num: --200,
 		species: "Politoed",
 		types: ["Water"],
 		baseStats: {"hp":90,"atk":75,"def":75,"spa":140,"spd":140,"spe":70},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	geodudealola: {{
+	geodudealola: {
 		num: --312,
 		species: "Geodude-Alola",
 		types: ["Rock","Electric"],
 		baseStats: {"hp":40,"atk":80,"def":100,"spa":45,"spd":45,"spe":20},
 		abilities: {"0":"Magnet Pull","1":"No Ability","H":"No Ability"},
 	},
-	graveleralola: {{
+	graveleralola: {
 		num: --311,
 		species: "Graveler-Alola",
 		types: ["Rock","Electric"],
 		baseStats: {"hp":55,"atk":95,"def":115,"spa":68,"spd":68,"spe":35},
 		abilities: {"0":"Magnet Pull","1":"No Ability","H":"No Ability"},
 	},
-	golemalola: {{
+	golemalola: {
 		num: --310,
 		species: "Golem-Alola",
 		types: ["Rock","Electric"],
 		baseStats: {"hp":80,"atk":120,"def":130,"spa":88,"spd":88,"spe":45},
 		abilities: {"0":"Magnet Pull","1":"No Ability","H":"No Ability"},
 	},
-	ponytagalar: {{
+	ponytagalar: {
 		num: --309,
 		species: "Ponyta-Galar",
 		types: ["Psychic"],
 		baseStats: {"hp":50,"atk":85,"def":55,"spa":98,"spd":98,"spe":90},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	rapidashgalar: {{
+	rapidashgalar: {
 		num: --308,
 		species: "Rapidash-Galar",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":65,"atk":100,"def":70,"spa":120,"spd":120,"spe":105},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	slowking: {{
+	slowking: {
 		num: --187,
 		species: "Slowking",
 		types: ["Water","Psychic"],
 		baseStats: {"hp":95,"atk":75,"def":80,"spa":155,"spd":155,"spe":30},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	magnezone: {{
+	magnezone: {
 		num: -76,
 		species: "Magnezone",
 		types: ["Electric","Rock"],
 		baseStats: {"hp":70,"atk":70,"def":115,"spa":175,"spd":175,"spe":60},
 		abilities: {"0":"Magnet Pull","1":"No Ability","H":"No Ability"},
 	},
-	farfetchdgalar: {{
+	farfetchdgalar: {
 		num: --303,
 		species: "Farfetch'd-Galar",
 		types: ["Fighting"],
 		baseStats: {"hp":52,"atk":95,"def":55,"spa":89,"spd":89,"spe":55},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sirfetchd: {{
+	sirfetchd: {
 		num: -479,
 		species: "Sirfetch'd",
 		types: ["Fighting"],
 		baseStats: {"hp":62,"atk":135,"def":95,"spa":109,"spd":109,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	grimeralola: {{
+	grimeralola: {
 		num: --298,
 		species: "Grimer-Alola",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":80,"atk":80,"def":50,"spa":65,"spd":65,"spe":25},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mukalola: {{
+	mukalola: {
 		num: --297,
 		species: "Muk-Alola",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":105,"atk":105,"def":75,"spa":115,"spd":115,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	steelix: {{
+	steelix: {
 		num: --178,
 		species: "Steelix",
 		types: ["Rock","Ground"],
 		baseStats: {"hp":75,"atk":85,"def":200,"spa":88,"spd":88,"spe":30},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 	},
-	exeggutoralola: {{
+	exeggutoralola: {
 		num: --283,
 		species: "Exeggutor-Alola",
 		types: ["Grass","Dragon"],
 		baseStats: {"hp":95,"atk":105,"def":85,"spa":163,"spd":163,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	marowakalola: {{
+	marowakalola: {
 		num: --281,
 		species: "Marowak-Alola",
 		types: ["Fire","Ghost"],
 		baseStats: {"hp":60,"atk":80,"def":110,"spa":90,"spd":90,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	marowakalolatotem: {{
+	marowakalolatotem: {
 		num: --281,
 		species: "Marowak-Alola-Totem",
 		types: ["Fire","Ghost"],
 		baseStats: {"hp":60,"atk":80,"def":110,"spa":90,"spd":90,"spe":45},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 	},
-	tyrogue: {{
+	tyrogue: {
 		num: --150,
 		species: "Tyrogue",
 		types: ["Fighting"],
 		baseStats: {"hp":35,"atk":35,"def":35,"spa":53,"spd":53,"spe":35},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	hitmontop: {{
+	hitmontop: {
 		num: --149,
 		species: "Hitmontop",
 		types: ["Fighting"],
 		baseStats: {"hp":50,"atk":95,"def":95,"spa":90,"spd":90,"spe":70},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	lickilicky: {{
+	lickilicky: {
 		num: -77,
 		species: "Lickilicky",
 		types: ["Normal"],
 		baseStats: {"hp":110,"atk":85,"def":95,"spa":128,"spd":128,"spe":50},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	weezinggalar: {{
+	weezinggalar: {
 		num: --276,
 		species: "Weezing-Galar",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":65,"atk":90,"def":120,"spa":120,"spd":120,"spe":60},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rhyperior: {{
+	rhyperior: {
 		num: -78,
 		species: "Rhyperior",
 		types: ["Ground","Rock"],
 		baseStats: {"hp":115,"atk":140,"def":130,"spa":83,"spd":83,"spe":40},
 		abilities: {"0":"Lightning Rod","1":"No Ability","H":"No Ability"},
 	},
-	happiny: {{
+	happiny: {
 		num: -54,
 		species: "Happiny",
 		types: ["Normal"],
 		baseStats: {"hp":100,"atk":5,"def":5,"spa":48,"spd":48,"spe":30},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	blissey: {{
+	blissey: {
 		num: --144,
 		species: "Blissey",
 		types: ["Normal"],
 		baseStats: {"hp":255,"atk":10,"def":10,"spa":143,"spd":143,"spe":55},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	tangrowth: {{
+	tangrowth: {
 		num: -79,
 		species: "Tangrowth",
 		types: ["Grass"],
 		baseStats: {"hp":100,"atk":100,"def":125,"spa":135,"spd":135,"spe":50},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	kingdra: {{
+	kingdra: {
 		num: --156,
 		species: "Kingdra",
 		types: ["Water","Dragon"],
 		baseStats: {"hp":75,"atk":95,"def":95,"spa":143,"spd":143,"spe":85},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	mimejr: {{
+	mimejr: {
 		num: -53,
 		species: "Mime Jr.",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":20,"atk":25,"def":45,"spa":115,"spd":115,"spe":60},
 		abilities: {"0":"Soundproof","1":"No Ability","H":"No Ability"},
 	},
-	mrmimegalar: {{
+	mrmimegalar: {
 		num: --264,
 		species: "Mr. Mime-Galar",
 		types: ["Ice","Psychic"],
 		baseStats: {"hp":50,"atk":65,"def":65,"spa":135,"spd":135,"spe":100},
 		abilities: {"0":"Vital Spirit","1":"No Ability","H":"No Ability"},
 	},
-	mrrime: {{
+	mrrime: {
 		num: -480,
 		species: "Mr. Rime",
 		types: ["Ice","Psychic"],
 		baseStats: {"hp":80,"atk":85,"def":75,"spa":160,"spd":160,"spe":70},
 		abilities: {"0":"Tangled Feet","1":"No Ability","H":"No Ability"},
 	},
-	scizor: {{
+	scizor: {
 		num: --174,
 		species: "Scizor",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":70,"atk":130,"def":100,"spa":95,"spd":95,"spe":65},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	smoochum: {{
+	smoochum: {
 		num: --148,
 		species: "Smoochum",
 		types: ["Ice","Psychic"],
 		baseStats: {"hp":45,"atk":30,"def":15,"spa":118,"spd":118,"spe":65},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	elekid: {{
+	elekid: {
 		num: --147,
 		species: "Elekid",
 		types: ["Electric"],
 		baseStats: {"hp":45,"atk":63,"def":37,"spa":93,"spd":93,"spe":95},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	electivire: {{
+	electivire: {
 		num: -80,
 		species: "Electivire",
 		types: ["Electric"],
 		baseStats: {"hp":75,"atk":123,"def":67,"spa":138,"spd":138,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	magby: {{
+	magby: {
 		num: --146,
 		species: "Magby",
 		types: ["Fire"],
 		baseStats: {"hp":45,"atk":75,"def":37,"spa":98,"spd":98,"spe":83},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	magmortar: {{
+	magmortar: {
 		num: -81,
 		species: "Magmortar",
 		types: ["Fire"],
 		baseStats: {"hp":75,"atk":95,"def":67,"spa":173,"spd":173,"spe":83},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	espeon: {{
+	espeon: {
 		num: --190,
 		species: "Espeon",
 		types: ["Psychic"],
 		baseStats: {"hp":65,"atk":65,"def":60,"spa":178,"spd":178,"spe":110},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	umbreon: {{
+	umbreon: {
 		num: --189,
 		species: "Umbreon",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":65,"def":110,"spa":125,"spd":125,"spe":65},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	leafeon: {{
+	leafeon: {
 		num: -84,
 		species: "Leafeon",
 		types: ["Grass"],
 		baseStats: {"hp":65,"atk":110,"def":130,"spa":93,"spd":93,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	glaceon: {{
+	glaceon: {
 		num: -85,
 		species: "Glaceon",
 		types: ["Ice"],
 		baseStats: {"hp":65,"atk":60,"def":110,"spa":178,"spd":178,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	porygon2: {{
+	porygon2: {
 		num: --153,
 		species: "Porygon2",
 		types: ["Normal"],
 		baseStats: {"hp":85,"atk":80,"def":90,"spa":153,"spd":153,"spe":60},
 		abilities: {"0":"Trace","1":"No Ability","H":"No Ability"},
 	},
-	porygonz: {{
+	porygonz: {
 		num: -88,
 		species: "Porygon-Z",
 		types: ["Normal"],
 		baseStats: {"hp":85,"atk":80,"def":70,"spa":173,"spd":173,"spe":90},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	munchlax: {{
+	munchlax: {
 		num: -60,
 		species: "Munchlax",
 		types: ["Normal"],
 		baseStats: {"hp":135,"atk":85,"def":40,"spa":83,"spd":83,"spe":5},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	chikorita: {{
+	chikorita: {
 		num: --234,
 		species: "Chikorita",
 		types: ["Grass"],
 		baseStats: {"hp":45,"atk":49,"def":65,"spa":82,"spd":82,"spe":45},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	bayleef: {{
+	bayleef: {
 		num: --233,
 		species: "Bayleef",
 		types: ["Grass"],
 		baseStats: {"hp":60,"atk":62,"def":80,"spa":103,"spd":103,"spe":60},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	meganium: {{
+	meganium: {
 		num: --232,
 		species: "Meganium",
 		types: ["Grass"],
 		baseStats: {"hp":80,"atk":82,"def":100,"spa":133,"spd":133,"spe":80},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	cyndaquil: {{
+	cyndaquil: {
 		num: --231,
 		species: "Cyndaquil",
 		types: ["Fire"],
 		baseStats: {"hp":39,"atk":52,"def":43,"spa":85,"spd":85,"spe":65},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	quilava: {{
+	quilava: {
 		num: --230,
 		species: "Quilava",
 		types: ["Fire"],
 		baseStats: {"hp":58,"atk":64,"def":58,"spa":113,"spd":113,"spe":80},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	typhlosion: {{
+	typhlosion: {
 		num: --229,
 		species: "Typhlosion",
 		types: ["Fire"],
 		baseStats: {"hp":78,"atk":84,"def":78,"spa":152,"spd":152,"spe":100},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	totodile: {{
+	totodile: {
 		num: --228,
 		species: "Totodile",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":65,"def":64,"spa":68,"spd":68,"spe":43},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	croconaw: {{
+	croconaw: {
 		num: --227,
 		species: "Croconaw",
 		types: ["Water"],
 		baseStats: {"hp":65,"atk":80,"def":80,"spa":91,"spd":91,"spe":58},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	feraligatr: {{
+	feraligatr: {
 		num: --226,
 		species: "Feraligatr",
 		types: ["Water"],
 		baseStats: {"hp":85,"atk":105,"def":100,"spa":121,"spd":121,"spe":78},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	sentret: {{
+	sentret: {
 		num: --225,
 		species: "Sentret",
 		types: ["Normal"],
 		baseStats: {"hp":35,"atk":46,"def":34,"spa":58,"spd":58,"spe":20},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	furret: {{
+	furret: {
 		num: --224,
 		species: "Furret",
 		types: ["Normal"],
 		baseStats: {"hp":85,"atk":76,"def":64,"spa":73,"spd":73,"spe":90},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	hoothoot: {{
+	hoothoot: {
 		num: --223,
 		species: "Hoothoot",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":60,"atk":30,"def":30,"spa":64,"spd":64,"spe":50},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	noctowl: {{
+	noctowl: {
 		num: --222,
 		species: "Noctowl",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":100,"atk":50,"def":50,"spa":134,"spd":134,"spe":70},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	ledyba: {{
+	ledyba: {
 		num: --221,
 		species: "Ledyba",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":40,"atk":20,"def":30,"spa":80,"spd":80,"spe":55},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	ledian: {{
+	ledian: {
 		num: --220,
 		species: "Ledian",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":55,"atk":35,"def":50,"spa":110,"spd":110,"spe":85},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	spinarak: {{
+	spinarak: {
 		num: --219,
 		species: "Spinarak",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":40,"atk":60,"def":40,"spa":60,"spd":60,"spe":30},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	ariados: {{
+	ariados: {
 		num: --218,
 		species: "Ariados",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":70,"atk":90,"def":70,"spa":95,"spd":95,"spe":40},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	chinchou: {{
+	chinchou: {
 		num: --216,
 		species: "Chinchou",
 		types: ["Water","Electric"],
 		baseStats: {"hp":75,"atk":38,"def":38,"spa":84,"spd":84,"spe":67},
 		abilities: {"0":"Volt Absorb","1":"No Ability","H":"No Ability"},
 	},
-	lanturn: {{
+	lanturn: {
 		num: --215,
 		species: "Lanturn",
 		types: ["Water","Electric"],
 		baseStats: {"hp":125,"atk":58,"def":58,"spa":114,"spd":114,"spe":67},
 		abilities: {"0":"Volt Absorb","1":"No Ability","H":"No Ability"},
 	},
-	togepi: {{
+	togepi: {
 		num: --211,
 		species: "Togepi",
 		types: ["Normal"],
 		baseStats: {"hp":35,"atk":20,"def":65,"spa":73,"spd":73,"spe":20},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	togetic: {{
+	togetic: {
 		num: --210,
 		species: "Togetic",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":55,"atk":40,"def":85,"spa":133,"spd":133,"spe":40},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	togekiss: {{
+	togekiss: {
 		num: -82,
 		species: "Togekiss",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":85,"atk":50,"def":95,"spa":178,"spd":178,"spe":80},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	natu: {{
+	natu: {
 		num: --209,
 		species: "Natu",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":40,"atk":50,"def":45,"spa":93,"spd":93,"spe":70},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	xatu: {{
+	xatu: {
 		num: --208,
 		species: "Xatu",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":65,"atk":75,"def":70,"spa":130,"spd":130,"spe":95},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	mareep: {{
+	mareep: {
 		num: --207,
 		species: "Mareep",
 		types: ["Electric"],
 		baseStats: {"hp":55,"atk":40,"def":40,"spa":88,"spd":88,"spe":35},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	flaaffy: {{
+	flaaffy: {
 		num: --206,
 		species: "Flaaffy",
 		types: ["Electric"],
 		baseStats: {"hp":70,"atk":55,"def":55,"spa":110,"spd":110,"spe":45},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	ampharos: {{
+	ampharos: {
 		num: --205,
 		species: "Ampharos",
 		types: ["Electric"],
 		baseStats: {"hp":90,"atk":75,"def":85,"spa":160,"spd":160,"spe":55},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	azurill: {{
+	azurill: {
 		num: --88,
 		species: "Azurill",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":50,"atk":20,"def":40,"spa":40,"spd":40,"spe":20},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	marill: {{
+	marill: {
 		num: --203,
 		species: "Marill",
 		types: ["Water","Normal"],
 		baseStats: {"hp":70,"atk":20,"def":50,"spa":45,"spd":45,"spe":40},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	azumarill: {{
+	azumarill: {
 		num: --202,
 		species: "Azumarill",
 		types: ["Water","Normal"],
 		baseStats: {"hp":100,"atk":50,"def":80,"spa":100,"spd":100,"spe":50},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	bonsly: {{
+	bonsly: {
 		num: -52,
 		species: "Bonsly",
 		types: ["Rock"],
 		baseStats: {"hp":50,"atk":80,"def":95,"spa":33,"spd":33,"spe":10},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	sudowoodo: {{
+	sudowoodo: {
 		num: --201,
 		species: "Sudowoodo",
 		types: ["Rock"],
 		baseStats: {"hp":70,"atk":100,"def":115,"spa":63,"spd":63,"spe":30},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	hoppip: {{
+	hoppip: {
 		num: --199,
 		species: "Hoppip",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":35,"atk":35,"def":40,"spa":63,"spd":63,"spe":50},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	skiploom: {{
+	skiploom: {
 		num: --198,
 		species: "Skiploom",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":55,"atk":45,"def":50,"spa":78,"spd":78,"spe":80},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	jumpluff: {{
+	jumpluff: {
 		num: --197,
 		species: "Jumpluff",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":75,"atk":55,"def":70,"spa":103,"spd":103,"spe":110},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	aipom: {{
+	aipom: {
 		num: --196,
 		species: "Aipom",
 		types: ["Normal"],
 		baseStats: {"hp":55,"atk":70,"def":55,"spa":68,"spd":68,"spe":85},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	ambipom: {{
+	ambipom: {
 		num: -38,
 		species: "Ambipom",
 		types: ["Normal"],
 		baseStats: {"hp":75,"atk":100,"def":66,"spa":93,"spd":93,"spe":115},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sunkern: {{
+	sunkern: {
 		num: --195,
 		species: "Sunkern",
 		types: ["Grass"],
 		baseStats: {"hp":30,"atk":30,"def":30,"spa":45,"spd":45,"spe":30},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	sunflora: {{
+	sunflora: {
 		num: --194,
 		species: "Sunflora",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":75,"def":55,"spa":148,"spd":148,"spe":30},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	yanma: {{
+	yanma: {
 		num: --193,
 		species: "Yanma",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":65,"atk":65,"def":45,"spa":98,"spd":98,"spe":95},
 		abilities: {"0":"Speed Boost","1":"No Ability","H":"No Ability"},
 	},
-	yanmega: {{
+	yanmega: {
 		num: -83,
 		species: "Yanmega",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":86,"atk":76,"def":86,"spa":144,"spd":144,"spe":95},
 		abilities: {"0":"Speed Boost","1":"No Ability","H":"No Ability"},
 	},
-	wooper: {{
+	wooper: {
 		num: --192,
 		species: "Wooper",
 		types: ["Water","Ground"],
 		baseStats: {"hp":55,"atk":45,"def":45,"spa":38,"spd":38,"spe":15},
 		abilities: {"0":"Damp","1":"No Ability","H":"No Ability"},
 	},
-	quagsire: {{
+	quagsire: {
 		num: --191,
 		species: "Quagsire",
 		types: ["Water","Ground"],
 		baseStats: {"hp":95,"atk":85,"def":85,"spa":98,"spd":98,"spe":35},
 		abilities: {"0":"Damp","1":"No Ability","H":"No Ability"},
 	},
-	murkrow: {{
+	murkrow: {
 		num: --188,
 		species: "Murkrow",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":60,"atk":85,"def":42,"spa":106,"spd":106,"spe":91},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	honchkrow: {{
+	honchkrow: {
 		num: -44,
 		species: "Honchkrow",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":100,"atk":125,"def":52,"spa":131,"spd":131,"spe":71},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	misdreavus: {{
+	misdreavus: {
 		num: --186,
 		species: "Misdreavus",
 		types: ["Ghost"],
 		baseStats: {"hp":60,"atk":60,"def":60,"spa":128,"spd":128,"spe":85},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	mismagius: {{
+	mismagius: {
 		num: -43,
 		species: "Mismagius",
 		types: ["Ghost"],
 		baseStats: {"hp":60,"atk":60,"def":60,"spa":158,"spd":158,"spe":105},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	unown: {{
+	unown: {
 		num: --185,
 		species: "Unown",
 		types: ["Psychic"],
 		baseStats: {"hp":48,"atk":72,"def":48,"spa":96,"spd":96,"spe":48},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	wynaut: {{
+	wynaut: {
 		num: --26,
 		species: "Wynaut",
 		types: ["Psychic"],
 		baseStats: {"hp":95,"atk":23,"def":48,"spa":47,"spd":47,"spe":23},
 		abilities: {"0":"Shadow Tag","1":"No Ability","H":"No Ability"},
 	},
-	wobbuffet: {{
+	wobbuffet: {
 		num: --184,
 		species: "Wobbuffet",
 		types: ["Psychic"],
 		baseStats: {"hp":190,"atk":33,"def":58,"spa":62,"spd":62,"spe":33},
 		abilities: {"0":"Shadow Tag","1":"No Ability","H":"No Ability"},
 	},
-	girafarig: {{
+	girafarig: {
 		num: --183,
 		species: "Girafarig",
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":70,"atk":80,"def":65,"spa":123,"spd":123,"spe":85},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	pineco: {{
+	pineco: {
 		num: --182,
 		species: "Pineco",
 		types: ["Bug"],
 		baseStats: {"hp":50,"atk":65,"def":90,"spa":53,"spd":53,"spe":15},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	forretress: {{
+	forretress: {
 		num: --181,
 		species: "Forretress",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":75,"atk":90,"def":140,"spa":90,"spd":90,"spe":40},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	dunsparce: {{
+	dunsparce: {
 		num: --180,
 		species: "Dunsparce",
 		types: ["Normal"],
 		baseStats: {"hp":100,"atk":70,"def":70,"spa":98,"spd":98,"spe":45},
 		abilities: {"0":"Serene Grace","1":"No Ability","H":"No Ability"},
 	},
-	gligar: {{
+	gligar: {
 		num: --179,
 		species: "Gligar",
 		types: ["Ground","Flying"],
 		baseStats: {"hp":65,"atk":75,"def":105,"spa":68,"spd":68,"spe":85},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	gliscor: {{
+	gliscor: {
 		num: -86,
 		species: "Gliscor",
 		types: ["Ground","Flying"],
 		baseStats: {"hp":75,"atk":95,"def":125,"spa":83,"spd":83,"spe":95},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	snubbull: {{
+	snubbull: {
 		num: --177,
 		species: "Snubbull",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":80,"def":50,"spa":60,"spd":60,"spe":30},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	granbull: {{
+	granbull: {
 		num: --176,
 		species: "Granbull",
 		types: ["Normal"],
 		baseStats: {"hp":90,"atk":120,"def":75,"spa":90,"spd":90,"spe":45},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	qwilfish: {{
+	qwilfish: {
 		num: --175,
 		species: "Qwilfish",
 		types: ["Water","Poison"],
 		baseStats: {"hp":65,"atk":95,"def":85,"spa":83,"spd":83,"spe":85},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	shuckle: {{
+	shuckle: {
 		num: --173,
 		species: "Shuckle",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":20,"atk":10,"def":230,"spa":125,"spd":125,"spe":5},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	heracross: {{
+	heracross: {
 		num: --172,
 		species: "Heracross",
 		types: ["Bug","Fighting"],
 		baseStats: {"hp":80,"atk":125,"def":75,"spa":88,"spd":88,"spe":85},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	sneasel: {{
+	sneasel: {
 		num: --171,
 		species: "Sneasel",
 		types: ["Normal","Ice"],
 		baseStats: {"hp":55,"atk":95,"def":55,"spa":73,"spd":73,"spe":115},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	weavile: {{
+	weavile: {
 		num: -75,
 		species: "Weavile",
 		types: ["Normal","Ice"],
 		baseStats: {"hp":70,"atk":120,"def":65,"spa":88,"spd":88,"spe":125},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	teddiursa: {{
+	teddiursa: {
 		num: --170,
 		species: "Teddiursa",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":80,"def":50,"spa":75,"spd":75,"spe":40},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	ursaring: {{
+	ursaring: {
 		num: --169,
 		species: "Ursaring",
 		types: ["Normal"],
 		baseStats: {"hp":90,"atk":130,"def":75,"spa":113,"spd":113,"spe":55},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	slugma: {{
+	slugma: {
 		num: --168,
 		species: "Slugma",
 		types: ["Fire"],
 		baseStats: {"hp":40,"atk":40,"def":40,"spa":90,"spd":90,"spe":20},
 		abilities: {"0":"Magma Armor","1":"No Ability","H":"No Ability"},
 	},
-	magcargo: {{
+	magcargo: {
 		num: --167,
 		species: "Magcargo",
 		types: ["Fire","Rock"],
 		baseStats: {"hp":60,"atk":50,"def":120,"spa":130,"spd":130,"spe":30},
 		abilities: {"0":"Magma Armor","1":"No Ability","H":"No Ability"},
 	},
-	swinub: {{
+	swinub: {
 		num: --166,
 		species: "Swinub",
 		types: ["Ice","Ground"],
 		baseStats: {"hp":50,"atk":50,"def":40,"spa":45,"spd":45,"spe":50},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	piloswine: {{
+	piloswine: {
 		num: --165,
 		species: "Piloswine",
 		types: ["Ice","Ground"],
 		baseStats: {"hp":100,"atk":100,"def":80,"spa":90,"spd":90,"spe":50},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	mamoswine: {{
+	mamoswine: {
 		num: -87,
 		species: "Mamoswine",
 		types: ["Ice","Ground"],
 		baseStats: {"hp":110,"atk":130,"def":80,"spa":100,"spd":100,"spe":80},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	corsola: {{
+	corsola: {
 		num: --164,
 		species: "Corsola",
 		types: ["Water","Rock"],
 		baseStats: {"hp":65,"atk":55,"def":95,"spa":113,"spd":113,"spe":35},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	corsolagalar: {{
+	corsolagalar: {
 		num: --164,
 		species: "Corsola-Galar",
 		types: ["Ghost"],
 		baseStats: {"hp":60,"atk":55,"def":100,"spa":115,"spd":115,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cursola: {{
+	cursola: {
 		num: -478,
 		species: "Cursola",
 		types: ["Ghost"],
 		baseStats: {"hp":60,"atk":95,"def":50,"spa":210,"spd":210,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	remoraid: {{
+	remoraid: {
 		num: --163,
 		species: "Remoraid",
 		types: ["Water"],
 		baseStats: {"hp":35,"atk":65,"def":35,"spa":83,"spd":83,"spe":65},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	octillery: {{
+	octillery: {
 		num: --162,
 		species: "Octillery",
 		types: ["Water"],
 		baseStats: {"hp":75,"atk":105,"def":75,"spa":143,"spd":143,"spe":45},
 		abilities: {"0":"Suction Cups","1":"No Ability","H":"No Ability"},
 	},
-	delibird: {{
+	delibird: {
 		num: --161,
 		species: "Delibird",
 		types: ["Ice","Flying"],
 		baseStats: {"hp":45,"atk":55,"def":45,"spa":88,"spd":88,"spe":75},
 		abilities: {"0":"Vital Spirit","1":"No Ability","H":"No Ability"},
 	},
-	mantyke: {{
+	mantyke: {
 		num: -72,
 		species: "Mantyke",
 		types: ["Water","Flying"],
 		baseStats: {"hp":45,"atk":20,"def":50,"spa":120,"spd":120,"spe":50},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	mantine: {{
+	mantine: {
 		num: --160,
 		species: "Mantine",
 		types: ["Water","Flying"],
 		baseStats: {"hp":85,"atk":40,"def":70,"spa":150,"spd":150,"spe":70},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	skarmory: {{
+	skarmory: {
 		num: --159,
 		species: "Skarmory",
 		types: ["Rock","Flying"],
 		baseStats: {"hp":65,"atk":80,"def":140,"spa":75,"spd":75,"spe":70},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	houndour: {{
+	houndour: {
 		num: --158,
 		species: "Houndour",
 		types: ["Normal","Fire"],
 		baseStats: {"hp":45,"atk":60,"def":30,"spa":105,"spd":105,"spe":65},
 		abilities: {"0":"Early Bird","1":"No Ability","H":"No Ability"},
 	},
-	houndoom: {{
+	houndoom: {
 		num: --157,
 		species: "Houndoom",
 		types: ["Normal","Fire"],
 		baseStats: {"hp":75,"atk":90,"def":50,"spa":150,"spd":150,"spe":95},
 		abilities: {"0":"Early Bird","1":"No Ability","H":"No Ability"},
 	},
-	phanpy: {{
+	phanpy: {
 		num: --155,
 		species: "Phanpy",
 		types: ["Ground"],
 		baseStats: {"hp":90,"atk":60,"def":60,"spa":60,"spd":60,"spe":40},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	donphan: {{
+	donphan: {
 		num: --154,
 		species: "Donphan",
 		types: ["Ground"],
 		baseStats: {"hp":90,"atk":120,"def":120,"spa":90,"spd":90,"spe":50},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	stantler: {{
+	stantler: {
 		num: --152,
 		species: "Stantler",
 		types: ["Normal"],
 		baseStats: {"hp":73,"atk":95,"def":62,"spa":118,"spd":118,"spe":85},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	smeargle: {{
+	smeargle: {
 		num: --151,
 		species: "Smeargle",
 		types: ["Normal"],
 		baseStats: {"hp":55,"atk":20,"def":35,"spa":43,"spd":43,"spe":75},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	miltank: {{
+	miltank: {
 		num: --145,
 		species: "Miltank",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":80,"def":105,"spa":75,"spd":75,"spe":100},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	raikou: {{
+	raikou: {
 		num: --143,
 		species: "Raikou",
 		types: ["Electric"],
 		baseStats: {"hp":90,"atk":85,"def":75,"spa":165,"spd":165,"spe":115},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	entei: {{
+	entei: {
 		num: --142,
 		species: "Entei",
 		types: ["Fire"],
 		baseStats: {"hp":115,"atk":115,"def":85,"spa":128,"spd":128,"spe":100},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	suicune: {{
+	suicune: {
 		num: --141,
 		species: "Suicune",
 		types: ["Water"],
 		baseStats: {"hp":100,"atk":75,"def":115,"spa":148,"spd":148,"spe":85},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	larvitar: {{
+	larvitar: {
 		num: --140,
 		species: "Larvitar",
 		types: ["Rock","Ground"],
 		baseStats: {"hp":50,"atk":64,"def":50,"spa":70,"spd":70,"spe":41},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	pupitar: {{
+	pupitar: {
 		num: --139,
 		species: "Pupitar",
 		types: ["Rock","Ground"],
 		baseStats: {"hp":70,"atk":84,"def":70,"spa":100,"spd":100,"spe":51},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	tyranitar: {{
+	tyranitar: {
 		num: --138,
 		species: "Tyranitar",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":100,"atk":134,"def":110,"spa":145,"spd":145,"spe":61},
 		abilities: {"0":"Sand Stream","1":"No Ability","H":"No Ability"},
 	},
-	lugia: {{
+	lugia: {
 		num: --137,
 		species: "Lugia",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":106,"atk":90,"def":130,"spa":167,"spd":167,"spe":110},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	hooh: {{
+	hooh: {
 		num: --136,
 		species: "Ho-Oh",
 		types: ["Fire","Flying"],
 		baseStats: {"hp":106,"atk":130,"def":90,"spa":187,"spd":187,"spe":90},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	celebi: {{
+	celebi: {
 		num: --135,
 		species: "Celebi",
 		types: ["Psychic","Grass"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	treecko: {{
+	treecko: {
 		num: --134,
 		species: "Treecko",
 		types: ["Grass"],
 		baseStats: {"hp":40,"atk":45,"def":35,"spa":93,"spd":93,"spe":70},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	grovyle: {{
+	grovyle: {
 		num: --133,
 		species: "Grovyle",
 		types: ["Grass"],
 		baseStats: {"hp":50,"atk":65,"def":45,"spa":118,"spd":118,"spe":95},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	sceptile: {{
+	sceptile: {
 		num: --132,
 		species: "Sceptile",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":85,"def":65,"spa":148,"spd":148,"spe":120},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	torchic: {{
+	torchic: {
 		num: --131,
 		species: "Torchic",
 		types: ["Fire"],
 		baseStats: {"hp":45,"atk":60,"def":40,"spa":95,"spd":95,"spe":45},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	combusken: {{
+	combusken: {
 		num: --130,
 		species: "Combusken",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":60,"atk":85,"def":60,"spa":115,"spd":115,"spe":55},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	blaziken: {{
+	blaziken: {
 		num: --129,
 		species: "Blaziken",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":80,"atk":120,"def":70,"spa":145,"spd":145,"spe":80},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	mudkip: {{
+	mudkip: {
 		num: --128,
 		species: "Mudkip",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":70,"def":50,"spa":75,"spd":75,"spe":40},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	marshtomp: {{
+	marshtomp: {
 		num: --127,
 		species: "Marshtomp",
 		types: ["Water","Ground"],
 		baseStats: {"hp":70,"atk":85,"def":70,"spa":95,"spd":95,"spe":50},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	swampert: {{
+	swampert: {
 		num: --126,
 		species: "Swampert",
 		types: ["Water","Ground"],
 		baseStats: {"hp":100,"atk":110,"def":90,"spa":130,"spd":130,"spe":60},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	poochyena: {{
+	poochyena: {
 		num: --125,
 		species: "Poochyena",
 		types: ["Normal"],
 		baseStats: {"hp":35,"atk":55,"def":35,"spa":45,"spd":45,"spe":35},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	mightyena: {{
+	mightyena: {
 		num: --124,
 		species: "Mightyena",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":90,"def":70,"spa":90,"spd":90,"spe":70},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	zigzagoon: {{
+	zigzagoon: {
 		num: --123,
 		species: "Zigzagoon",
 		types: ["Normal"],
 		baseStats: {"hp":38,"atk":30,"def":41,"spa":51,"spd":51,"spe":60},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	zigzagoongalar: {{
+	zigzagoongalar: {
 		num: --123,
 		species: "Zigzagoon-Galar",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":38,"atk":30,"def":41,"spa":51,"spd":51,"spe":60},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	linoone: {{
+	linoone: {
 		num: --122,
 		species: "Linoone",
 		types: ["Normal"],
 		baseStats: {"hp":78,"atk":70,"def":61,"spa":81,"spd":81,"spe":100},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	linoonegalar: {{
+	linoonegalar: {
 		num: --122,
 		species: "Linoone-Galar",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":78,"atk":70,"def":61,"spa":81,"spd":81,"spe":100},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	obstagoon: {{
+	obstagoon: {
 		num: -476,
 		species: "Obstagoon",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":93,"atk":90,"def":101,"spa":101,"spd":101,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wurmple: {{
+	wurmple: {
 		num: --121,
 		species: "Wurmple",
 		types: ["Bug"],
 		baseStats: {"hp":45,"atk":45,"def":35,"spa":35,"spd":35,"spe":20},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	silcoon: {{
+	silcoon: {
 		num: --120,
 		species: "Silcoon",
 		types: ["Bug"],
 		baseStats: {"hp":50,"atk":35,"def":55,"spa":38,"spd":38,"spe":15},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	beautifly: {{
+	beautifly: {
 		num: --119,
 		species: "Beautifly",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":60,"atk":70,"def":50,"spa":125,"spd":125,"spe":65},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	cascoon: {{
+	cascoon: {
 		num: --118,
 		species: "Cascoon",
 		types: ["Bug"],
 		baseStats: {"hp":50,"atk":35,"def":55,"spa":38,"spd":38,"spe":15},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	dustox: {{
+	dustox: {
 		num: --117,
 		species: "Dustox",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":60,"atk":50,"def":70,"spa":95,"spd":95,"spe":65},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	lotad: {{
+	lotad: {
 		num: --116,
 		species: "Lotad",
 		types: ["Water","Grass"],
 		baseStats: {"hp":40,"atk":30,"def":30,"spa":65,"spd":65,"spe":30},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	lombre: {{
+	lombre: {
 		num: --115,
 		species: "Lombre",
 		types: ["Water","Grass"],
 		baseStats: {"hp":60,"atk":50,"def":50,"spa":95,"spd":95,"spe":50},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	ludicolo: {{
+	ludicolo: {
 		num: --114,
 		species: "Ludicolo",
 		types: ["Water","Grass"],
 		baseStats: {"hp":80,"atk":70,"def":70,"spa":140,"spd":140,"spe":70},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	seedot: {{
+	seedot: {
 		num: --113,
 		species: "Seedot",
 		types: ["Grass"],
 		baseStats: {"hp":40,"atk":40,"def":50,"spa":45,"spd":45,"spe":30},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	nuzleaf: {{
+	nuzleaf: {
 		num: --112,
 		species: "Nuzleaf",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":70,"atk":70,"def":40,"spa":80,"spd":80,"spe":60},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	shiftry: {{
+	shiftry: {
 		num: --111,
 		species: "Shiftry",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":90,"atk":100,"def":60,"spa":120,"spd":120,"spe":80},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	taillow: {{
+	taillow: {
 		num: --110,
 		species: "Taillow",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":40,"atk":55,"def":30,"spa":45,"spd":45,"spe":85},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	swellow: {{
+	swellow: {
 		num: --109,
 		species: "Swellow",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":60,"atk":85,"def":60,"spa":100,"spd":100,"spe":125},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	wingull: {{
+	wingull: {
 		num: --108,
 		species: "Wingull",
 		types: ["Water","Flying"],
 		baseStats: {"hp":40,"atk":30,"def":30,"spa":70,"spd":70,"spe":85},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	pelipper: {{
+	pelipper: {
 		num: --107,
 		species: "Pelipper",
 		types: ["Water","Flying"],
 		baseStats: {"hp":60,"atk":50,"def":100,"spa":130,"spd":130,"spe":65},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	ralts: {{
+	ralts: {
 		num: --106,
 		species: "Ralts",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":28,"atk":25,"def":25,"spa":63,"spd":63,"spe":40},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	kirlia: {{
+	kirlia: {
 		num: --105,
 		species: "Kirlia",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":38,"atk":35,"def":35,"spa":93,"spd":93,"spe":50},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	gardevoir: {{
+	gardevoir: {
 		num: --104,
 		species: "Gardevoir",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":68,"atk":65,"def":65,"spa":183,"spd":183,"spe":80},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 	},
-	gallade: {{
+	gallade: {
 		num: -89,
 		species: "Gallade",
 		types: ["Psychic","Fighting"],
 		baseStats: {"hp":68,"atk":125,"def":65,"spa":123,"spd":123,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	surskit: {{
+	surskit: {
 		num: --103,
 		species: "Surskit",
 		types: ["Bug","Water"],
 		baseStats: {"hp":40,"atk":30,"def":32,"spa":76,"spd":76,"spe":65},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	masquerain: {{
+	masquerain: {
 		num: --102,
 		species: "Masquerain",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":70,"atk":60,"def":62,"spa":141,"spd":141,"spe":80},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	shroomish: {{
+	shroomish: {
 		num: --101,
 		species: "Shroomish",
 		types: ["Grass"],
 		baseStats: {"hp":60,"atk":40,"def":60,"spa":70,"spd":70,"spe":35},
 		abilities: {"0":"Effect Spore","1":"No Ability","H":"No Ability"},
 	},
-	breloom: {{
+	breloom: {
 		num: --100,
 		species: "Breloom",
 		types: ["Grass","Fighting"],
 		baseStats: {"hp":60,"atk":130,"def":80,"spa":90,"spd":90,"spe":70},
 		abilities: {"0":"Effect Spore","1":"No Ability","H":"No Ability"},
 	},
-	slakoth: {{
+	slakoth: {
 		num: --99,
 		species: "Slakoth",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":60,"def":60,"spa":53,"spd":53,"spe":30},
 		abilities: {"0":"Truant","1":"No Ability","H":"No Ability"},
 	},
-	vigoroth: {{
+	vigoroth: {
 		num: --98,
 		species: "Vigoroth",
 		types: ["Normal"],
 		baseStats: {"hp":80,"atk":80,"def":80,"spa":83,"spd":83,"spe":90},
 		abilities: {"0":"Vital Spirit","1":"No Ability","H":"No Ability"},
 	},
-	slaking: {{
+	slaking: {
 		num: --97,
 		species: "Slaking",
 		types: ["Normal"],
 		baseStats: {"hp":150,"atk":160,"def":100,"spa":128,"spd":128,"spe":100},
 		abilities: {"0":"Truant","1":"No Ability","H":"No Ability"},
 	},
-	nincada: {{
+	nincada: {
 		num: --96,
 		species: "Nincada",
 		types: ["Bug","Ground"],
 		baseStats: {"hp":31,"atk":45,"def":90,"spa":45,"spd":45,"spe":40},
 		abilities: {"0":"Compound Eyes","1":"No Ability","H":"No Ability"},
 	},
-	ninjask: {{
+	ninjask: {
 		num: --95,
 		species: "Ninjask",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":61,"atk":90,"def":45,"spa":75,"spd":75,"spe":160},
 		abilities: {"0":"Speed Boost","1":"No Ability","H":"No Ability"},
 	},
-	shedinja: {{
+	shedinja: {
 		num: --94,
 		species: "Shedinja",
 		types: ["Bug","Ghost"],
 		baseStats: {"hp":1,"atk":90,"def":45,"spa":45,"spd":45,"spe":40},
 		abilities: {"0":"Wonder Guard","1":"No Ability","H":"No Ability"},
 	},
-	whismur: {{
+	whismur: {
 		num: --93,
 		species: "Whismur",
 		types: ["Normal"],
 		baseStats: {"hp":64,"atk":51,"def":23,"spa":63,"spd":63,"spe":28},
 		abilities: {"0":"Soundproof","1":"No Ability","H":"No Ability"},
 	},
-	loudred: {{
+	loudred: {
 		num: --92,
 		species: "Loudred",
 		types: ["Normal"],
 		baseStats: {"hp":84,"atk":71,"def":43,"spa":93,"spd":93,"spe":48},
 		abilities: {"0":"Soundproof","1":"No Ability","H":"No Ability"},
 	},
-	exploud: {{
+	exploud: {
 		num: --91,
 		species: "Exploud",
 		types: ["Normal"],
 		baseStats: {"hp":104,"atk":91,"def":63,"spa":128,"spd":128,"spe":68},
 		abilities: {"0":"Soundproof","1":"No Ability","H":"No Ability"},
 	},
-	makuhita: {{
+	makuhita: {
 		num: --90,
 		species: "Makuhita",
 		types: ["Fighting"],
 		baseStats: {"hp":72,"atk":60,"def":30,"spa":35,"spd":35,"spe":25},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	hariyama: {{
+	hariyama: {
 		num: --89,
 		species: "Hariyama",
 		types: ["Fighting"],
 		baseStats: {"hp":144,"atk":120,"def":60,"spa":70,"spd":70,"spe":50},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	nosepass: {{
+	nosepass: {
 		num: --87,
 		species: "Nosepass",
 		types: ["Rock"],
 		baseStats: {"hp":30,"atk":45,"def":135,"spa":90,"spd":90,"spe":30},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	probopass: {{
+	probopass: {
 		num: -90,
 		species: "Probopass",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":60,"atk":55,"def":145,"spa":150,"spd":150,"spe":40},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	skitty: {{
+	skitty: {
 		num: --86,
 		species: "Skitty",
 		types: ["Normal"],
 		baseStats: {"hp":50,"atk":45,"def":45,"spa":53,"spd":53,"spe":50},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	delcatty: {{
+	delcatty: {
 		num: --85,
 		species: "Delcatty",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":65,"def":65,"spa":83,"spd":83,"spe":90},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	sableye: {{
+	sableye: {
 		num: --84,
 		species: "Sableye",
 		types: ["Normal","Ghost"],
 		baseStats: {"hp":50,"atk":75,"def":75,"spa":98,"spd":98,"spe":50},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	mawile: {{
+	mawile: {
 		num: --83,
 		species: "Mawile",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":50,"atk":85,"def":85,"spa":83,"spd":83,"spe":50},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	aron: {{
+	aron: {
 		num: --82,
 		species: "Aron",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":50,"atk":70,"def":100,"spa":60,"spd":60,"spe":30},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	lairon: {{
+	lairon: {
 		num: --81,
 		species: "Lairon",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":60,"atk":90,"def":140,"spa":75,"spd":75,"spe":40},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	aggron: {{
+	aggron: {
 		num: --80,
 		species: "Aggron",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":70,"atk":110,"def":180,"spa":90,"spd":90,"spe":50},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	meditite: {{
+	meditite: {
 		num: --79,
 		species: "Meditite",
 		types: ["Fighting","Psychic"],
 		baseStats: {"hp":30,"atk":40,"def":55,"spa":68,"spd":68,"spe":60},
 		abilities: {"0":"Pure Power","1":"No Ability","H":"No Ability"},
 	},
-	medicham: {{
+	medicham: {
 		num: --78,
 		species: "Medicham",
 		types: ["Fighting","Psychic"],
 		baseStats: {"hp":60,"atk":60,"def":75,"spa":98,"spd":98,"spe":80},
 		abilities: {"0":"Pure Power","1":"No Ability","H":"No Ability"},
 	},
-	electrike: {{
+	electrike: {
 		num: --77,
 		species: "Electrike",
 		types: ["Electric"],
 		baseStats: {"hp":40,"atk":45,"def":40,"spa":85,"spd":85,"spe":65},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	manectric: {{
+	manectric: {
 		num: --76,
 		species: "Manectric",
 		types: ["Electric"],
 		baseStats: {"hp":70,"atk":75,"def":60,"spa":135,"spd":135,"spe":105},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	plusle: {{
+	plusle: {
 		num: --75,
 		species: "Plusle",
 		types: ["Electric"],
 		baseStats: {"hp":60,"atk":50,"def":40,"spa":123,"spd":123,"spe":95},
 		abilities: {"0":"Plus","1":"No Ability","H":"No Ability"},
 	},
-	minun: {{
+	minun: {
 		num: --74,
 		species: "Minun",
 		types: ["Electric"],
 		baseStats: {"hp":60,"atk":40,"def":50,"spa":118,"spd":118,"spe":95},
 		abilities: {"0":"Minus","1":"No Ability","H":"No Ability"},
 	},
-	volbeat: {{
+	volbeat: {
 		num: --73,
 		species: "Volbeat",
 		types: ["Bug"],
 		baseStats: {"hp":65,"atk":73,"def":75,"spa":90,"spd":90,"spe":85},
 		abilities: {"0":"Illuminate","1":"No Ability","H":"No Ability"},
 	},
-	illumise: {{
+	illumise: {
 		num: --72,
 		species: "Illumise",
 		types: ["Bug"],
 		baseStats: {"hp":65,"atk":47,"def":75,"spa":116,"spd":116,"spe":85},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	budew: {{
+	budew: {
 		num: -20,
 		species: "Budew",
 		types: ["Grass","Poison"],
 		baseStats: {"hp":40,"atk":30,"def":35,"spa":85,"spd":85,"spe":55},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	roselia: {{
+	roselia: {
 		num: --71,
 		species: "Roselia",
 		types: ["Grass","Poison"],
 		baseStats: {"hp":50,"atk":60,"def":45,"spa":140,"spd":140,"spe":65},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	roserade: {{
+	roserade: {
 		num: -21,
 		species: "Roserade",
 		types: ["Grass","Poison"],
 		baseStats: {"hp":60,"atk":70,"def":65,"spa":178,"spd":178,"spe":90},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	gulpin: {{
+	gulpin: {
 		num: --70,
 		species: "Gulpin",
 		types: ["Poison"],
 		baseStats: {"hp":70,"atk":43,"def":53,"spa":70,"spd":70,"spe":40},
 		abilities: {"0":"Liquid Ooze","1":"No Ability","H":"No Ability"},
 	},
-	swalot: {{
+	swalot: {
 		num: --69,
 		species: "Swalot",
 		types: ["Poison"],
 		baseStats: {"hp":100,"atk":73,"def":83,"spa":115,"spd":115,"spe":55},
 		abilities: {"0":"Liquid Ooze","1":"No Ability","H":"No Ability"},
 	},
-	carvanha: {{
+	carvanha: {
 		num: --68,
 		species: "Carvanha",
 		types: ["Water","Normal"],
 		baseStats: {"hp":45,"atk":90,"def":20,"spa":75,"spd":75,"spe":65},
 		abilities: {"0":"Rough Skin","1":"No Ability","H":"No Ability"},
 	},
-	sharpedo: {{
+	sharpedo: {
 		num: --67,
 		species: "Sharpedo",
 		types: ["Water","Normal"],
 		baseStats: {"hp":70,"atk":120,"def":40,"spa":115,"spd":115,"spe":95},
 		abilities: {"0":"Rough Skin","1":"No Ability","H":"No Ability"},
 	},
-	wailmer: {{
+	wailmer: {
 		num: --66,
 		species: "Wailmer",
 		types: ["Water"],
 		baseStats: {"hp":130,"atk":70,"def":35,"spa":88,"spd":88,"spe":60},
 		abilities: {"0":"Water Veil","1":"No Ability","H":"No Ability"},
 	},
-	wailord: {{
+	wailord: {
 		num: --65,
 		species: "Wailord",
 		types: ["Water"],
 		baseStats: {"hp":170,"atk":90,"def":45,"spa":113,"spd":113,"spe":60},
 		abilities: {"0":"Water Veil","1":"No Ability","H":"No Ability"},
 	},
-	numel: {{
+	numel: {
 		num: --64,
 		species: "Numel",
 		types: ["Fire","Ground"],
 		baseStats: {"hp":60,"atk":60,"def":40,"spa":88,"spd":88,"spe":35},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	camerupt: {{
+	camerupt: {
 		num: --63,
 		species: "Camerupt",
 		types: ["Fire","Ground"],
 		baseStats: {"hp":70,"atk":100,"def":70,"spa":143,"spd":143,"spe":40},
 		abilities: {"0":"Magma Armor","1":"No Ability","H":"No Ability"},
 	},
-	torkoal: {{
+	torkoal: {
 		num: --62,
 		species: "Torkoal",
 		types: ["Fire"],
 		baseStats: {"hp":70,"atk":85,"def":140,"spa":120,"spd":120,"spe":20},
 		abilities: {"0":"White Smoke","1":"No Ability","H":"No Ability"},
 	},
-	spoink: {{
+	spoink: {
 		num: --61,
 		species: "Spoink",
 		types: ["Psychic"],
 		baseStats: {"hp":60,"atk":25,"def":35,"spa":110,"spd":110,"spe":60},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	grumpig: {{
+	grumpig: {
 		num: --60,
 		species: "Grumpig",
 		types: ["Psychic"],
 		baseStats: {"hp":80,"atk":45,"def":65,"spa":145,"spd":145,"spe":80},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	spinda: {{
+	spinda: {
 		num: --59,
 		species: "Spinda",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":60,"def":60,"spa":90,"spd":90,"spe":60},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	trapinch: {{
+	trapinch: {
 		num: --58,
 		species: "Trapinch",
 		types: ["Ground"],
 		baseStats: {"hp":45,"atk":100,"def":45,"spa":68,"spd":68,"spe":10},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	vibrava: {{
+	vibrava: {
 		num: --57,
 		species: "Vibrava",
 		types: ["Ground","Dragon"],
 		baseStats: {"hp":50,"atk":70,"def":50,"spa":75,"spd":75,"spe":70},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	flygon: {{
+	flygon: {
 		num: --56,
 		species: "Flygon",
 		types: ["Ground","Dragon"],
 		baseStats: {"hp":80,"atk":100,"def":80,"spa":120,"spd":120,"spe":100},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	cacnea: {{
+	cacnea: {
 		num: --55,
 		species: "Cacnea",
 		types: ["Grass"],
 		baseStats: {"hp":50,"atk":85,"def":40,"spa":105,"spd":105,"spe":35},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	cacturne: {{
+	cacturne: {
 		num: --54,
 		species: "Cacturne",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":70,"atk":115,"def":60,"spa":145,"spd":145,"spe":55},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	swablu: {{
+	swablu: {
 		num: --53,
 		species: "Swablu",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":45,"atk":40,"def":60,"spa":78,"spd":78,"spe":50},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	altaria: {{
+	altaria: {
 		num: --52,
 		species: "Altaria",
 		types: ["Dragon","Flying"],
 		baseStats: {"hp":75,"atk":70,"def":90,"spa":123,"spd":123,"spe":80},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	zangoose: {{
+	zangoose: {
 		num: --51,
 		species: "Zangoose",
 		types: ["Normal"],
 		baseStats: {"hp":73,"atk":115,"def":60,"spa":90,"spd":90,"spe":90},
 		abilities: {"0":"Immunity","1":"No Ability","H":"No Ability"},
 	},
-	seviper: {{
+	seviper: {
 		num: --50,
 		species: "Seviper",
 		types: ["Poison"],
 		baseStats: {"hp":73,"atk":100,"def":60,"spa":130,"spd":130,"spe":65},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	lunatone: {{
+	lunatone: {
 		num: --49,
 		species: "Lunatone",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":90,"atk":55,"def":65,"spa":138,"spd":138,"spe":70},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	solrock: {{
+	solrock: {
 		num: --48,
 		species: "Solrock",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":90,"atk":95,"def":85,"spa":88,"spd":88,"spe":70},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	barboach: {{
+	barboach: {
 		num: --47,
 		species: "Barboach",
 		types: ["Water","Ground"],
 		baseStats: {"hp":50,"atk":48,"def":43,"spa":67,"spd":67,"spe":60},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	whiscash: {{
+	whiscash: {
 		num: --46,
 		species: "Whiscash",
 		types: ["Water","Ground"],
 		baseStats: {"hp":110,"atk":78,"def":73,"spa":112,"spd":112,"spe":60},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 	},
-	corphish: {{
+	corphish: {
 		num: --45,
 		species: "Corphish",
 		types: ["Water"],
 		baseStats: {"hp":43,"atk":80,"def":65,"spa":68,"spd":68,"spe":35},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	crawdaunt: {{
+	crawdaunt: {
 		num: --44,
 		species: "Crawdaunt",
 		types: ["Water","Normal"],
 		baseStats: {"hp":63,"atk":120,"def":85,"spa":118,"spd":118,"spe":55},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	baltoy: {{
+	baltoy: {
 		num: --43,
 		species: "Baltoy",
 		types: ["Ground","Psychic"],
 		baseStats: {"hp":40,"atk":40,"def":55,"spa":75,"spd":75,"spe":55},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	claydol: {{
+	claydol: {
 		num: --42,
 		species: "Claydol",
 		types: ["Ground","Psychic"],
 		baseStats: {"hp":60,"atk":70,"def":105,"spa":130,"spd":130,"spe":75},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	lileep: {{
+	lileep: {
 		num: --41,
 		species: "Lileep",
 		types: ["Rock","Grass"],
 		baseStats: {"hp":66,"atk":41,"def":77,"spa":105,"spd":105,"spe":23},
 		abilities: {"0":"Suction Cups","1":"No Ability","H":"No Ability"},
 	},
-	cradily: {{
+	cradily: {
 		num: --40,
 		species: "Cradily",
 		types: ["Rock","Grass"],
 		baseStats: {"hp":86,"atk":81,"def":97,"spa":135,"spd":135,"spe":43},
 		abilities: {"0":"Suction Cups","1":"No Ability","H":"No Ability"},
 	},
-	anorith: {{
+	anorith: {
 		num: --39,
 		species: "Anorith",
 		types: ["Rock","Bug"],
 		baseStats: {"hp":45,"atk":95,"def":50,"spa":65,"spd":65,"spe":75},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	armaldo: {{
+	armaldo: {
 		num: --38,
 		species: "Armaldo",
 		types: ["Rock","Bug"],
 		baseStats: {"hp":75,"atk":125,"def":100,"spa":110,"spd":110,"spe":45},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	feebas: {{
+	feebas: {
 		num: --37,
 		species: "Feebas",
 		types: ["Water"],
 		baseStats: {"hp":20,"atk":15,"def":20,"spa":38,"spd":38,"spe":80},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	milotic: {{
+	milotic: {
 		num: --36,
 		species: "Milotic",
 		types: ["Water"],
 		baseStats: {"hp":95,"atk":60,"def":79,"spa":163,"spd":163,"spe":81},
 		abilities: {"0":"Marvel Scale","1":"No Ability","H":"No Ability"},
 	},
-	castform: {{
+	castform: {
 		num: --35,
 		species: "Castform",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":70,"def":70,"spa":105,"spd":105,"spe":70},
 		abilities: {"0":"Forecast","1":"No Ability","H":"No Ability"},
 	},
-	kecleon: {{
+	kecleon: {
 		num: --34,
 		species: "Kecleon",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":90,"def":70,"spa":120,"spd":120,"spe":40},
 		abilities: {"0":"Color Change","1":"No Ability","H":"No Ability"},
 	},
-	shuppet: {{
+	shuppet: {
 		num: --33,
 		species: "Shuppet",
 		types: ["Ghost"],
 		baseStats: {"hp":44,"atk":75,"def":35,"spa":80,"spd":80,"spe":45},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	banette: {{
+	banette: {
 		num: --32,
 		species: "Banette",
 		types: ["Ghost"],
 		baseStats: {"hp":64,"atk":115,"def":65,"spa":115,"spd":115,"spe":65},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 	},
-	duskull: {{
+	duskull: {
 		num: --31,
 		species: "Duskull",
 		types: ["Ghost"],
 		baseStats: {"hp":20,"atk":40,"def":90,"spa":75,"spd":75,"spe":25},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	dusclops: {{
+	dusclops: {
 		num: --30,
 		species: "Dusclops",
 		types: ["Ghost"],
 		baseStats: {"hp":40,"atk":70,"def":130,"spa":125,"spd":125,"spe":25},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	dusknoir: {{
+	dusknoir: {
 		num: -91,
 		species: "Dusknoir",
 		types: ["Ghost"],
 		baseStats: {"hp":45,"atk":100,"def":135,"spa":133,"spd":133,"spe":45},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	tropius: {{
+	tropius: {
 		num: --29,
 		species: "Tropius",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":99,"atk":68,"def":83,"spa":116,"spd":116,"spe":51},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	chingling: {{
+	chingling: {
 		num: -47,
 		species: "Chingling",
 		types: ["Psychic"],
 		baseStats: {"hp":45,"atk":30,"def":50,"spa":90,"spd":90,"spe":45},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	chimecho: {{
+	chimecho: {
 		num: --28,
 		species: "Chimecho",
 		types: ["Psychic"],
 		baseStats: {"hp":75,"atk":50,"def":80,"spa":140,"spd":140,"spe":65},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	absol: {{
+	absol: {
 		num: --27,
 		species: "Absol",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":130,"def":60,"spa":105,"spd":105,"spe":75},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	snorunt: {{
+	snorunt: {
 		num: --25,
 		species: "Snorunt",
 		types: ["Ice"],
 		baseStats: {"hp":50,"atk":50,"def":50,"spa":75,"spd":75,"spe":50},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	glalie: {{
+	glalie: {
 		num: --24,
 		species: "Glalie",
 		types: ["Ice"],
 		baseStats: {"hp":80,"atk":80,"def":80,"spa":120,"spd":120,"spe":80},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	froslass: {{
+	froslass: {
 		num: -92,
 		species: "Froslass",
 		types: ["Ice","Ghost"],
 		baseStats: {"hp":70,"atk":80,"def":70,"spa":115,"spd":115,"spe":110},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	spheal: {{
+	spheal: {
 		num: --23,
 		species: "Spheal",
 		types: ["Ice","Water"],
 		baseStats: {"hp":70,"atk":40,"def":50,"spa":80,"spd":80,"spe":25},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	sealeo: {{
+	sealeo: {
 		num: --22,
 		species: "Sealeo",
 		types: ["Ice","Water"],
 		baseStats: {"hp":90,"atk":60,"def":70,"spa":110,"spd":110,"spe":45},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	walrein: {{
+	walrein: {
 		num: --21,
 		species: "Walrein",
 		types: ["Ice","Water"],
 		baseStats: {"hp":110,"atk":80,"def":90,"spa":140,"spd":140,"spe":65},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	clamperl: {{
+	clamperl: {
 		num: --20,
 		species: "Clamperl",
 		types: ["Water"],
 		baseStats: {"hp":35,"atk":64,"def":85,"spa":102,"spd":102,"spe":32},
 		abilities: {"0":"Shell Armor","1":"No Ability","H":"No Ability"},
 	},
-	huntail: {{
+	huntail: {
 		num: --19,
 		species: "Huntail",
 		types: ["Water"],
 		baseStats: {"hp":55,"atk":104,"def":105,"spa":132,"spd":132,"spe":52},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	gorebyss: {{
+	gorebyss: {
 		num: --18,
 		species: "Gorebyss",
 		types: ["Water"],
 		baseStats: {"hp":55,"atk":84,"def":105,"spa":152,"spd":152,"spe":52},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	relicanth: {{
+	relicanth: {
 		num: --17,
 		species: "Relicanth",
 		types: ["Water","Rock"],
 		baseStats: {"hp":100,"atk":90,"def":130,"spa":78,"spd":78,"spe":55},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	luvdisc: {{
+	luvdisc: {
 		num: --16,
 		species: "Luvdisc",
 		types: ["Water"],
 		baseStats: {"hp":43,"atk":30,"def":55,"spa":73,"spd":73,"spe":97},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	bagon: {{
+	bagon: {
 		num: --15,
 		species: "Bagon",
 		types: ["Dragon"],
 		baseStats: {"hp":45,"atk":75,"def":60,"spa":55,"spd":55,"spe":50},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 	},
-	shelgon: {{
+	shelgon: {
 		num: --14,
 		species: "Shelgon",
 		types: ["Dragon"],
 		baseStats: {"hp":65,"atk":95,"def":100,"spa":85,"spd":85,"spe":50},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 	},
-	salamence: {{
+	salamence: {
 		num: --13,
 		species: "Salamence",
 		types: ["Dragon","Flying"],
 		baseStats: {"hp":95,"atk":135,"def":80,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	beldum: {{
+	beldum: {
 		num: --12,
 		species: "Beldum",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":40,"atk":55,"def":80,"spa":65,"spd":65,"spe":30},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	metang: {{
+	metang: {
 		num: --11,
 		species: "Metang",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":60,"atk":75,"def":100,"spa":95,"spd":95,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	metagross: {{
+	metagross: {
 		num: --10,
 		species: "Metagross",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":80,"atk":135,"def":130,"spa":140,"spd":140,"spe":70},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	regirock: {{
+	regirock: {
 		num: --9,
 		species: "Regirock",
 		types: ["Rock"],
 		baseStats: {"hp":80,"atk":100,"def":200,"spa":100,"spd":100,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	regice: {{
+	regice: {
 		num: --8,
 		species: "Regice",
 		types: ["Ice"],
 		baseStats: {"hp":80,"atk":50,"def":100,"spa":200,"spd":200,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	registeel: {{
+	registeel: {
 		num: --7,
 		species: "Registeel",
 		types: ["Rock"],
 		baseStats: {"hp":80,"atk":75,"def":150,"spa":150,"spd":150,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	latias: {{
+	latias: {
 		num: --6,
 		species: "Latias",
 		types: ["Dragon","Psychic"],
 		baseStats: {"hp":80,"atk":80,"def":90,"spa":175,"spd":175,"spe":110},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	latios: {{
+	latios: {
 		num: --5,
 		species: "Latios",
 		types: ["Dragon","Psychic"],
 		baseStats: {"hp":80,"atk":90,"def":80,"spa":185,"spd":185,"spe":110},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	kyogre: {{
+	kyogre: {
 		num: --4,
 		species: "Kyogre",
 		types: ["Water"],
 		baseStats: {"hp":100,"atk":100,"def":90,"spa":220,"spd":220,"spe":90},
 		abilities: {"0":"Drizzle","1":"No Ability","H":"No Ability"},
 	},
-	groudon: {{
+	groudon: {
 		num: --3,
 		species: "Groudon",
 		types: ["Ground"],
 		baseStats: {"hp":100,"atk":150,"def":140,"spa":145,"spd":145,"spe":90},
 		abilities: {"0":"Drought","1":"No Ability","H":"No Ability"},
 	},
-	rayquaza: {{
+	rayquaza: {
 		num: --2,
 		species: "Rayquaza",
 		types: ["Dragon","Flying"],
 		baseStats: {"hp":105,"atk":150,"def":90,"spa":195,"spd":195,"spe":95},
 		abilities: {"0":"Air Lock","1":"No Ability","H":"No Ability"},
 	},
-	jirachi: {{
+	jirachi: {
 		num: --1,
 		species: "Jirachi",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"Serene Grace","1":"No Ability","H":"No Ability"},
 	},
-	deoxys: {{
+	deoxys: {
 		num: -0,
 		species: "Deoxys",
 		types: ["Psychic"],
 		baseStats: {"hp":50,"atk":150,"def":50,"spa":175,"spd":175,"spe":150},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	turtwig: {{
+	turtwig: {
 		num: -1,
 		species: "Turtwig",
 		types: ["Grass"],
 		baseStats: {"hp":55,"atk":68,"def":64,"spa":73,"spd":73,"spe":31},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	grotle: {{
+	grotle: {
 		num: -2,
 		species: "Grotle",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":89,"def":85,"spa":88,"spd":88,"spe":36},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	torterra: {{
+	torterra: {
 		num: -3,
 		species: "Torterra",
 		types: ["Grass","Ground"],
 		baseStats: {"hp":95,"atk":109,"def":105,"spa":118,"spd":118,"spe":56},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	chimchar: {{
+	chimchar: {
 		num: -4,
 		species: "Chimchar",
 		types: ["Fire"],
 		baseStats: {"hp":44,"atk":58,"def":44,"spa":80,"spd":80,"spe":61},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	monferno: {{
+	monferno: {
 		num: -5,
 		species: "Monferno",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":64,"atk":78,"def":52,"spa":104,"spd":104,"spe":81},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	infernape: {{
+	infernape: {
 		num: -6,
 		species: "Infernape",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":76,"atk":104,"def":71,"spa":140,"spd":140,"spe":108},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	piplup: {{
+	piplup: {
 		num: -7,
 		species: "Piplup",
 		types: ["Water"],
 		baseStats: {"hp":53,"atk":51,"def":53,"spa":89,"spd":89,"spe":40},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	prinplup: {{
+	prinplup: {
 		num: -8,
 		species: "Prinplup",
 		types: ["Water"],
 		baseStats: {"hp":64,"atk":66,"def":68,"spa":119,"spd":119,"spe":50},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	empoleon: {{
+	empoleon: {
 		num: -9,
 		species: "Empoleon",
 		types: ["Water","Rock"],
 		baseStats: {"hp":84,"atk":86,"def":88,"spa":162,"spd":162,"spe":60},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	starly: {{
+	starly: {
 		num: -10,
 		species: "Starly",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":40,"atk":55,"def":30,"spa":45,"spd":45,"spe":60},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	staravia: {{
+	staravia: {
 		num: -11,
 		species: "Staravia",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":55,"atk":75,"def":50,"spa":60,"spd":60,"spe":80},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	staraptor: {{
+	staraptor: {
 		num: -12,
 		species: "Staraptor",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":85,"atk":120,"def":70,"spa":80,"spd":80,"spe":100},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	bidoof: {{
+	bidoof: {
 		num: -13,
 		species: "Bidoof",
 		types: ["Normal"],
 		baseStats: {"hp":59,"atk":45,"def":40,"spa":55,"spd":55,"spe":31},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bibarel: {{
+	bibarel: {
 		num: -14,
 		species: "Bibarel",
 		types: ["Normal","Water"],
 		baseStats: {"hp":79,"atk":85,"def":60,"spa":85,"spd":85,"spe":71},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kricketot: {{
+	kricketot: {
 		num: -15,
 		species: "Kricketot",
 		types: ["Bug"],
 		baseStats: {"hp":37,"atk":25,"def":41,"spa":46,"spd":46,"spe":25},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	kricketune: {{
+	kricketune: {
 		num: -16,
 		species: "Kricketune",
 		types: ["Bug"],
 		baseStats: {"hp":77,"atk":85,"def":51,"spa":81,"spd":81,"spe":65},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	shinx: {{
+	shinx: {
 		num: -17,
 		species: "Shinx",
 		types: ["Electric"],
 		baseStats: {"hp":45,"atk":65,"def":34,"spa":57,"spd":57,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	luxio: {{
+	luxio: {
 		num: -18,
 		species: "Luxio",
 		types: ["Electric"],
 		baseStats: {"hp":60,"atk":85,"def":49,"spa":85,"spd":85,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	luxray: {{
+	luxray: {
 		num: -19,
 		species: "Luxray",
 		types: ["Electric"],
 		baseStats: {"hp":80,"atk":120,"def":79,"spa":135,"spd":135,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cranidos: {{
+	cranidos: {
 		num: -22,
 		species: "Cranidos",
 		types: ["Rock"],
 		baseStats: {"hp":67,"atk":125,"def":40,"spa":45,"spd":45,"spe":58},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rampardos: {{
+	rampardos: {
 		num: -23,
 		species: "Rampardos",
 		types: ["Rock"],
 		baseStats: {"hp":97,"atk":165,"def":60,"spa":90,"spd":90,"spe":58},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	shieldon: {{
+	shieldon: {
 		num: -24,
 		species: "Shieldon",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":30,"atk":42,"def":118,"spa":86,"spd":86,"spe":30},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	bastiodon: {{
+	bastiodon: {
 		num: -25,
 		species: "Bastiodon",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":60,"atk":52,"def":168,"spa":116,"spd":116,"spe":30},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	burmy: {{
+	burmy: {
 		num: -26,
 		species: "Burmy",
 		types: ["Bug"],
 		baseStats: {"hp":40,"atk":29,"def":45,"spa":52,"spd":52,"spe":36},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	wormadam: {{
+	wormadam: {
 		num: -27,
 		species: "Wormadam",
 		types: ["Bug","Grass"],
 		baseStats: {"hp":60,"atk":59,"def":85,"spa":132,"spd":132,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wormadamsandy: {{
+	wormadamsandy: {
 		num: -27,
 		species: "Wormadam-Sandy",
 		types: ["Bug","Ground"],
 		baseStats: {"hp":60,"atk":79,"def":105,"spa":102,"spd":102,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wormadamtrash: {{
+	wormadamtrash: {
 		num: -27,
 		species: "Wormadam-Trash",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":60,"atk":69,"def":95,"spa":117,"spd":117,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mothim: {{
+	mothim: {
 		num: -28,
 		species: "Mothim",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":70,"atk":94,"def":50,"spa":119,"spd":119,"spe":66},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	combee: {{
+	combee: {
 		num: -29,
 		species: "Combee",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":30,"atk":30,"def":42,"spa":51,"spd":51,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	vespiquen: {{
+	vespiquen: {
 		num: -30,
 		species: "Vespiquen",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":70,"atk":80,"def":102,"spa":131,"spd":131,"spe":40},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	pachirisu: {{
+	pachirisu: {
 		num: -31,
 		species: "Pachirisu",
 		types: ["Electric"],
 		baseStats: {"hp":60,"atk":45,"def":70,"spa":90,"spd":90,"spe":95},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	buizel: {{
+	buizel: {
 		num: -32,
 		species: "Buizel",
 		types: ["Water"],
 		baseStats: {"hp":55,"atk":65,"def":35,"spa":75,"spd":75,"spe":85},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	floatzel: {{
+	floatzel: {
 		num: -33,
 		species: "Floatzel",
 		types: ["Water"],
 		baseStats: {"hp":85,"atk":105,"def":55,"spa":110,"spd":110,"spe":115},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	cherubi: {{
+	cherubi: {
 		num: -34,
 		species: "Cherubi",
 		types: ["Grass"],
 		baseStats: {"hp":45,"atk":35,"def":45,"spa":89,"spd":89,"spe":35},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	cherrim: {{
+	cherrim: {
 		num: -35,
 		species: "Cherrim",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":60,"def":70,"spa":126,"spd":126,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	shellos: {{
+	shellos: {
 		num: -36,
 		species: "Shellos",
 		types: ["Water"],
 		baseStats: {"hp":76,"atk":48,"def":48,"spa":88,"spd":88,"spe":34},
 		abilities: {"0":"Sticky Hold","1":"No Ability","H":"No Ability"},
 	},
-	gastrodon: {{
+	gastrodon: {
 		num: -37,
 		species: "Gastrodon",
 		types: ["Water","Ground"],
 		baseStats: {"hp":111,"atk":83,"def":68,"spa":133,"spd":133,"spe":39},
 		abilities: {"0":"Sticky Hold","1":"No Ability","H":"No Ability"},
 	},
-	drifloon: {{
+	drifloon: {
 		num: -39,
 		species: "Drifloon",
 		types: ["Ghost","Flying"],
 		baseStats: {"hp":90,"atk":50,"def":34,"spa":82,"spd":82,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	drifblim: {{
+	drifblim: {
 		num: -40,
 		species: "Drifblim",
 		types: ["Ghost","Flying"],
 		baseStats: {"hp":150,"atk":80,"def":44,"spa":117,"spd":117,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	buneary: {{
+	buneary: {
 		num: -41,
 		species: "Buneary",
 		types: ["Normal"],
 		baseStats: {"hp":55,"atk":66,"def":44,"spa":72,"spd":72,"spe":85},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	lopunny: {{
+	lopunny: {
 		num: -42,
 		species: "Lopunny",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":76,"def":84,"spa":102,"spd":102,"spe":105},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	glameow: {{
+	glameow: {
 		num: -45,
 		species: "Glameow",
 		types: ["Normal"],
 		baseStats: {"hp":49,"atk":55,"def":42,"spa":61,"spd":61,"spe":85},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	purugly: {{
+	purugly: {
 		num: -46,
 		species: "Purugly",
 		types: ["Normal"],
 		baseStats: {"hp":71,"atk":82,"def":64,"spa":94,"spd":94,"spe":112},
 		abilities: {"0":"Thick Fat","1":"No Ability","H":"No Ability"},
 	},
-	stunky: {{
+	stunky: {
 		num: -48,
 		species: "Stunky",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":63,"atk":63,"def":47,"spa":62,"spd":62,"spe":74},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 	},
-	skuntank: {{
+	skuntank: {
 		num: -49,
 		species: "Skuntank",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":103,"atk":93,"def":67,"spa":102,"spd":102,"spe":84},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 	},
-	bronzor: {{
+	bronzor: {
 		num: -50,
 		species: "Bronzor",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":57,"atk":24,"def":86,"spa":67,"spd":67,"spe":23},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	bronzong: {{
+	bronzong: {
 		num: -51,
 		species: "Bronzong",
 		types: ["Rock","Psychic"],
 		baseStats: {"hp":67,"atk":89,"def":116,"spa":137,"spd":137,"spe":33},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	chatot: {{
+	chatot: {
 		num: -55,
 		species: "Chatot",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":76,"atk":65,"def":45,"spa":113,"spd":113,"spe":91},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	spiritomb: {{
+	spiritomb: {
 		num: -56,
 		species: "Spiritomb",
 		types: ["Ghost","Normal"],
 		baseStats: {"hp":50,"atk":92,"def":108,"spa":146,"spd":146,"spe":35},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	gible: {{
+	gible: {
 		num: -57,
 		species: "Gible",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":58,"atk":70,"def":45,"spa":63,"spd":63,"spe":42},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	gabite: {{
+	gabite: {
 		num: -58,
 		species: "Gabite",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":68,"atk":90,"def":65,"spa":78,"spd":78,"spe":82},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	garchomp: {{
+	garchomp: {
 		num: -59,
 		species: "Garchomp",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":108,"atk":130,"def":95,"spa":123,"spd":123,"spe":102},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 	},
-	riolu: {{
+	riolu: {
 		num: -61,
 		species: "Riolu",
 		types: ["Fighting"],
 		baseStats: {"hp":40,"atk":70,"def":40,"spa":55,"spd":55,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	lucario: {{
+	lucario: {
 		num: -62,
 		species: "Lucario",
 		types: ["Fighting","Rock"],
 		baseStats: {"hp":70,"atk":110,"def":70,"spa":150,"spd":150,"spe":90},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	hippopotas: {{
+	hippopotas: {
 		num: -63,
 		species: "Hippopotas",
 		types: ["Ground"],
 		baseStats: {"hp":68,"atk":72,"def":78,"spa":59,"spd":59,"spe":32},
 		abilities: {"0":"Sand Stream","1":"No Ability","H":"No Ability"},
 	},
-	hippowdon: {{
+	hippowdon: {
 		num: -64,
 		species: "Hippowdon",
 		types: ["Ground"],
 		baseStats: {"hp":108,"atk":112,"def":118,"spa":104,"spd":104,"spe":47},
 		abilities: {"0":"Sand Stream","1":"No Ability","H":"No Ability"},
 	},
-	skorupi: {{
+	skorupi: {
 		num: -65,
 		species: "Skorupi",
 		types: ["Poison","Bug"],
 		baseStats: {"hp":40,"atk":50,"def":90,"spa":58,"spd":58,"spe":65},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	drapion: {{
+	drapion: {
 		num: -66,
 		species: "Drapion",
 		types: ["Poison","Normal"],
 		baseStats: {"hp":70,"atk":90,"def":110,"spa":98,"spd":98,"spe":95},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	croagunk: {{
+	croagunk: {
 		num: -67,
 		species: "Croagunk",
 		types: ["Poison","Fighting"],
 		baseStats: {"hp":48,"atk":61,"def":40,"spa":81,"spd":81,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	toxicroak: {{
+	toxicroak: {
 		num: -68,
 		species: "Toxicroak",
 		types: ["Poison","Fighting"],
 		baseStats: {"hp":83,"atk":106,"def":65,"spa":119,"spd":119,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	carnivine: {{
+	carnivine: {
 		num: -69,
 		species: "Carnivine",
 		types: ["Grass"],
 		baseStats: {"hp":74,"atk":100,"def":72,"spa":126,"spd":126,"spe":46},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	finneon: {{
+	finneon: {
 		num: -70,
 		species: "Finneon",
 		types: ["Water"],
 		baseStats: {"hp":49,"atk":49,"def":56,"spa":80,"spd":80,"spe":66},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	lumineon: {{
+	lumineon: {
 		num: -71,
 		species: "Lumineon",
 		types: ["Water"],
 		baseStats: {"hp":69,"atk":69,"def":76,"spa":112,"spd":112,"spe":91},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	snover: {{
+	snover: {
 		num: -73,
 		species: "Snover",
 		types: ["Grass","Ice"],
 		baseStats: {"hp":60,"atk":62,"def":50,"spa":92,"spd":92,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	abomasnow: {{
+	abomasnow: {
 		num: -74,
 		species: "Abomasnow",
 		types: ["Grass","Ice"],
 		baseStats: {"hp":90,"atk":92,"def":75,"spa":135,"spd":135,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rotom: {{
+	rotom: {
 		num: -93,
 		species: "Rotom",
 		types: ["Electric","Ghost"],
 		baseStats: {"hp":50,"atk":50,"def":77,"spa":134,"spd":134,"spe":91},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rotomheat: {{
+	rotomheat: {
 		num: -93,
 		species: "Rotom-Heat",
 		types: ["Electric","Fire"],
 		baseStats: {"hp":50,"atk":65,"def":107,"spa":159,"spd":159,"spe":86},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rotomwash: {{
+	rotomwash: {
 		num: -93,
 		species: "Rotom-Wash",
 		types: ["Electric","Water"],
 		baseStats: {"hp":50,"atk":65,"def":107,"spa":159,"spd":159,"spe":86},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rotomfrost: {{
+	rotomfrost: {
 		num: -93,
 		species: "Rotom-Frost",
 		types: ["Electric","Ice"],
 		baseStats: {"hp":50,"atk":65,"def":107,"spa":159,"spd":159,"spe":86},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rotomfan: {{
+	rotomfan: {
 		num: -93,
 		species: "Rotom-Fan",
 		types: ["Electric","Flying"],
 		baseStats: {"hp":50,"atk":65,"def":107,"spa":159,"spd":159,"spe":86},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	rotommow: {{
+	rotommow: {
 		num: -93,
 		species: "Rotom-Mow",
 		types: ["Electric","Grass"],
 		baseStats: {"hp":50,"atk":65,"def":107,"spa":159,"spd":159,"spe":86},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	uxie: {{
+	uxie: {
 		num: -94,
 		species: "Uxie",
 		types: ["Psychic"],
 		baseStats: {"hp":75,"atk":75,"def":130,"spa":140,"spd":140,"spe":95},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	mesprit: {{
+	mesprit: {
 		num: -95,
 		species: "Mesprit",
 		types: ["Psychic"],
 		baseStats: {"hp":80,"atk":105,"def":105,"spa":158,"spd":158,"spe":80},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	azelf: {{
+	azelf: {
 		num: -96,
 		species: "Azelf",
 		types: ["Psychic"],
 		baseStats: {"hp":75,"atk":125,"def":70,"spa":160,"spd":160,"spe":115},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	dialga: {{
+	dialga: {
 		num: -97,
 		species: "Dialga",
 		types: ["Rock","Dragon"],
 		baseStats: {"hp":100,"atk":120,"def":120,"spa":200,"spd":200,"spe":90},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	palkia: {{
+	palkia: {
 		num: -98,
 		species: "Palkia",
 		types: ["Water","Dragon"],
 		baseStats: {"hp":90,"atk":120,"def":100,"spa":210,"spd":210,"spe":100},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	heatran: {{
+	heatran: {
 		num: -99,
 		species: "Heatran",
 		types: ["Fire","Rock"],
 		baseStats: {"hp":91,"atk":90,"def":106,"spa":183,"spd":183,"spe":77},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	regigigas: {{
+	regigigas: {
 		num: -100,
 		species: "Regigigas",
 		types: ["Normal"],
 		baseStats: {"hp":110,"atk":160,"def":110,"spa":135,"spd":135,"spe":100},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	giratina: {{
+	giratina: {
 		num: -101,
 		species: "Giratina",
 		types: ["Ghost","Dragon"],
 		baseStats: {"hp":150,"atk":100,"def":120,"spa":160,"spd":160,"spe":90},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	cresselia: {{
+	cresselia: {
 		num: -102,
 		species: "Cresselia",
 		types: ["Psychic"],
 		baseStats: {"hp":120,"atk":70,"def":120,"spa":140,"spd":140,"spe":85},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	phione: {{
+	phione: {
 		num: -103,
 		species: "Phione",
 		types: ["Water"],
 		baseStats: {"hp":80,"atk":80,"def":80,"spa":120,"spd":120,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	manaphy: {{
+	manaphy: {
 		num: -104,
 		species: "Manaphy",
 		types: ["Water"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	darkrai: {{
+	darkrai: {
 		num: -105,
 		species: "Darkrai",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":90,"def":90,"spa":180,"spd":180,"spe":125},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	shaymin: {{
+	shaymin: {
 		num: -106,
 		species: "Shaymin",
 		types: ["Grass"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	arceus: {{
+	arceus: {
 		num: -107,
 		species: "Arceus",
 		types: ["Normal"],
 		baseStats: {"hp":120,"atk":120,"def":120,"spa":180,"spd":180,"spe":120},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	victini: {{
+	victini: {
 		num: -108,
 		species: "Victini",
 		types: ["Psychic","Fire"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":150,"spd":150,"spe":100},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	snivy: {{
+	snivy: {
 		num: -109,
 		species: "Snivy",
 		types: ["Grass"],
 		baseStats: {"hp":45,"atk":45,"def":55,"spa":73,"spd":73,"spe":63},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	servine: {{
+	servine: {
 		num: -110,
 		species: "Servine",
 		types: ["Grass"],
 		baseStats: {"hp":60,"atk":60,"def":75,"spa":98,"spd":98,"spe":83},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	serperior: {{
+	serperior: {
 		num: -111,
 		species: "Serperior",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":75,"def":95,"spa":123,"spd":123,"spe":113},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	tepig: {{
+	tepig: {
 		num: -112,
 		species: "Tepig",
 		types: ["Fire"],
 		baseStats: {"hp":65,"atk":63,"def":45,"spa":68,"spd":68,"spe":45},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	pignite: {{
+	pignite: {
 		num: -113,
 		species: "Pignite",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":90,"atk":93,"def":55,"spa":98,"spd":98,"spe":55},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	emboar: {{
+	emboar: {
 		num: -114,
 		species: "Emboar",
 		types: ["Fire","Fighting"],
 		baseStats: {"hp":110,"atk":123,"def":65,"spa":133,"spd":133,"spe":65},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	oshawott: {{
+	oshawott: {
 		num: -115,
 		species: "Oshawott",
 		types: ["Water"],
 		baseStats: {"hp":55,"atk":55,"def":45,"spa":86,"spd":86,"spe":45},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	dewott: {{
+	dewott: {
 		num: -116,
 		species: "Dewott",
 		types: ["Water"],
 		baseStats: {"hp":75,"atk":75,"def":60,"spa":113,"spd":113,"spe":60},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	samurott: {{
+	samurott: {
 		num: -117,
 		species: "Samurott",
 		types: ["Water"],
 		baseStats: {"hp":95,"atk":100,"def":85,"spa":143,"spd":143,"spe":70},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	patrat: {{
+	patrat: {
 		num: -118,
 		species: "Patrat",
 		types: ["Normal"],
 		baseStats: {"hp":45,"atk":55,"def":39,"spa":55,"spd":55,"spe":42},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	watchog: {{
+	watchog: {
 		num: -119,
 		species: "Watchog",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":85,"def":69,"spa":95,"spd":95,"spe":77},
 		abilities: {"0":"Illuminate","1":"No Ability","H":"No Ability"},
 	},
-	lillipup: {{
+	lillipup: {
 		num: -120,
 		species: "Lillipup",
 		types: ["Normal"],
 		baseStats: {"hp":45,"atk":60,"def":45,"spa":48,"spd":48,"spe":55},
 		abilities: {"0":"Vital Spirit","1":"No Ability","H":"No Ability"},
 	},
-	herdier: {{
+	herdier: {
 		num: -121,
 		species: "Herdier",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":80,"def":65,"spa":68,"spd":68,"spe":60},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	stoutland: {{
+	stoutland: {
 		num: -122,
 		species: "Stoutland",
 		types: ["Normal"],
 		baseStats: {"hp":85,"atk":110,"def":90,"spa":90,"spd":90,"spe":80},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	purrloin: {{
+	purrloin: {
 		num: -123,
 		species: "Purrloin",
 		types: ["Normal"],
 		baseStats: {"hp":41,"atk":50,"def":37,"spa":69,"spd":69,"spe":66},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	liepard: {{
+	liepard: {
 		num: -124,
 		species: "Liepard",
 		types: ["Normal"],
 		baseStats: {"hp":64,"atk":88,"def":50,"spa":113,"spd":113,"spe":106},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	pansage: {{
+	pansage: {
 		num: -125,
 		species: "Pansage",
 		types: ["Grass"],
 		baseStats: {"hp":50,"atk":53,"def":48,"spa":77,"spd":77,"spe":64},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	simisage: {{
+	simisage: {
 		num: -126,
 		species: "Simisage",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":98,"def":63,"spa":130,"spd":130,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pansear: {{
+	pansear: {
 		num: -127,
 		species: "Pansear",
 		types: ["Fire"],
 		baseStats: {"hp":50,"atk":53,"def":48,"spa":77,"spd":77,"spe":64},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	simisear: {{
+	simisear: {
 		num: -128,
 		species: "Simisear",
 		types: ["Fire"],
 		baseStats: {"hp":75,"atk":98,"def":63,"spa":130,"spd":130,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	panpour: {{
+	panpour: {
 		num: -129,
 		species: "Panpour",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":53,"def":48,"spa":77,"spd":77,"spe":64},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	simipour: {{
+	simipour: {
 		num: -130,
 		species: "Simipour",
 		types: ["Water"],
 		baseStats: {"hp":75,"atk":98,"def":63,"spa":130,"spd":130,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	munna: {{
+	munna: {
 		num: -131,
 		species: "Munna",
 		types: ["Psychic"],
 		baseStats: {"hp":76,"atk":25,"def":45,"spa":95,"spd":95,"spe":24},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	musharna: {{
+	musharna: {
 		num: -132,
 		species: "Musharna",
 		types: ["Psychic"],
 		baseStats: {"hp":116,"atk":55,"def":85,"spa":155,"spd":155,"spe":29},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pidove: {{
+	pidove: {
 		num: -133,
 		species: "Pidove",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":50,"atk":55,"def":50,"spa":51,"spd":51,"spe":43},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tranquill: {{
+	tranquill: {
 		num: -134,
 		species: "Tranquill",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":62,"atk":77,"def":62,"spa":71,"spd":71,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	unfezant: {{
+	unfezant: {
 		num: -135,
 		species: "Unfezant",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":80,"atk":115,"def":80,"spa":93,"spd":93,"spe":93},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	blitzle: {{
+	blitzle: {
 		num: -136,
 		species: "Blitzle",
 		types: ["Electric"],
 		baseStats: {"hp":45,"atk":60,"def":32,"spa":66,"spd":66,"spe":76},
 		abilities: {"0":"Lightning Rod","1":"No Ability","H":"No Ability"},
 	},
-	zebstrika: {{
+	zebstrika: {
 		num: -137,
 		species: "Zebstrika",
 		types: ["Electric"],
 		baseStats: {"hp":75,"atk":100,"def":63,"spa":112,"spd":112,"spe":116},
 		abilities: {"0":"Lightning Rod","1":"No Ability","H":"No Ability"},
 	},
-	roggenrola: {{
+	roggenrola: {
 		num: -138,
 		species: "Roggenrola",
 		types: ["Rock"],
 		baseStats: {"hp":55,"atk":75,"def":85,"spa":38,"spd":38,"spe":15},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	boldore: {{
+	boldore: {
 		num: -139,
 		species: "Boldore",
 		types: ["Rock"],
 		baseStats: {"hp":70,"atk":105,"def":105,"spa":70,"spd":70,"spe":20},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	gigalith: {{
+	gigalith: {
 		num: -140,
 		species: "Gigalith",
 		types: ["Rock"],
 		baseStats: {"hp":85,"atk":135,"def":130,"spa":100,"spd":100,"spe":25},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	woobat: {{
+	woobat: {
 		num: -141,
 		species: "Woobat",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":65,"atk":45,"def":43,"spa":77,"spd":77,"spe":72},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	swoobat: {{
+	swoobat: {
 		num: -142,
 		species: "Swoobat",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":67,"atk":57,"def":55,"spa":105,"spd":105,"spe":114},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	drilbur: {{
+	drilbur: {
 		num: -143,
 		species: "Drilbur",
 		types: ["Ground"],
 		baseStats: {"hp":60,"atk":85,"def":40,"spa":53,"spd":53,"spe":68},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	excadrill: {{
+	excadrill: {
 		num: -144,
 		species: "Excadrill",
 		types: ["Ground","Rock"],
 		baseStats: {"hp":110,"atk":135,"def":60,"spa":83,"spd":83,"spe":88},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	audino: {{
+	audino: {
 		num: -145,
 		species: "Audino",
 		types: ["Normal"],
 		baseStats: {"hp":103,"atk":60,"def":86,"spa":103,"spd":103,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	timburr: {{
+	timburr: {
 		num: -146,
 		species: "Timburr",
 		types: ["Fighting"],
 		baseStats: {"hp":75,"atk":80,"def":55,"spa":43,"spd":43,"spe":35},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	gurdurr: {{
+	gurdurr: {
 		num: -147,
 		species: "Gurdurr",
 		types: ["Fighting"],
 		baseStats: {"hp":85,"atk":105,"def":85,"spa":65,"spd":65,"spe":40},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	conkeldurr: {{
+	conkeldurr: {
 		num: -148,
 		species: "Conkeldurr",
 		types: ["Fighting"],
 		baseStats: {"hp":105,"atk":140,"def":95,"spa":88,"spd":88,"spe":45},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	tympole: {{
+	tympole: {
 		num: -149,
 		species: "Tympole",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":50,"def":40,"spa":70,"spd":70,"spe":64},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	palpitoad: {{
+	palpitoad: {
 		num: -150,
 		species: "Palpitoad",
 		types: ["Water","Ground"],
 		baseStats: {"hp":75,"atk":65,"def":55,"spa":93,"spd":93,"spe":69},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	seismitoad: {{
+	seismitoad: {
 		num: -151,
 		species: "Seismitoad",
 		types: ["Water","Ground"],
 		baseStats: {"hp":105,"atk":95,"def":75,"spa":123,"spd":123,"spe":74},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	throh: {{
+	throh: {
 		num: -152,
 		species: "Throh",
 		types: ["Fighting"],
 		baseStats: {"hp":120,"atk":100,"def":85,"spa":73,"spd":73,"spe":45},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 	},
-	sawk: {{
+	sawk: {
 		num: -153,
 		species: "Sawk",
 		types: ["Fighting"],
 		baseStats: {"hp":75,"atk":125,"def":75,"spa":68,"spd":68,"spe":85},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	sewaddle: {{
+	sewaddle: {
 		num: -154,
 		species: "Sewaddle",
 		types: ["Bug","Grass"],
 		baseStats: {"hp":45,"atk":53,"def":70,"spa":70,"spd":70,"spe":42},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	swadloon: {{
+	swadloon: {
 		num: -155,
 		species: "Swadloon",
 		types: ["Bug","Grass"],
 		baseStats: {"hp":55,"atk":63,"def":90,"spa":90,"spd":90,"spe":42},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	leavanny: {{
+	leavanny: {
 		num: -156,
 		species: "Leavanny",
 		types: ["Bug","Grass"],
 		baseStats: {"hp":75,"atk":103,"def":80,"spa":110,"spd":110,"spe":92},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	venipede: {{
+	venipede: {
 		num: -157,
 		species: "Venipede",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":30,"atk":45,"def":59,"spa":50,"spd":50,"spe":57},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	whirlipede: {{
+	whirlipede: {
 		num: -158,
 		species: "Whirlipede",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":40,"atk":55,"def":99,"spa":80,"spd":80,"spe":47},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	scolipede: {{
+	scolipede: {
 		num: -159,
 		species: "Scolipede",
 		types: ["Bug","Poison"],
 		baseStats: {"hp":60,"atk":100,"def":89,"spa":90,"spd":90,"spe":112},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	cottonee: {{
+	cottonee: {
 		num: -160,
 		species: "Cottonee",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":40,"atk":27,"def":60,"spa":62,"spd":62,"spe":66},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	whimsicott: {{
+	whimsicott: {
 		num: -161,
 		species: "Whimsicott",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":60,"atk":67,"def":85,"spa":115,"spd":115,"spe":116},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	petilil: {{
+	petilil: {
 		num: -162,
 		species: "Petilil",
 		types: ["Grass"],
 		baseStats: {"hp":45,"atk":35,"def":50,"spa":95,"spd":95,"spe":30},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	lilligant: {{
+	lilligant: {
 		num: -163,
 		species: "Lilligant",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":60,"def":75,"spa":148,"spd":148,"spe":90},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	basculin: {{
+	basculin: {
 		num: -164,
 		species: "Basculin",
 		types: ["Water"],
 		baseStats: {"hp":70,"atk":92,"def":65,"spa":108,"spd":108,"spe":98},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sandile: {{
+	sandile: {
 		num: -165,
 		species: "Sandile",
 		types: ["Ground","Normal"],
 		baseStats: {"hp":50,"atk":72,"def":35,"spa":53,"spd":53,"spe":65},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	krokorok: {{
+	krokorok: {
 		num: -166,
 		species: "Krokorok",
 		types: ["Ground","Normal"],
 		baseStats: {"hp":60,"atk":82,"def":45,"spa":68,"spd":68,"spe":74},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	krookodile: {{
+	krookodile: {
 		num: -167,
 		species: "Krookodile",
 		types: ["Ground","Normal"],
 		baseStats: {"hp":95,"atk":117,"def":80,"spa":100,"spd":100,"spe":92},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 	},
-	darumaka: {{
+	darumaka: {
 		num: -168,
 		species: "Darumaka",
 		types: ["Fire"],
 		baseStats: {"hp":70,"atk":90,"def":45,"spa":38,"spd":38,"spe":50},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	darumakagalar: {{
+	darumakagalar: {
 		num: -168,
 		species: "Darumaka-Galar",
 		types: ["Ice"],
 		baseStats: {"hp":70,"atk":90,"def":45,"spa":38,"spd":38,"spe":50},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	darmanitan: {{
+	darmanitan: {
 		num: -169,
 		species: "Darmanitan",
 		types: ["Fire"],
 		baseStats: {"hp":105,"atk":140,"def":55,"spa":58,"spd":58,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	darmanitangalar: {{
+	darmanitangalar: {
 		num: -169,
 		species: "Darmanitan-Galar",
 		types: ["Ice"],
 		baseStats: {"hp":105,"atk":140,"def":55,"spa":58,"spd":58,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	maractus: {{
+	maractus: {
 		num: -170,
 		species: "Maractus",
 		types: ["Grass"],
 		baseStats: {"hp":75,"atk":86,"def":67,"spa":140,"spd":140,"spe":60},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	dwebble: {{
+	dwebble: {
 		num: -171,
 		species: "Dwebble",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":50,"atk":65,"def":85,"spa":53,"spd":53,"spe":55},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	crustle: {{
+	crustle: {
 		num: -172,
 		species: "Crustle",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":70,"atk":105,"def":125,"spa":103,"spd":103,"spe":45},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	scraggy: {{
+	scraggy: {
 		num: -173,
 		species: "Scraggy",
 		types: ["Normal","Fighting"],
 		baseStats: {"hp":50,"atk":75,"def":70,"spa":70,"spd":70,"spe":48},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	scrafty: {{
+	scrafty: {
 		num: -174,
 		species: "Scrafty",
 		types: ["Normal","Fighting"],
 		baseStats: {"hp":65,"atk":90,"def":115,"spa":103,"spd":103,"spe":58},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	sigilyph: {{
+	sigilyph: {
 		num: -175,
 		species: "Sigilyph",
 		types: ["Psychic","Flying"],
 		baseStats: {"hp":72,"atk":58,"def":80,"spa":143,"spd":143,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	yamask: {{
+	yamask: {
 		num: -176,
 		species: "Yamask",
 		types: ["Ghost"],
 		baseStats: {"hp":38,"atk":30,"def":85,"spa":88,"spd":88,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	yamaskgalar: {{
+	yamaskgalar: {
 		num: -176,
 		species: "Yamask-Galar",
 		types: ["Ground","Ghost"],
 		baseStats: {"hp":38,"atk":55,"def":85,"spa":63,"spd":63,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cofagrigus: {{
+	cofagrigus: {
 		num: -177,
 		species: "Cofagrigus",
 		types: ["Ghost"],
 		baseStats: {"hp":58,"atk":50,"def":145,"spa":148,"spd":148,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	runerigus: {{
+	runerigus: {
 		num: -481,
 		species: "Runerigus",
 		types: ["Ground","Ghost"],
 		baseStats: {"hp":58,"atk":95,"def":145,"spa":103,"spd":103,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tirtouga: {{
+	tirtouga: {
 		num: -178,
 		species: "Tirtouga",
 		types: ["Water","Rock"],
 		baseStats: {"hp":54,"atk":78,"def":103,"spa":76,"spd":76,"spe":22},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	carracosta: {{
+	carracosta: {
 		num: -179,
 		species: "Carracosta",
 		types: ["Water","Rock"],
 		baseStats: {"hp":74,"atk":108,"def":133,"spa":116,"spd":116,"spe":32},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	archen: {{
+	archen: {
 		num: -180,
 		species: "Archen",
 		types: ["Rock","Flying"],
 		baseStats: {"hp":55,"atk":112,"def":45,"spa":97,"spd":97,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	archeops: {{
+	archeops: {
 		num: -181,
 		species: "Archeops",
 		types: ["Rock","Flying"],
 		baseStats: {"hp":75,"atk":140,"def":65,"spa":145,"spd":145,"spe":110},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	trubbish: {{
+	trubbish: {
 		num: -182,
 		species: "Trubbish",
 		types: ["Poison"],
 		baseStats: {"hp":50,"atk":50,"def":62,"spa":71,"spd":71,"spe":65},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 	},
-	garbodor: {{
+	garbodor: {
 		num: -183,
 		species: "Garbodor",
 		types: ["Poison"],
 		baseStats: {"hp":80,"atk":95,"def":82,"spa":101,"spd":101,"spe":75},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 	},
-	zorua: {{
+	zorua: {
 		num: -184,
 		species: "Zorua",
 		types: ["Normal"],
 		baseStats: {"hp":40,"atk":65,"def":40,"spa":100,"spd":100,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zoroark: {{
+	zoroark: {
 		num: -185,
 		species: "Zoroark",
 		types: ["Normal"],
 		baseStats: {"hp":60,"atk":105,"def":60,"spa":150,"spd":150,"spe":105},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	minccino: {{
+	minccino: {
 		num: -186,
 		species: "Minccino",
 		types: ["Normal"],
 		baseStats: {"hp":55,"atk":50,"def":40,"spa":60,"spd":60,"spe":75},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	cinccino: {{
+	cinccino: {
 		num: -187,
 		species: "Cinccino",
 		types: ["Normal"],
 		baseStats: {"hp":75,"atk":95,"def":60,"spa":95,"spd":95,"spe":115},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	gothita: {{
+	gothita: {
 		num: -188,
 		species: "Gothita",
 		types: ["Psychic"],
 		baseStats: {"hp":45,"atk":30,"def":50,"spa":88,"spd":88,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	gothorita: {{
+	gothorita: {
 		num: -189,
 		species: "Gothorita",
 		types: ["Psychic"],
 		baseStats: {"hp":60,"atk":45,"def":70,"spa":118,"spd":118,"spe":55},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	gothitelle: {{
+	gothitelle: {
 		num: -190,
 		species: "Gothitelle",
 		types: ["Psychic"],
 		baseStats: {"hp":70,"atk":55,"def":95,"spa":150,"spd":150,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	solosis: {{
+	solosis: {
 		num: -191,
 		species: "Solosis",
 		types: ["Psychic"],
 		baseStats: {"hp":45,"atk":30,"def":40,"spa":130,"spd":130,"spe":20},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	duosion: {{
+	duosion: {
 		num: -192,
 		species: "Duosion",
 		types: ["Psychic"],
 		baseStats: {"hp":65,"atk":40,"def":50,"spa":155,"spd":155,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	reuniclus: {{
+	reuniclus: {
 		num: -193,
 		species: "Reuniclus",
 		types: ["Psychic"],
 		baseStats: {"hp":110,"atk":65,"def":75,"spa":168,"spd":168,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	ducklett: {{
+	ducklett: {
 		num: -194,
 		species: "Ducklett",
 		types: ["Water","Flying"],
 		baseStats: {"hp":62,"atk":44,"def":50,"spa":69,"spd":69,"spe":55},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	swanna: {{
+	swanna: {
 		num: -195,
 		species: "Swanna",
 		types: ["Water","Flying"],
 		baseStats: {"hp":75,"atk":87,"def":63,"spa":119,"spd":119,"spe":98},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	vanillite: {{
+	vanillite: {
 		num: -196,
 		species: "Vanillite",
 		types: ["Ice"],
 		baseStats: {"hp":36,"atk":50,"def":50,"spa":95,"spd":95,"spe":44},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	vanillish: {{
+	vanillish: {
 		num: -197,
 		species: "Vanillish",
 		types: ["Ice"],
 		baseStats: {"hp":51,"atk":65,"def":65,"spa":118,"spd":118,"spe":59},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	vanilluxe: {{
+	vanilluxe: {
 		num: -198,
 		species: "Vanilluxe",
 		types: ["Ice"],
 		baseStats: {"hp":71,"atk":95,"def":85,"spa":158,"spd":158,"spe":79},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	deerling: {{
+	deerling: {
 		num: -199,
 		species: "Deerling",
 		types: ["Normal","Grass"],
 		baseStats: {"hp":60,"atk":60,"def":50,"spa":65,"spd":65,"spe":75},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	sawsbuck: {{
+	sawsbuck: {
 		num: -200,
 		species: "Sawsbuck",
 		types: ["Normal","Grass"],
 		baseStats: {"hp":80,"atk":100,"def":70,"spa":95,"spd":95,"spe":95},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 	},
-	emolga: {{
+	emolga: {
 		num: -201,
 		species: "Emolga",
 		types: ["Electric","Flying"],
 		baseStats: {"hp":55,"atk":75,"def":60,"spa":105,"spd":105,"spe":103},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	karrablast: {{
+	karrablast: {
 		num: -202,
 		species: "Karrablast",
 		types: ["Bug"],
 		baseStats: {"hp":50,"atk":75,"def":45,"spa":63,"spd":63,"spe":60},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	escavalier: {{
+	escavalier: {
 		num: -203,
 		species: "Escavalier",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":70,"atk":135,"def":105,"spa":113,"spd":113,"spe":20},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	foongus: {{
+	foongus: {
 		num: -204,
 		species: "Foongus",
 		types: ["Grass","Poison"],
 		baseStats: {"hp":69,"atk":55,"def":45,"spa":83,"spd":83,"spe":15},
 		abilities: {"0":"Effect Spore","1":"No Ability","H":"No Ability"},
 	},
-	amoonguss: {{
+	amoonguss: {
 		num: -205,
 		species: "Amoonguss",
 		types: ["Grass","Poison"],
 		baseStats: {"hp":114,"atk":85,"def":70,"spa":125,"spd":125,"spe":30},
 		abilities: {"0":"Effect Spore","1":"No Ability","H":"No Ability"},
 	},
-	frillish: {{
+	frillish: {
 		num: -206,
 		species: "Frillish",
 		types: ["Water","Ghost"],
 		baseStats: {"hp":55,"atk":40,"def":50,"spa":108,"spd":108,"spe":40},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	jellicent: {{
+	jellicent: {
 		num: -207,
 		species: "Jellicent",
 		types: ["Water","Ghost"],
 		baseStats: {"hp":100,"atk":60,"def":70,"spa":138,"spd":138,"spe":60},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	alomomola: {{
+	alomomola: {
 		num: -208,
 		species: "Alomomola",
 		types: ["Water"],
 		baseStats: {"hp":165,"atk":75,"def":80,"spa":63,"spd":63,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	joltik: {{
+	joltik: {
 		num: -209,
 		species: "Joltik",
 		types: ["Bug","Electric"],
 		baseStats: {"hp":50,"atk":47,"def":50,"spa":82,"spd":82,"spe":65},
 		abilities: {"0":"Compound Eyes","1":"No Ability","H":"No Ability"},
 	},
-	galvantula: {{
+	galvantula: {
 		num: -210,
 		species: "Galvantula",
 		types: ["Bug","Electric"],
 		baseStats: {"hp":70,"atk":77,"def":60,"spa":127,"spd":127,"spe":108},
 		abilities: {"0":"Compound Eyes","1":"No Ability","H":"No Ability"},
 	},
-	ferroseed: {{
+	ferroseed: {
 		num: -211,
 		species: "Ferroseed",
 		types: ["Grass","Rock"],
 		baseStats: {"hp":44,"atk":50,"def":91,"spa":67,"spd":67,"spe":10},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	ferrothorn: {{
+	ferrothorn: {
 		num: -212,
 		species: "Ferrothorn",
 		types: ["Grass","Rock"],
 		baseStats: {"hp":74,"atk":94,"def":131,"spa":112,"spd":112,"spe":20},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	klink: {{
+	klink: {
 		num: -213,
 		species: "Klink",
 		types: ["Rock"],
 		baseStats: {"hp":40,"atk":55,"def":70,"spa":75,"spd":75,"spe":30},
 		abilities: {"0":"Plus","1":"No Ability","H":"No Ability"},
 	},
-	klang: {{
+	klang: {
 		num: -214,
 		species: "Klang",
 		types: ["Rock"],
 		baseStats: {"hp":60,"atk":80,"def":95,"spa":113,"spd":113,"spe":50},
 		abilities: {"0":"Plus","1":"No Ability","H":"No Ability"},
 	},
-	klinklang: {{
+	klinklang: {
 		num: -215,
 		species: "Klinklang",
 		types: ["Rock"],
 		baseStats: {"hp":60,"atk":100,"def":115,"spa":113,"spd":113,"spe":90},
 		abilities: {"0":"Plus","1":"No Ability","H":"No Ability"},
 	},
-	tynamo: {{
+	tynamo: {
 		num: -216,
 		species: "Tynamo",
 		types: ["Electric"],
 		baseStats: {"hp":35,"atk":55,"def":40,"spa":65,"spd":65,"spe":60},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	eelektrik: {{
+	eelektrik: {
 		num: -217,
 		species: "Eelektrik",
 		types: ["Electric"],
 		baseStats: {"hp":65,"atk":85,"def":70,"spa":110,"spd":110,"spe":40},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	eelektross: {{
+	eelektross: {
 		num: -218,
 		species: "Eelektross",
 		types: ["Electric"],
 		baseStats: {"hp":85,"atk":115,"def":80,"spa":145,"spd":145,"spe":50},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	elgyem: {{
+	elgyem: {
 		num: -219,
 		species: "Elgyem",
 		types: ["Psychic"],
 		baseStats: {"hp":55,"atk":55,"def":55,"spa":113,"spd":113,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	beheeyem: {{
+	beheeyem: {
 		num: -220,
 		species: "Beheeyem",
 		types: ["Psychic"],
 		baseStats: {"hp":75,"atk":75,"def":75,"spa":173,"spd":173,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	litwick: {{
+	litwick: {
 		num: -221,
 		species: "Litwick",
 		types: ["Ghost","Fire"],
 		baseStats: {"hp":50,"atk":30,"def":55,"spa":93,"spd":93,"spe":20},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	lampent: {{
+	lampent: {
 		num: -222,
 		species: "Lampent",
 		types: ["Ghost","Fire"],
 		baseStats: {"hp":60,"atk":40,"def":60,"spa":125,"spd":125,"spe":55},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	chandelure: {{
+	chandelure: {
 		num: -223,
 		species: "Chandelure",
 		types: ["Ghost","Fire"],
 		baseStats: {"hp":60,"atk":55,"def":90,"spa":190,"spd":190,"spe":80},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	axew: {{
+	axew: {
 		num: -224,
 		species: "Axew",
 		types: ["Dragon"],
 		baseStats: {"hp":46,"atk":87,"def":60,"spa":50,"spd":50,"spe":57},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	fraxure: {{
+	fraxure: {
 		num: -225,
 		species: "Fraxure",
 		types: ["Dragon"],
 		baseStats: {"hp":66,"atk":117,"def":70,"spa":65,"spd":65,"spe":67},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	haxorus: {{
+	haxorus: {
 		num: -226,
 		species: "Haxorus",
 		types: ["Dragon"],
 		baseStats: {"hp":76,"atk":147,"def":90,"spa":95,"spd":95,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cubchoo: {{
+	cubchoo: {
 		num: -227,
 		species: "Cubchoo",
 		types: ["Ice"],
 		baseStats: {"hp":55,"atk":70,"def":40,"spa":80,"spd":80,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	beartic: {{
+	beartic: {
 		num: -228,
 		species: "Beartic",
 		types: ["Ice"],
 		baseStats: {"hp":95,"atk":130,"def":80,"spa":110,"spd":110,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cryogonal: {{
+	cryogonal: {
 		num: -229,
 		species: "Cryogonal",
 		types: ["Ice"],
 		baseStats: {"hp":80,"atk":50,"def":50,"spa":163,"spd":163,"spe":105},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	shelmet: {{
+	shelmet: {
 		num: -230,
 		species: "Shelmet",
 		types: ["Bug"],
 		baseStats: {"hp":50,"atk":40,"def":85,"spa":73,"spd":73,"spe":25},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	accelgor: {{
+	accelgor: {
 		num: -231,
 		species: "Accelgor",
 		types: ["Bug"],
 		baseStats: {"hp":80,"atk":70,"def":40,"spa":130,"spd":130,"spe":145},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	stunfisk: {{
+	stunfisk: {
 		num: -232,
 		species: "Stunfisk",
 		types: ["Ground","Electric"],
 		baseStats: {"hp":109,"atk":66,"def":84,"spa":131,"spd":131,"spe":32},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 	},
-	stunfiskgalar: {{
+	stunfiskgalar: {
 		num: -232,
 		species: "Stunfisk-Galar",
 		types: ["Ground","Rock"],
 		baseStats: {"hp":109,"atk":81,"def":99,"spa":108,"spd":108,"spe":32},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mienfoo: {{
+	mienfoo: {
 		num: -233,
 		species: "Mienfoo",
 		types: ["Fighting"],
 		baseStats: {"hp":45,"atk":85,"def":50,"spa":80,"spd":80,"spe":65},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	mienshao: {{
+	mienshao: {
 		num: -234,
 		species: "Mienshao",
 		types: ["Fighting"],
 		baseStats: {"hp":65,"atk":125,"def":60,"spa":125,"spd":125,"spe":105},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	druddigon: {{
+	druddigon: {
 		num: -235,
 		species: "Druddigon",
 		types: ["Dragon"],
 		baseStats: {"hp":77,"atk":120,"def":90,"spa":105,"spd":105,"spe":48},
 		abilities: {"0":"Rough Skin","1":"No Ability","H":"No Ability"},
 	},
-	golett: {{
+	golett: {
 		num: -236,
 		species: "Golett",
 		types: ["Ground","Ghost"],
 		baseStats: {"hp":59,"atk":74,"def":50,"spa":60,"spd":60,"spe":35},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	golurk: {{
+	golurk: {
 		num: -237,
 		species: "Golurk",
 		types: ["Ground","Ghost"],
 		baseStats: {"hp":89,"atk":124,"def":80,"spa":95,"spd":95,"spe":55},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pawniard: {{
+	pawniard: {
 		num: -238,
 		species: "Pawniard",
 		types: ["Normal","Rock"],
 		baseStats: {"hp":45,"atk":85,"def":70,"spa":60,"spd":60,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bisharp: {{
+	bisharp: {
 		num: -239,
 		species: "Bisharp",
 		types: ["Normal","Rock"],
 		baseStats: {"hp":65,"atk":125,"def":100,"spa":95,"spd":95,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bouffalant: {{
+	bouffalant: {
 		num: -240,
 		species: "Bouffalant",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":110,"def":95,"spa":88,"spd":88,"spe":55},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rufflet: {{
+	rufflet: {
 		num: -241,
 		species: "Rufflet",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":70,"atk":83,"def":50,"spa":62,"spd":62,"spe":60},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	braviary: {{
+	braviary: {
 		num: -242,
 		species: "Braviary",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":100,"atk":123,"def":75,"spa":95,"spd":95,"spe":80},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	vullaby: {{
+	vullaby: {
 		num: -243,
 		species: "Vullaby",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":70,"atk":55,"def":75,"spa":78,"spd":78,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mandibuzz: {{
+	mandibuzz: {
 		num: -244,
 		species: "Mandibuzz",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":110,"atk":65,"def":105,"spa":103,"spd":103,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	heatmor: {{
+	heatmor: {
 		num: -245,
 		species: "Heatmor",
 		types: ["Fire"],
 		baseStats: {"hp":85,"atk":97,"def":66,"spa":138,"spd":138,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	durant: {{
+	durant: {
 		num: -246,
 		species: "Durant",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":58,"atk":109,"def":112,"spa":72,"spd":72,"spe":109},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	deino: {{
+	deino: {
 		num: -247,
 		species: "Deino",
 		types: ["Normal","Dragon"],
 		baseStats: {"hp":52,"atk":65,"def":50,"spa":70,"spd":70,"spe":38},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	zweilous: {{
+	zweilous: {
 		num: -248,
 		species: "Zweilous",
 		types: ["Normal","Dragon"],
 		baseStats: {"hp":72,"atk":85,"def":70,"spa":100,"spd":100,"spe":58},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
 	},
-	hydreigon: {{
+	hydreigon: {
 		num: -249,
 		species: "Hydreigon",
 		types: ["Normal","Dragon"],
 		baseStats: {"hp":92,"atk":105,"def":90,"spa":170,"spd":170,"spe":98},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	larvesta: {{
+	larvesta: {
 		num: -250,
 		species: "Larvesta",
 		types: ["Bug","Fire"],
 		baseStats: {"hp":55,"atk":85,"def":55,"spa":78,"spd":78,"spe":60},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	volcarona: {{
+	volcarona: {
 		num: -251,
 		species: "Volcarona",
 		types: ["Bug","Fire"],
 		baseStats: {"hp":85,"atk":60,"def":65,"spa":188,"spd":188,"spe":100},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	cobalion: {{
+	cobalion: {
 		num: -252,
 		species: "Cobalion",
 		types: ["Rock","Fighting"],
 		baseStats: {"hp":91,"atk":90,"def":129,"spa":126,"spd":126,"spe":108},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	terrakion: {{
+	terrakion: {
 		num: -253,
 		species: "Terrakion",
 		types: ["Rock","Fighting"],
 		baseStats: {"hp":91,"atk":129,"def":90,"spa":117,"spd":117,"spe":108},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	virizion: {{
+	virizion: {
 		num: -254,
 		species: "Virizion",
 		types: ["Grass","Fighting"],
 		baseStats: {"hp":91,"atk":90,"def":72,"spa":155,"spd":155,"spe":108},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tornadus: {{
+	tornadus: {
 		num: -255,
 		species: "Tornadus",
 		types: ["Flying"],
 		baseStats: {"hp":79,"atk":115,"def":70,"spa":165,"spd":165,"spe":111},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	thundurus: {{
+	thundurus: {
 		num: -256,
 		species: "Thundurus",
 		types: ["Electric","Flying"],
 		baseStats: {"hp":79,"atk":115,"def":70,"spa":165,"spd":165,"spe":111},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	reshiram: {{
+	reshiram: {
 		num: -257,
 		species: "Reshiram",
 		types: ["Dragon","Fire"],
 		baseStats: {"hp":100,"atk":120,"def":100,"spa":210,"spd":210,"spe":90},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zekrom: {{
+	zekrom: {
 		num: -258,
 		species: "Zekrom",
 		types: ["Dragon","Electric"],
 		baseStats: {"hp":100,"atk":150,"def":120,"spa":170,"spd":170,"spe":90},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	landorus: {{
+	landorus: {
 		num: -259,
 		species: "Landorus",
 		types: ["Ground","Flying"],
 		baseStats: {"hp":89,"atk":125,"def":90,"spa":155,"spd":155,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kyurem: {{
+	kyurem: {
 		num: -260,
 		species: "Kyurem",
 		types: ["Dragon","Ice"],
 		baseStats: {"hp":125,"atk":130,"def":90,"spa":175,"spd":175,"spe":95},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	kyuremblack: {{
+	kyuremblack: {
 		num: -260,
 		species: "Kyurem-Black",
 		types: ["Dragon","Ice"],
 		baseStats: {"hp":125,"atk":170,"def":100,"spa":165,"spd":165,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kyuremwhite: {{
+	kyuremwhite: {
 		num: -260,
 		species: "Kyurem-White",
 		types: ["Dragon","Ice"],
 		baseStats: {"hp":125,"atk":120,"def":90,"spa":220,"spd":220,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	keldeo: {{
+	keldeo: {
 		num: -261,
 		species: "Keldeo",
 		types: ["Water","Fighting"],
 		baseStats: {"hp":91,"atk":72,"def":90,"spa":174,"spd":174,"spe":108},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	meloetta: {{
+	meloetta: {
 		num: -262,
 		species: "Meloetta",
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":100,"atk":77,"def":77,"spa":192,"spd":192,"spe":90},
 		abilities: {"0":"Serene Grace","1":"No Ability","H":"No Ability"},
 	},
-	genesect: {{
+	genesect: {
 		num: -263,
 		species: "Genesect",
 		types: ["Bug","Rock"],
 		baseStats: {"hp":71,"atk":120,"def":95,"spa":168,"spd":168,"spe":99},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	chespin: {{
+	chespin: {
 		num: -264,
 		species: "Chespin",
 		types: ["Grass"],
 		baseStats: {"hp":56,"atk":61,"def":65,"spa":71,"spd":71,"spe":38},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	quilladin: {{
+	quilladin: {
 		num: -265,
 		species: "Quilladin",
 		types: ["Grass"],
 		baseStats: {"hp":61,"atk":78,"def":95,"spa":85,"spd":85,"spe":57},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	chesnaught: {{
+	chesnaught: {
 		num: -266,
 		species: "Chesnaught",
 		types: ["Grass","Fighting"],
 		baseStats: {"hp":88,"atk":107,"def":122,"spa":112,"spd":112,"spe":64},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	fennekin: {{
+	fennekin: {
 		num: -267,
 		species: "Fennekin",
 		types: ["Fire"],
 		baseStats: {"hp":40,"atk":45,"def":40,"spa":92,"spd":92,"spe":60},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	braixen: {{
+	braixen: {
 		num: -268,
 		species: "Braixen",
 		types: ["Fire"],
 		baseStats: {"hp":59,"atk":59,"def":58,"spa":125,"spd":125,"spe":73},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	delphox: {{
+	delphox: {
 		num: -269,
 		species: "Delphox",
 		types: ["Fire","Psychic"],
 		baseStats: {"hp":75,"atk":69,"def":72,"spa":164,"spd":164,"spe":104},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	froakie: {{
+	froakie: {
 		num: -270,
 		species: "Froakie",
 		types: ["Water"],
 		baseStats: {"hp":41,"atk":56,"def":40,"spa":84,"spd":84,"spe":71},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	frogadier: {{
+	frogadier: {
 		num: -271,
 		species: "Frogadier",
 		types: ["Water"],
 		baseStats: {"hp":54,"atk":63,"def":52,"spa":111,"spd":111,"spe":97},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	greninja: {{
+	greninja: {
 		num: -272,
 		species: "Greninja",
 		types: ["Water","Normal"],
 		baseStats: {"hp":72,"atk":95,"def":67,"spa":139,"spd":139,"spe":122},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability","S":"Battle Bond"},
 	},
-	greninjaash: {{
+	greninjaash: {
 		num: -272,
 		species: "Greninja-Ash",
 		types: ["Water","Normal"],
 		baseStats: {"hp":72,"atk":145,"def":67,"spa":189,"spd":189,"spe":132},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bunnelby: {{
+	bunnelby: {
 		num: -273,
 		species: "Bunnelby",
 		types: ["Normal"],
 		baseStats: {"hp":38,"atk":36,"def":38,"spa":50,"spd":50,"spe":57},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	diggersby: {{
+	diggersby: {
 		num: -274,
 		species: "Diggersby",
 		types: ["Normal","Ground"],
 		baseStats: {"hp":85,"atk":56,"def":77,"spa":89,"spd":89,"spe":78},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	fletchling: {{
+	fletchling: {
 		num: -275,
 		species: "Fletchling",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":45,"atk":50,"def":43,"spa":59,"spd":59,"spe":62},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	fletchinder: {{
+	fletchinder: {
 		num: -276,
 		species: "Fletchinder",
 		types: ["Fire","Flying"],
 		baseStats: {"hp":62,"atk":73,"def":55,"spa":82,"spd":82,"spe":84},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	talonflame: {{
+	talonflame: {
 		num: -277,
 		species: "Talonflame",
 		types: ["Fire","Flying"],
 		baseStats: {"hp":78,"atk":81,"def":71,"spa":109,"spd":109,"spe":126},
 		abilities: {"0":"Flame Body","1":"No Ability","H":"No Ability"},
 	},
-	scatterbug: {{
+	scatterbug: {
 		num: -278,
 		species: "Scatterbug",
 		types: ["Bug"],
 		baseStats: {"hp":38,"atk":35,"def":40,"spa":40,"spd":40,"spe":35},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	spewpa: {{
+	spewpa: {
 		num: -279,
 		species: "Spewpa",
 		types: ["Bug"],
 		baseStats: {"hp":45,"atk":22,"def":60,"spa":42,"spd":42,"spe":29},
 		abilities: {"0":"Shed Skin","1":"No Ability","H":"No Ability"},
 	},
-	vivillon: {{
+	vivillon: {
 		num: -280,
 		species: "Vivillon",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":80,"atk":52,"def":50,"spa":115,"spd":115,"spe":89},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	vivillonfancy: {{
+	vivillonfancy: {
 		num: -280,
 		species: "Vivillon-Fancy",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":80,"atk":52,"def":50,"spa":115,"spd":115,"spe":89},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	vivillonpokeball: {{
+	vivillonpokeball: {
 		num: -280,
 		species: "Vivillon-Pokeball",
 		types: ["Bug","Flying"],
 		baseStats: {"hp":80,"atk":52,"def":50,"spa":115,"spd":115,"spe":89},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	litleo: {{
+	litleo: {
 		num: -281,
 		species: "Litleo",
 		types: ["Fire","Normal"],
 		baseStats: {"hp":62,"atk":50,"def":58,"spa":100,"spd":100,"spe":72},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pyroar: {{
+	pyroar: {
 		num: -282,
 		species: "Pyroar",
 		types: ["Fire","Normal"],
 		baseStats: {"hp":86,"atk":68,"def":72,"spa":142,"spd":142,"spe":106},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	flabebe: {{
+	flabebe: {
 		num: -283,
 		species: "Flabébé",
 		types: ["Normal"],
 		baseStats: {"hp":44,"atk":38,"def":39,"spa":101,"spd":101,"spe":42},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	floette: {{
+	floette: {
 		num: -284,
 		species: "Floette",
 		types: ["Normal"],
 		baseStats: {"hp":54,"atk":45,"def":47,"spa":124,"spd":124,"spe":52},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	floetteeternal: {{
+	floetteeternal: {
 		num: -284,
 		species: "Floette-Eternal",
 		types: ["Normal"],
 		baseStats: {"hp":74,"atk":65,"def":67,"spa":189,"spd":189,"spe":92},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	florges: {{
+	florges: {
 		num: -285,
 		species: "Florges",
 		types: ["Normal"],
 		baseStats: {"hp":78,"atk":65,"def":68,"spa":189,"spd":189,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	skiddo: {{
+	skiddo: {
 		num: -286,
 		species: "Skiddo",
 		types: ["Grass"],
 		baseStats: {"hp":66,"atk":65,"def":48,"spa":91,"spd":91,"spe":52},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	gogoat: {{
+	gogoat: {
 		num: -287,
 		species: "Gogoat",
 		types: ["Grass"],
 		baseStats: {"hp":123,"atk":100,"def":62,"spa":138,"spd":138,"spe":68},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pancham: {{
+	pancham: {
 		num: -288,
 		species: "Pancham",
 		types: ["Fighting"],
 		baseStats: {"hp":67,"atk":82,"def":62,"spa":70,"spd":70,"spe":43},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pangoro: {{
+	pangoro: {
 		num: -289,
 		species: "Pangoro",
 		types: ["Fighting","Normal"],
 		baseStats: {"hp":95,"atk":124,"def":78,"spa":105,"spd":105,"spe":58},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	furfrou: {{
+	furfrou: {
 		num: -290,
 		species: "Furfrou",
 		types: ["Normal"],
 		baseStats: {"hp":75,"atk":80,"def":60,"spa":110,"spd":110,"spe":102},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	espurr: {{
+	espurr: {
 		num: -291,
 		species: "Espurr",
 		types: ["Psychic"],
 		baseStats: {"hp":62,"atk":48,"def":54,"spa":93,"spd":93,"spe":68},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	meowstic: {{
+	meowstic: {
 		num: -292,
 		species: "Meowstic",
 		types: ["Psychic"],
 		baseStats: {"hp":74,"atk":48,"def":76,"spa":124,"spd":124,"spe":104},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	meowsticf: {{
+	meowsticf: {
 		num: -292,
 		species: "Meowstic-F",
 		types: ["Psychic"],
 		baseStats: {"hp":74,"atk":48,"def":76,"spa":124,"spd":124,"spe":104},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	honedge: {{
+	honedge: {
 		num: -293,
 		species: "Honedge",
 		types: ["Rock","Ghost"],
 		baseStats: {"hp":45,"atk":80,"def":100,"spa":54,"spd":54,"spe":28},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	doublade: {{
+	doublade: {
 		num: -294,
 		species: "Doublade",
 		types: ["Rock","Ghost"],
 		baseStats: {"hp":59,"atk":110,"def":150,"spa":70,"spd":70,"spe":35},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	aegislash: {{
+	aegislash: {
 		num: -295,
 		species: "Aegislash",
 		types: ["Rock","Ghost"],
 		baseStats: {"hp":60,"atk":50,"def":140,"spa":120,"spd":120,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	spritzee: {{
+	spritzee: {
 		num: -296,
 		species: "Spritzee",
 		types: ["Normal"],
 		baseStats: {"hp":78,"atk":52,"def":60,"spa":96,"spd":96,"spe":23},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	aromatisse: {{
+	aromatisse: {
 		num: -297,
 		species: "Aromatisse",
 		types: ["Normal"],
 		baseStats: {"hp":101,"atk":72,"def":72,"spa":144,"spd":144,"spe":29},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	swirlix: {{
+	swirlix: {
 		num: -298,
 		species: "Swirlix",
 		types: ["Normal"],
 		baseStats: {"hp":62,"atk":48,"def":66,"spa":88,"spd":88,"spe":49},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	slurpuff: {{
+	slurpuff: {
 		num: -299,
 		species: "Slurpuff",
 		types: ["Normal"],
 		baseStats: {"hp":82,"atk":80,"def":86,"spa":123,"spd":123,"spe":72},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	inkay: {{
+	inkay: {
 		num: -300,
 		species: "Inkay",
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":53,"atk":54,"def":53,"spa":60,"spd":60,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	malamar: {{
+	malamar: {
 		num: -301,
 		species: "Malamar",
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":86,"atk":92,"def":88,"spa":106,"spd":106,"spe":73},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	binacle: {{
+	binacle: {
 		num: -302,
 		species: "Binacle",
 		types: ["Rock","Water"],
 		baseStats: {"hp":42,"atk":52,"def":67,"spa":67,"spd":67,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	barbaracle: {{
+	barbaracle: {
 		num: -303,
 		species: "Barbaracle",
 		types: ["Rock","Water"],
 		baseStats: {"hp":72,"atk":105,"def":115,"spa":97,"spd":97,"spe":68},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	skrelp: {{
+	skrelp: {
 		num: -304,
 		species: "Skrelp",
 		types: ["Poison","Water"],
 		baseStats: {"hp":50,"atk":60,"def":60,"spa":90,"spd":90,"spe":30},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	dragalge: {{
+	dragalge: {
 		num: -305,
 		species: "Dragalge",
 		types: ["Poison","Dragon"],
 		baseStats: {"hp":65,"atk":75,"def":90,"spa":159,"spd":159,"spe":44},
 		abilities: {"0":"Poison Point","1":"No Ability","H":"No Ability"},
 	},
-	clauncher: {{
+	clauncher: {
 		num: -306,
 		species: "Clauncher",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":53,"def":62,"spa":90,"spd":90,"spe":44},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	clawitzer: {{
+	clawitzer: {
 		num: -307,
 		species: "Clawitzer",
 		types: ["Water"],
 		baseStats: {"hp":71,"atk":73,"def":88,"spa":165,"spd":165,"spe":59},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	helioptile: {{
+	helioptile: {
 		num: -308,
 		species: "Helioptile",
 		types: ["Electric","Normal"],
 		baseStats: {"hp":44,"atk":38,"def":33,"spa":83,"spd":83,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	heliolisk: {{
+	heliolisk: {
 		num: -309,
 		species: "Heliolisk",
 		types: ["Electric","Normal"],
 		baseStats: {"hp":62,"atk":55,"def":52,"spa":156,"spd":156,"spe":109},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tyrunt: {{
+	tyrunt: {
 		num: -310,
 		species: "Tyrunt",
 		types: ["Rock","Dragon"],
 		baseStats: {"hp":58,"atk":89,"def":77,"spa":68,"spd":68,"spe":48},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tyrantrum: {{
+	tyrantrum: {
 		num: -311,
 		species: "Tyrantrum",
 		types: ["Rock","Dragon"],
 		baseStats: {"hp":82,"atk":121,"def":119,"spa":99,"spd":99,"spe":71},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	amaura: {{
+	amaura: {
 		num: -312,
 		species: "Amaura",
 		types: ["Rock","Ice"],
 		baseStats: {"hp":77,"atk":59,"def":50,"spa":99,"spd":99,"spe":46},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	aurorus: {{
+	aurorus: {
 		num: -313,
 		species: "Aurorus",
 		types: ["Rock","Ice"],
 		baseStats: {"hp":123,"atk":77,"def":72,"spa":145,"spd":145,"spe":58},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sylveon: {{
+	sylveon: {
 		num: -314,
 		species: "Sylveon",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":65,"def":65,"spa":175,"spd":175,"spe":60},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 	},
-	hawlucha: {{
+	hawlucha: {
 		num: -315,
 		species: "Hawlucha",
 		types: ["Fighting","Flying"],
 		baseStats: {"hp":78,"atk":92,"def":75,"spa":106,"spd":106,"spe":118},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	dedenne: {{
+	dedenne: {
 		num: -316,
 		species: "Dedenne",
 		types: ["Electric","Normal"],
 		baseStats: {"hp":67,"atk":58,"def":57,"spa":115,"spd":115,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	carbink: {{
+	carbink: {
 		num: -317,
 		species: "Carbink",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":50,"atk":50,"def":150,"spa":125,"spd":125,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	goomy: {{
+	goomy: {
 		num: -318,
 		species: "Goomy",
 		types: ["Dragon"],
 		baseStats: {"hp":45,"atk":50,"def":35,"spa":93,"spd":93,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sliggoo: {{
+	sliggoo: {
 		num: -319,
 		species: "Sliggoo",
 		types: ["Dragon"],
 		baseStats: {"hp":68,"atk":75,"def":53,"spa":140,"spd":140,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	goodra: {{
+	goodra: {
 		num: -320,
 		species: "Goodra",
 		types: ["Dragon"],
 		baseStats: {"hp":90,"atk":100,"def":70,"spa":185,"spd":185,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	klefki: {{
+	klefki: {
 		num: -321,
 		species: "Klefki",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":57,"atk":80,"def":91,"spa":124,"spd":124,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	phantump: {{
+	phantump: {
 		num: -322,
 		species: "Phantump",
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":43,"atk":70,"def":48,"spa":80,"spd":80,"spe":38},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	trevenant: {{
+	trevenant: {
 		num: -323,
 		species: "Trevenant",
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":85,"atk":110,"def":76,"spa":106,"spd":106,"spe":56},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 	},
-	pumpkaboo: {{
+	pumpkaboo: {
 		num: -324,
 		species: "Pumpkaboo",
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":49,"atk":66,"def":70,"spa":72,"spd":72,"spe":51},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	gourgeist: {{
+	gourgeist: {
 		num: -325,
 		species: "Gourgeist",
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":65,"atk":90,"def":122,"spa":96,"spd":96,"spe":84},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 	},
-	bergmite: {{
+	bergmite: {
 		num: -326,
 		species: "Bergmite",
 		types: ["Ice"],
 		baseStats: {"hp":55,"atk":69,"def":85,"spa":50,"spd":50,"spe":28},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	avalugg: {{
+	avalugg: {
 		num: -327,
 		species: "Avalugg",
 		types: ["Ice"],
 		baseStats: {"hp":95,"atk":117,"def":184,"spa":67,"spd":67,"spe":28},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	noibat: {{
+	noibat: {
 		num: -328,
 		species: "Noibat",
 		types: ["Flying","Dragon"],
 		baseStats: {"hp":40,"atk":30,"def":35,"spa":65,"spd":65,"spe":55},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	noivern: {{
+	noivern: {
 		num: -329,
 		species: "Noivern",
 		types: ["Flying","Dragon"],
 		baseStats: {"hp":85,"atk":70,"def":80,"spa":137,"spd":137,"spe":123},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	xerneas: {{
+	xerneas: {
 		num: -330,
 		species: "Xerneas",
 		types: ["Normal"],
 		baseStats: {"hp":126,"atk":131,"def":95,"spa":180,"spd":180,"spe":99},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	yveltal: {{
+	yveltal: {
 		num: -331,
 		species: "Yveltal",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":126,"atk":131,"def":95,"spa":180,"spd":180,"spe":99},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zygarde: {{
+	zygarde: {
 		num: -332,
 		species: "Zygarde",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":108,"atk":100,"def":121,"spa":129,"spd":129,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","S":"Power Construct","H":"No Ability"},
 	},
-	diancie: {{
+	diancie: {
 		num: -333,
 		species: "Diancie",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":50,"atk":100,"def":150,"spa":175,"spd":175,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	hoopa: {{
+	hoopa: {
 		num: -334,
 		species: "Hoopa",
 		types: ["Psychic","Ghost"],
 		baseStats: {"hp":80,"atk":110,"def":60,"spa":215,"spd":215,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	volcanion: {{
+	volcanion: {
 		num: -335,
 		species: "Volcanion",
 		types: ["Fire","Water"],
 		baseStats: {"hp":80,"atk":110,"def":120,"spa":175,"spd":175,"spe":70},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	rowlet: {{
+	rowlet: {
 		num: -336,
 		species: "Rowlet",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":68,"atk":55,"def":55,"spa":75,"spd":75,"spe":42},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	dartrix: {{
+	dartrix: {
 		num: -337,
 		species: "Dartrix",
 		types: ["Grass","Flying"],
 		baseStats: {"hp":78,"atk":75,"def":75,"spa":105,"spd":105,"spe":52},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	decidueye: {{
+	decidueye: {
 		num: -338,
 		species: "Decidueye",
 		types: ["Grass","Ghost"],
 		baseStats: {"hp":78,"atk":107,"def":75,"spa":150,"spd":150,"spe":70},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	litten: {{
+	litten: {
 		num: -339,
 		species: "Litten",
 		types: ["Fire"],
 		baseStats: {"hp":45,"atk":65,"def":40,"spa":80,"spd":80,"spe":70},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	torracat: {{
+	torracat: {
 		num: -340,
 		species: "Torracat",
 		types: ["Fire"],
 		baseStats: {"hp":65,"atk":85,"def":50,"spa":105,"spd":105,"spe":90},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	incineroar: {{
+	incineroar: {
 		num: -341,
 		species: "Incineroar",
 		types: ["Fire","Normal"],
 		baseStats: {"hp":95,"atk":115,"def":90,"spa":125,"spd":125,"spe":60},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	popplio: {{
+	popplio: {
 		num: -342,
 		species: "Popplio",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":54,"def":54,"spa":94,"spd":94,"spe":40},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	brionne: {{
+	brionne: {
 		num: -343,
 		species: "Brionne",
 		types: ["Water"],
 		baseStats: {"hp":60,"atk":69,"def":69,"spa":132,"spd":132,"spe":50},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	primarina: {{
+	primarina: {
 		num: -344,
 		species: "Primarina",
 		types: ["Water","Normal"],
 		baseStats: {"hp":80,"atk":74,"def":74,"spa":184,"spd":184,"spe":60},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	pikipek: {{
+	pikipek: {
 		num: -345,
 		species: "Pikipek",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":35,"atk":75,"def":30,"spa":45,"spd":45,"spe":65},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	trumbeak: {{
+	trumbeak: {
 		num: -346,
 		species: "Trumbeak",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":55,"atk":85,"def":50,"spa":65,"spd":65,"spe":75},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	toucannon: {{
+	toucannon: {
 		num: -347,
 		species: "Toucannon",
 		types: ["Normal","Flying"],
 		baseStats: {"hp":80,"atk":120,"def":75,"spa":113,"spd":113,"spe":60},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	yungoos: {{
+	yungoos: {
 		num: -348,
 		species: "Yungoos",
 		types: ["Normal"],
 		baseStats: {"hp":48,"atk":70,"def":30,"spa":45,"spd":45,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	gumshoos: {{
+	gumshoos: {
 		num: -349,
 		species: "Gumshoos",
 		types: ["Normal"],
 		baseStats: {"hp":88,"atk":110,"def":60,"spa":85,"spd":85,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	gumshoostotem: {{
+	gumshoostotem: {
 		num: -349,
 		species: "Gumshoos-Totem",
 		types: ["Normal"],
 		baseStats: {"hp":88,"atk":110,"def":60,"spa":85,"spd":85,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	grubbin: {{
+	grubbin: {
 		num: -350,
 		species: "Grubbin",
 		types: ["Bug"],
 		baseStats: {"hp":47,"atk":62,"def":45,"spa":78,"spd":78,"spe":46},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	charjabug: {{
+	charjabug: {
 		num: -351,
 		species: "Charjabug",
 		types: ["Bug","Electric"],
 		baseStats: {"hp":57,"atk":82,"def":95,"spa":93,"spd":93,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	vikavolt: {{
+	vikavolt: {
 		num: -352,
 		species: "Vikavolt",
 		types: ["Bug","Electric"],
 		baseStats: {"hp":77,"atk":70,"def":90,"spa":183,"spd":183,"spe":43},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	vikavolttotem: {{
+	vikavolttotem: {
 		num: -352,
 		species: "Vikavolt-Totem",
 		types: ["Bug","Electric"],
 		baseStats: {"hp":77,"atk":70,"def":90,"spa":183,"spd":183,"spe":43},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 	},
-	crabrawler: {{
+	crabrawler: {
 		num: -353,
 		species: "Crabrawler",
 		types: ["Fighting"],
 		baseStats: {"hp":47,"atk":82,"def":57,"spa":66,"spd":66,"spe":63},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	crabominable: {{
+	crabominable: {
 		num: -354,
 		species: "Crabominable",
 		types: ["Fighting","Ice"],
 		baseStats: {"hp":97,"atk":132,"def":77,"spa":96,"spd":96,"spe":43},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 	},
-	oricorio: {{
+	oricorio: {
 		num: -355,
 		species: "Oricorio",
 		types: ["Fire","Flying"],
 		baseStats: {"hp":75,"atk":70,"def":70,"spa":133,"spd":133,"spe":93},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cutiefly: {{
+	cutiefly: {
 		num: -356,
 		species: "Cutiefly",
 		types: ["Bug","Normal"],
 		baseStats: {"hp":40,"atk":45,"def":40,"spa":75,"spd":75,"spe":84},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	ribombee: {{
+	ribombee: {
 		num: -357,
 		species: "Ribombee",
 		types: ["Bug","Normal"],
 		baseStats: {"hp":60,"atk":55,"def":60,"spa":130,"spd":130,"spe":124},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	ribombeetotem: {{
+	ribombeetotem: {
 		num: -357,
 		species: "Ribombee-Totem",
 		types: ["Bug","Normal"],
 		baseStats: {"hp":60,"atk":55,"def":60,"spa":130,"spd":130,"spe":124},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rockruff: {{
+	rockruff: {
 		num: -358,
 		species: "Rockruff",
 		types: ["Rock"],
 		baseStats: {"hp":45,"atk":65,"def":40,"spa":50,"spd":50,"spe":60},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability","S":"Own Tempo"},
 	},
-	lycanroc: {{
+	lycanroc: {
 		num: -359,
 		species: "Lycanroc",
 		types: ["Rock"],
 		baseStats: {"hp":75,"atk":115,"def":65,"spa":88,"spd":88,"spe":112},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	lycanrocmidnight: {{
+	lycanrocmidnight: {
 		num: -359,
 		species: "Lycanroc-Midnight",
 		types: ["Rock"],
 		baseStats: {"hp":85,"atk":115,"def":75,"spa":93,"spd":93,"spe":82},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	lycanrocdusk: {{
+	lycanrocdusk: {
 		num: -359,
 		species: "Lycanroc-Dusk",
 		types: ["Rock"],
 		baseStats: {"hp":75,"atk":117,"def":65,"spa":88,"spd":88,"spe":110},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wishiwashi: {{
+	wishiwashi: {
 		num: -360,
 		species: "Wishiwashi",
 		types: ["Water"],
 		baseStats: {"hp":45,"atk":20,"def":20,"spa":38,"spd":38,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mareanie: {{
+	mareanie: {
 		num: -361,
 		species: "Mareanie",
 		types: ["Poison","Water"],
 		baseStats: {"hp":50,"atk":53,"def":62,"spa":69,"spd":69,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	toxapex: {{
+	toxapex: {
 		num: -362,
 		species: "Toxapex",
 		types: ["Poison","Water"],
 		baseStats: {"hp":50,"atk":63,"def":152,"spa":124,"spd":124,"spe":35},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mudbray: {{
+	mudbray: {
 		num: -363,
 		species: "Mudbray",
 		types: ["Ground"],
 		baseStats: {"hp":70,"atk":100,"def":70,"spa":73,"spd":73,"spe":45},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	mudsdale: {{
+	mudsdale: {
 		num: -364,
 		species: "Mudsdale",
 		types: ["Ground"],
 		baseStats: {"hp":100,"atk":125,"def":100,"spa":98,"spd":98,"spe":35},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	dewpider: {{
+	dewpider: {
 		num: -365,
 		species: "Dewpider",
 		types: ["Water","Bug"],
 		baseStats: {"hp":38,"atk":40,"def":52,"spa":76,"spd":76,"spe":27},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	araquanid: {{
+	araquanid: {
 		num: -366,
 		species: "Araquanid",
 		types: ["Water","Bug"],
 		baseStats: {"hp":68,"atk":70,"def":92,"spa":116,"spd":116,"spe":42},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	araquanidtotem: {{
+	araquanidtotem: {
 		num: -366,
 		species: "Araquanid-Totem",
 		types: ["Water","Bug"],
 		baseStats: {"hp":68,"atk":70,"def":92,"spa":116,"spd":116,"spe":42},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	fomantis: {{
+	fomantis: {
 		num: -367,
 		species: "Fomantis",
 		types: ["Grass"],
 		baseStats: {"hp":40,"atk":55,"def":35,"spa":68,"spd":68,"spe":35},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	lurantis: {{
+	lurantis: {
 		num: -368,
 		species: "Lurantis",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":105,"def":90,"spa":125,"spd":125,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	lurantistotem: {{
+	lurantistotem: {
 		num: -368,
 		species: "Lurantis-Totem",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":105,"def":90,"spa":125,"spd":125,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	morelull: {{
+	morelull: {
 		num: -369,
 		species: "Morelull",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":40,"atk":35,"def":55,"spa":103,"spd":103,"spe":15},
 		abilities: {"0":"Illuminate","1":"No Ability","H":"No Ability"},
 	},
-	shiinotic: {{
+	shiinotic: {
 		num: -370,
 		species: "Shiinotic",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":60,"atk":45,"def":80,"spa":140,"spd":140,"spe":30},
 		abilities: {"0":"Illuminate","1":"No Ability","H":"No Ability"},
 	},
-	salandit: {{
+	salandit: {
 		num: -371,
 		species: "Salandit",
 		types: ["Poison","Fire"],
 		baseStats: {"hp":48,"atk":44,"def":40,"spa":91,"spd":91,"spe":77},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	salazzle: {{
+	salazzle: {
 		num: -372,
 		species: "Salazzle",
 		types: ["Poison","Fire"],
 		baseStats: {"hp":68,"atk":64,"def":60,"spa":141,"spd":141,"spe":117},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	salazzletotem: {{
+	salazzletotem: {
 		num: -372,
 		species: "Salazzle-Totem",
 		types: ["Poison","Fire"],
 		baseStats: {"hp":68,"atk":64,"def":60,"spa":141,"spd":141,"spe":117},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	stufful: {{
+	stufful: {
 		num: -373,
 		species: "Stufful",
 		types: ["Normal","Fighting"],
 		baseStats: {"hp":70,"atk":75,"def":50,"spa":70,"spd":70,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bewear: {{
+	bewear: {
 		num: -374,
 		species: "Bewear",
 		types: ["Normal","Fighting"],
 		baseStats: {"hp":120,"atk":125,"def":80,"spa":85,"spd":85,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bounsweet: {{
+	bounsweet: {
 		num: -375,
 		species: "Bounsweet",
 		types: ["Grass"],
 		baseStats: {"hp":42,"atk":30,"def":38,"spa":49,"spd":49,"spe":32},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	steenee: {{
+	steenee: {
 		num: -376,
 		species: "Steenee",
 		types: ["Grass"],
 		baseStats: {"hp":52,"atk":40,"def":48,"spa":64,"spd":64,"spe":62},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tsareena: {{
+	tsareena: {
 		num: -377,
 		species: "Tsareena",
 		types: ["Grass"],
 		baseStats: {"hp":72,"atk":120,"def":98,"spa":99,"spd":99,"spe":72},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	comfey: {{
+	comfey: {
 		num: -378,
 		species: "Comfey",
 		types: ["Normal"],
 		baseStats: {"hp":51,"atk":52,"def":90,"spa":137,"spd":137,"spe":100},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	oranguru: {{
+	oranguru: {
 		num: -379,
 		species: "Oranguru",
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":90,"atk":60,"def":80,"spa":145,"spd":145,"spe":60},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	passimian: {{
+	passimian: {
 		num: -380,
 		species: "Passimian",
 		types: ["Fighting"],
 		baseStats: {"hp":100,"atk":120,"def":90,"spa":70,"spd":70,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wimpod: {{
+	wimpod: {
 		num: -381,
 		species: "Wimpod",
 		types: ["Bug","Water"],
 		baseStats: {"hp":25,"atk":35,"def":40,"spa":35,"spd":35,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	golisopod: {{
+	golisopod: {
 		num: -382,
 		species: "Golisopod",
 		types: ["Bug","Water"],
 		baseStats: {"hp":75,"atk":125,"def":140,"spa":105,"spd":105,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sandygast: {{
+	sandygast: {
 		num: -383,
 		species: "Sandygast",
 		types: ["Ghost","Ground"],
 		baseStats: {"hp":55,"atk":55,"def":80,"spa":93,"spd":93,"spe":15},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	palossand: {{
+	palossand: {
 		num: -384,
 		species: "Palossand",
 		types: ["Ghost","Ground"],
 		baseStats: {"hp":85,"atk":75,"def":110,"spa":138,"spd":138,"spe":35},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pyukumuku: {{
+	pyukumuku: {
 		num: -385,
 		species: "Pyukumuku",
 		types: ["Water"],
 		baseStats: {"hp":55,"atk":60,"def":130,"spa":95,"spd":95,"spe":5},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	typenull: {{
+	typenull: {
 		num: -386,
 		species: "Type: Null",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":95,"def":95,"spa":143,"spd":143,"spe":59},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	silvally: {{
+	silvally: {
 		num: -387,
 		species: "Silvally",
 		types: ["Normal"],
 		baseStats: {"hp":95,"atk":95,"def":95,"spa":143,"spd":143,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	minior: {{
+	minior: {
 		num: -388,
 		species: "Minior",
 		types: ["Rock","Flying"],
 		baseStats: {"hp":60,"atk":100,"def":60,"spa":130,"spd":130,"spe":120},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	komala: {{
+	komala: {
 		num: -389,
 		species: "Komala",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":115,"def":65,"spa":123,"spd":123,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	turtonator: {{
+	turtonator: {
 		num: -390,
 		species: "Turtonator",
 		types: ["Fire","Dragon"],
 		baseStats: {"hp":60,"atk":78,"def":135,"spa":134,"spd":134,"spe":36},
 		abilities: {"0":"Shell Armor","1":"No Ability","H":"No Ability"},
 	},
-	togedemaru: {{
+	togedemaru: {
 		num: -391,
 		species: "Togedemaru",
 		types: ["Electric","Rock"],
 		baseStats: {"hp":65,"atk":98,"def":63,"spa":77,"spd":77,"spe":96},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	togedemarutotem: {{
+	togedemarutotem: {
 		num: -391,
 		species: "Togedemaru-Totem",
 		types: ["Electric","Rock"],
 		baseStats: {"hp":65,"atk":98,"def":63,"spa":77,"spd":77,"spe":96},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	mimikyu: {{
+	mimikyu: {
 		num: -392,
 		species: "Mimikyu",
 		types: ["Ghost","Normal"],
 		baseStats: {"hp":55,"atk":90,"def":80,"spa":103,"spd":103,"spe":96},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	mimikyutotem: {{
+	mimikyutotem: {
 		num: -392,
 		species: "Mimikyu-Totem",
 		types: ["Ghost","Normal"],
 		baseStats: {"hp":55,"atk":90,"def":80,"spa":103,"spd":103,"spe":96},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	bruxish: {{
+	bruxish: {
 		num: -393,
 		species: "Bruxish",
 		types: ["Water","Psychic"],
 		baseStats: {"hp":68,"atk":105,"def":70,"spa":105,"spd":105,"spe":92},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	drampa: {{
+	drampa: {
 		num: -394,
 		species: "Drampa",
 		types: ["Normal","Dragon"],
 		baseStats: {"hp":78,"atk":60,"def":85,"spa":181,"spd":181,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	dhelmise: {{
+	dhelmise: {
 		num: -395,
 		species: "Dhelmise",
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":70,"atk":131,"def":100,"spa":131,"spd":131,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	jangmoo: {{
+	jangmoo: {
 		num: -396,
 		species: "Jangmo-o",
 		types: ["Dragon"],
 		baseStats: {"hp":45,"atk":55,"def":65,"spa":68,"spd":68,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	hakamoo: {{
+	hakamoo: {
 		num: -397,
 		species: "Hakamo-o",
 		types: ["Dragon","Fighting"],
 		baseStats: {"hp":55,"atk":75,"def":90,"spa":100,"spd":100,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kommoo: {{
+	kommoo: {
 		num: -398,
 		species: "Kommo-o",
 		types: ["Dragon","Fighting"],
 		baseStats: {"hp":75,"atk":110,"def":125,"spa":153,"spd":153,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kommoototem: {{
+	kommoototem: {
 		num: -398,
 		species: "Kommo-o-Totem",
 		types: ["Dragon","Fighting"],
 		baseStats: {"hp":75,"atk":110,"def":125,"spa":153,"spd":153,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tapukoko: {{
+	tapukoko: {
 		num: -399,
 		species: "Tapu Koko",
 		types: ["Electric","Normal"],
 		baseStats: {"hp":70,"atk":115,"def":85,"spa":133,"spd":133,"spe":130},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tapulele: {{
+	tapulele: {
 		num: -400,
 		species: "Tapu Lele",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":70,"atk":85,"def":75,"spa":188,"spd":188,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tapubulu: {{
+	tapubulu: {
 		num: -401,
 		species: "Tapu Bulu",
 		types: ["Grass","Normal"],
 		baseStats: {"hp":70,"atk":130,"def":115,"spa":133,"spd":133,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	tapufini: {{
+	tapufini: {
 		num: -402,
 		species: "Tapu Fini",
 		types: ["Water","Normal"],
 		baseStats: {"hp":70,"atk":75,"def":115,"spa":160,"spd":160,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cosmog: {{
+	cosmog: {
 		num: -403,
 		species: "Cosmog",
 		types: ["Psychic"],
 		baseStats: {"hp":43,"atk":29,"def":31,"spa":45,"spd":45,"spe":37},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cosmoem: {{
+	cosmoem: {
 		num: -404,
 		species: "Cosmoem",
 		types: ["Psychic"],
 		baseStats: {"hp":43,"atk":29,"def":131,"spa":95,"spd":95,"spe":37},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 	},
-	solgaleo: {{
+	solgaleo: {
 		num: -405,
 		species: "Solgaleo",
 		types: ["Psychic","Rock"],
 		baseStats: {"hp":137,"atk":137,"def":107,"spa":158,"spd":158,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	lunala: {{
+	lunala: {
 		num: -406,
 		species: "Lunala",
 		types: ["Psychic","Ghost"],
 		baseStats: {"hp":137,"atk":113,"def":89,"spa":191,"spd":191,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	nihilego: {{
+	nihilego: {
 		num: -407,
 		species: "Nihilego",
 		types: ["Rock","Poison"],
 		baseStats: {"hp":109,"atk":53,"def":47,"spa":193,"spd":193,"spe":103},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	buzzwole: {{
+	buzzwole: {
 		num: -408,
 		species: "Buzzwole",
 		types: ["Bug","Fighting"],
 		baseStats: {"hp":107,"atk":139,"def":139,"spa":80,"spd":80,"spe":79},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	pheromosa: {{
+	pheromosa: {
 		num: -409,
 		species: "Pheromosa",
 		types: ["Bug","Fighting"],
 		baseStats: {"hp":71,"atk":137,"def":37,"spa":156,"spd":156,"spe":151},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	xurkitree: {{
+	xurkitree: {
 		num: -410,
 		species: "Xurkitree",
 		types: ["Electric"],
 		baseStats: {"hp":83,"atk":89,"def":71,"spa":209,"spd":209,"spe":83},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	celesteela: {{
+	celesteela: {
 		num: -411,
 		species: "Celesteela",
 		types: ["Rock","Flying"],
 		baseStats: {"hp":97,"atk":101,"def":103,"spa":158,"spd":158,"spe":61},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	kartana: {{
+	kartana: {
 		num: -412,
 		species: "Kartana",
 		types: ["Grass","Rock"],
 		baseStats: {"hp":59,"atk":181,"def":131,"spa":75,"spd":75,"spe":109},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	guzzlord: {{
+	guzzlord: {
 		num: -413,
 		species: "Guzzlord",
 		types: ["Normal","Dragon"],
 		baseStats: {"hp":223,"atk":101,"def":53,"spa":124,"spd":124,"spe":43},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	necrozma: {{
+	necrozma: {
 		num: -414,
 		species: "Necrozma",
 		types: ["Psychic"],
 		baseStats: {"hp":97,"atk":107,"def":101,"spa":172,"spd":172,"spe":79},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	necrozmaduskmane: {{
+	necrozmaduskmane: {
 		num: -414,
 		species: "Necrozma-Dusk-Mane",
 		types: ["Psychic","Rock"],
 		baseStats: {"hp":97,"atk":157,"def":127,"spa":168,"spd":168,"spe":77},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	necrozmadawnwings: {{
+	necrozmadawnwings: {
 		num: -414,
 		species: "Necrozma-Dawn-Wings",
 		types: ["Psychic","Ghost"],
 		baseStats: {"hp":97,"atk":113,"def":109,"spa":221,"spd":221,"spe":77},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	necrozmaultra: {{
+	necrozmaultra: {
 		num: -414,
 		species: "Necrozma-Ultra",
 		types: ["Psychic","Dragon"],
 		baseStats: {"hp":97,"atk":167,"def":97,"spa":216,"spd":216,"spe":129},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	magearna: {{
+	magearna: {
 		num: -415,
 		species: "Magearna",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":80,"atk":95,"def":115,"spa":188,"spd":188,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	magearnaoriginal: {{
+	magearnaoriginal: {
 		num: -415,
 		species: "Magearna-Original",
 		types: ["Rock","Normal"],
 		baseStats: {"hp":80,"atk":95,"def":115,"spa":188,"spd":188,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	marshadow: {{
+	marshadow: {
 		num: -416,
 		species: "Marshadow",
 		types: ["Fighting","Ghost"],
 		baseStats: {"hp":90,"atk":125,"def":80,"spa":135,"spd":135,"spe":125},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	poipole: {{
+	poipole: {
 		num: -417,
 		species: "Poipole",
 		types: ["Poison"],
 		baseStats: {"hp":67,"atk":73,"def":67,"spa":107,"spd":107,"spe":73},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	naganadel: {{
+	naganadel: {
 		num: -418,
 		species: "Naganadel",
 		types: ["Poison","Dragon"],
 		baseStats: {"hp":73,"atk":73,"def":73,"spa":164,"spd":164,"spe":121},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	stakataka: {{
+	stakataka: {
 		num: -419,
 		species: "Stakataka",
 		types: ["Rock","Rock"],
 		baseStats: {"hp":61,"atk":131,"def":211,"spa":104,"spd":104,"spe":13},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	blacephalon: {{
+	blacephalon: {
 		num: -420,
 		species: "Blacephalon",
 		types: ["Fire","Ghost"],
 		baseStats: {"hp":53,"atk":127,"def":53,"spa":191,"spd":191,"spe":107},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zeraora: {{
+	zeraora: {
 		num: -421,
 		species: "Zeraora",
 		types: ["Electric"],
 		baseStats: {"hp":88,"atk":112,"def":75,"spa":142,"spd":142,"spe":143},
 		abilities: {"0":"Volt Absorb","1":"No Ability","H":"No Ability"},
 	},
-	meltan: {{
+	meltan: {
 		num: -422,
 		species: "Meltan",
 		types: ["Rock"],
 		baseStats: {"hp":46,"atk":65,"def":65,"spa":73,"spd":73,"spe":34},
 		abilities: {"0":"Magnet Pull","1":"No Ability","H":"No Ability"},
 	},
-	melmetal: {{
+	melmetal: {
 		num: -423,
 		species: "Melmetal",
 		types: ["Rock"],
 		baseStats: {"hp":135,"atk":143,"def":143,"spa":113,"spd":113,"spe":34},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	grookey: {{
+	grookey: {
 		num: -424,
 		species: "Grookey",
 		types: ["Grass"],
 		baseStats: {"hp":50,"atk":65,"def":50,"spa":60,"spd":60,"spe":65},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	thwackey: {{
+	thwackey: {
 		num: -425,
 		species: "Thwackey",
 		types: ["Grass"],
 		baseStats: {"hp":70,"atk":85,"def":70,"spa":85,"spd":85,"spe":80},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	rillaboom: {{
+	rillaboom: {
 		num: -426,
 		species: "Rillaboom",
 		types: ["Grass"],
 		baseStats: {"hp":100,"atk":125,"def":90,"spa":95,"spd":95,"spe":85},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 	},
-	scorbunny: {{
+	scorbunny: {
 		num: -427,
 		species: "Scorbunny",
 		types: ["Fire"],
 		baseStats: {"hp":50,"atk":71,"def":40,"spa":60,"spd":60,"spe":69},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	raboot: {{
+	raboot: {
 		num: -428,
 		species: "Raboot",
 		types: ["Fire"],
 		baseStats: {"hp":65,"atk":86,"def":60,"spa":85,"spd":85,"spe":94},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	cinderace: {{
+	cinderace: {
 		num: -429,
 		species: "Cinderace",
 		types: ["Fire"],
 		baseStats: {"hp":80,"atk":116,"def":75,"spa":103,"spd":103,"spe":119},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 	},
-	sobble: {{
+	sobble: {
 		num: -430,
 		species: "Sobble",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":40,"def":40,"spa":90,"spd":90,"spe":70},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	drizzile: {{
+	drizzile: {
 		num: -431,
 		species: "Drizzile",
 		types: ["Water"],
 		baseStats: {"hp":65,"atk":60,"def":55,"spa":123,"spd":123,"spe":90},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	inteleon: {{
+	inteleon: {
 		num: -432,
 		species: "Inteleon",
 		types: ["Water"],
 		baseStats: {"hp":70,"atk":85,"def":65,"spa":158,"spd":158,"spe":120},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 	},
-	skwovet: {{
+	skwovet: {
 		num: -433,
 		species: "Skwovet",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":55,"def":55,"spa":53,"spd":53,"spe":25},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	greedent: {{
+	greedent: {
 		num: -434,
 		species: "Greedent",
 		types: ["Normal"],
 		baseStats: {"hp":120,"atk":95,"def":95,"spa":93,"spd":93,"spe":20},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rookidee: {{
+	rookidee: {
 		num: -435,
 		species: "Rookidee",
 		types: ["Flying"],
 		baseStats: {"hp":38,"atk":47,"def":35,"spa":51,"spd":51,"spe":57},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	corvisquire: {{
+	corvisquire: {
 		num: -436,
 		species: "Corvisquire",
 		types: ["Flying"],
 		baseStats: {"hp":68,"atk":67,"def":55,"spa":71,"spd":71,"spe":77},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 	},
-	corviknight: {{
+	corviknight: {
 		num: -437,
 		species: "Corviknight",
 		types: ["Flying","Rock"],
 		baseStats: {"hp":98,"atk":87,"def":105,"spa":96,"spd":96,"spe":67},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 	},
-	blipbug: {{
+	blipbug: {
 		num: -438,
 		species: "Blipbug",
 		types: ["Bug"],
 		baseStats: {"hp":25,"atk":20,"def":20,"spa":48,"spd":48,"spe":45},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	dottler: {{
+	dottler: {
 		num: -439,
 		species: "Dottler",
 		types: ["Bug","Psychic"],
 		baseStats: {"hp":50,"atk":35,"def":80,"spa":95,"spd":95,"spe":30},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	orbeetle: {{
+	orbeetle: {
 		num: -440,
 		species: "Orbeetle",
 		types: ["Bug","Psychic"],
 		baseStats: {"hp":60,"atk":45,"def":110,"spa":140,"spd":140,"spe":90},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 	},
-	nickit: {{
+	nickit: {
 		num: -441,
 		species: "Nickit",
 		types: ["Normal"],
 		baseStats: {"hp":40,"atk":28,"def":28,"spa":73,"spd":73,"spe":50},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	thievul: {{
+	thievul: {
 		num: -442,
 		species: "Thievul",
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":58,"def":58,"spa":133,"spd":133,"spe":90},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 	},
-	gossifleur: {{
+	gossifleur: {
 		num: -443,
 		species: "Gossifleur",
 		types: ["Grass"],
 		baseStats: {"hp":40,"atk":40,"def":60,"spa":70,"spd":70,"spe":10},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	eldegoss: {{
+	eldegoss: {
 		num: -444,
 		species: "Eldegoss",
 		types: ["Grass"],
 		baseStats: {"hp":60,"atk":50,"def":90,"spa":140,"spd":140,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	wooloo: {{
+	wooloo: {
 		num: -445,
 		species: "Wooloo",
 		types: ["Normal"],
 		baseStats: {"hp":42,"atk":40,"def":55,"spa":63,"spd":63,"spe":48},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	dubwool: {{
+	dubwool: {
 		num: -446,
 		species: "Dubwool",
 		types: ["Normal"],
 		baseStats: {"hp":72,"atk":80,"def":100,"spa":105,"spd":105,"spe":88},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	chewtle: {{
+	chewtle: {
 		num: -447,
 		species: "Chewtle",
 		types: ["Water"],
 		baseStats: {"hp":50,"atk":64,"def":50,"spa":57,"spd":57,"spe":44},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	drednaw: {{
+	drednaw: {
 		num: -448,
 		species: "Drednaw",
 		types: ["Water","Rock"],
 		baseStats: {"hp":90,"atk":115,"def":90,"spa":82,"spd":82,"spe":74},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	yamper: {{
+	yamper: {
 		num: -449,
 		species: "Yamper",
 		types: ["Electric"],
 		baseStats: {"hp":59,"atk":45,"def":50,"spa":65,"spd":65,"spe":26},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	boltund: {{
+	boltund: {
 		num: -450,
 		species: "Boltund",
 		types: ["Electric"],
 		baseStats: {"hp":69,"atk":90,"def":60,"spa":120,"spd":120,"spe":121},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	rolycoly: {{
+	rolycoly: {
 		num: -451,
 		species: "Rolycoly",
 		types: ["Rock"],
 		baseStats: {"hp":30,"atk":40,"def":50,"spa":65,"spd":65,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	carkol: {{
+	carkol: {
 		num: -452,
 		species: "Carkol",
 		types: ["Rock","Fire"],
 		baseStats: {"hp":80,"atk":60,"def":90,"spa":95,"spd":95,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	coalossal: {{
+	coalossal: {
 		num: -453,
 		species: "Coalossal",
 		types: ["Rock","Fire"],
 		baseStats: {"hp":110,"atk":80,"def":120,"spa":125,"spd":125,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	applin: {{
+	applin: {
 		num: -454,
 		species: "Applin",
 		types: ["Grass","Dragon"],
 		baseStats: {"hp":40,"atk":40,"def":80,"spa":60,"spd":60,"spe":20},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	flapple: {{
+	flapple: {
 		num: -455,
 		species: "Flapple",
 		types: ["Grass","Dragon"],
 		baseStats: {"hp":70,"atk":110,"def":80,"spa":125,"spd":125,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	appletun: {{
+	appletun: {
 		num: -456,
 		species: "Appletun",
 		types: ["Grass","Dragon"],
 		baseStats: {"hp":110,"atk":85,"def":80,"spa":140,"spd":140,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	silicobra: {{
+	silicobra: {
 		num: -457,
 		species: "Silicobra",
 		types: ["Ground"],
 		baseStats: {"hp":52,"atk":57,"def":75,"spa":60,"spd":60,"spe":46},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sandaconda: {{
+	sandaconda: {
 		num: -458,
 		species: "Sandaconda",
 		types: ["Ground"],
 		baseStats: {"hp":72,"atk":107,"def":125,"spa":100,"spd":100,"spe":71},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cramorant: {{
+	cramorant: {
 		num: -459,
 		species: "Cramorant",
 		types: ["Flying","Water"],
 		baseStats: {"hp":70,"atk":85,"def":55,"spa":133,"spd":133,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	arrokuda: {{
+	arrokuda: {
 		num: -460,
 		species: "Arrokuda",
 		types: ["Water"],
 		baseStats: {"hp":41,"atk":63,"def":40,"spa":55,"spd":55,"spe":66},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	barraskewda: {{
+	barraskewda: {
 		num: -461,
 		species: "Barraskewda",
 		types: ["Water"],
 		baseStats: {"hp":61,"atk":123,"def":60,"spa":85,"spd":85,"spe":136},
 		abilities: {"0":"Swift Swim","1":"No Ability","H":"No Ability"},
 	},
-	toxel: {{
+	toxel: {
 		num: -462,
 		species: "Toxel",
 		types: ["Electric","Poison"],
 		baseStats: {"hp":40,"atk":38,"def":35,"spa":72,"spd":72,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	toxtricity: {{
+	toxtricity: {
 		num: -463,
 		species: "Toxtricity",
 		types: ["Electric","Poison"],
 		baseStats: {"hp":75,"atk":98,"def":70,"spa":149,"spd":149,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	toxtricitylowkey: {{
+	toxtricitylowkey: {
 		num: -463,
 		species: "Toxtricity-Low-Key",
 		types: ["Electric","Poison"],
 		baseStats: {"hp":75,"atk":98,"def":70,"spa":149,"spd":149,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	sizzlipede: {{
+	sizzlipede: {
 		num: -464,
 		species: "Sizzlipede",
 		types: ["Fire","Bug"],
 		baseStats: {"hp":50,"atk":65,"def":45,"spa":75,"spd":75,"spe":45},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	centiskorch: {{
+	centiskorch: {
 		num: -465,
 		species: "Centiskorch",
 		types: ["Fire","Bug"],
 		baseStats: {"hp":100,"atk":115,"def":65,"spa":135,"spd":135,"spe":65},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 	},
-	clobbopus: {{
+	clobbopus: {
 		num: -466,
 		species: "Clobbopus",
 		types: ["Fighting"],
 		baseStats: {"hp":50,"atk":68,"def":60,"spa":75,"spd":75,"spe":32},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	grapploct: {{
+	grapploct: {
 		num: -467,
 		species: "Grapploct",
 		types: ["Fighting"],
 		baseStats: {"hp":80,"atk":118,"def":90,"spa":110,"spd":110,"spe":42},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 	},
-	sinistea: {{
+	sinistea: {
 		num: -468,
 		species: "Sinistea",
 		types: ["Ghost"],
 		baseStats: {"hp":40,"atk":45,"def":45,"spa":101,"spd":101,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	polteageist: {{
+	polteageist: {
 		num: -469,
 		species: "Polteageist",
 		types: ["Ghost"],
 		baseStats: {"hp":60,"atk":65,"def":65,"spa":191,"spd":191,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	hatenna: {{
+	hatenna: {
 		num: -470,
 		species: "Hatenna",
 		types: ["Psychic"],
 		baseStats: {"hp":42,"atk":30,"def":45,"spa":83,"spd":83,"spe":39},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	hattrem: {{
+	hattrem: {
 		num: -471,
 		species: "Hattrem",
 		types: ["Psychic"],
 		baseStats: {"hp":57,"atk":40,"def":65,"spa":123,"spd":123,"spe":49},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	hatterene: {{
+	hatterene: {
 		num: -472,
 		species: "Hatterene",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":57,"atk":90,"def":95,"spa":188,"spd":188,"spe":29},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	impidimp: {{
+	impidimp: {
 		num: -473,
 		species: "Impidimp",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":45,"atk":45,"def":30,"spa":75,"spd":75,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	morgrem: {{
+	morgrem: {
 		num: -474,
 		species: "Morgrem",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":65,"atk":60,"def":45,"spa":103,"spd":103,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	grimmsnarl: {{
+	grimmsnarl: {
 		num: -475,
 		species: "Grimmsnarl",
 		types: ["Normal","Normal"],
 		baseStats: {"hp":95,"atk":120,"def":65,"spa":133,"spd":133,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	milcery: {{
+	milcery: {
 		num: -482,
 		species: "Milcery",
 		types: ["Normal"],
 		baseStats: {"hp":45,"atk":40,"def":40,"spa":81,"spd":81,"spe":34},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	alcremie: {{
+	alcremie: {
 		num: -483,
 		species: "Alcremie",
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":60,"def":75,"spa":171,"spd":171,"spe":64},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	falinks: {{
+	falinks: {
 		num: -484,
 		species: "Falinks",
 		types: ["Fighting"],
 		baseStats: {"hp":65,"atk":100,"def":100,"spa":100,"spd":100,"spe":75},
 		abilities: {"0":"Battle Armor","1":"No Ability","H":"No Ability"},
 	},
-	pincurchin: {{
+	pincurchin: {
 		num: -485,
 		species: "Pincurchin",
 		types: ["Electric"],
 		baseStats: {"hp":48,"atk":101,"def":95,"spa":134,"spd":134,"spe":15},
 		abilities: {"0":"Lightning Rod","1":"No Ability","H":"No Ability"},
 	},
-	snom: {{
+	snom: {
 		num: -486,
 		species: "Snom",
 		types: ["Ice","Bug"],
 		baseStats: {"hp":30,"atk":25,"def":35,"spa":60,"spd":60,"spe":20},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	frosmoth: {{
+	frosmoth: {
 		num: -487,
 		species: "Frosmoth",
 		types: ["Ice","Bug"],
 		baseStats: {"hp":70,"atk":65,"def":60,"spa":170,"spd":170,"spe":65},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 	},
-	stonjourner: {{
+	stonjourner: {
 		num: -488,
 		species: "Stonjourner",
 		types: ["Rock"],
 		baseStats: {"hp":100,"atk":125,"def":135,"spa":30,"spd":30,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	eiscue: {{
+	eiscue: {
 		num: -489,
 		species: "Eiscue",
 		types: ["Ice"],
 		baseStats: {"hp":75,"atk":80,"def":110,"spa":110,"spd":110,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	indeedee: {{
+	indeedee: {
 		num: -490,
 		species: "Indeedee",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":60,"atk":65,"def":55,"spa":153,"spd":153,"spe":95},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 	},
-	indeedeef: {{
+	indeedeef: {
 		num: -490,
 		species: "Indeedee-F",
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":70,"atk":55,"def":65,"spa":148,"spd":148,"spe":85},
 		abilities: {"0":"Own Tempo","1":"No Ability","H":"No Ability"},
 	},
-	morpeko: {{
+	morpeko: {
 		num: -491,
 		species: "Morpeko",
 		types: ["Electric","Normal"],
 		baseStats: {"hp":58,"atk":95,"def":58,"spa":99,"spd":99,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	cufant: {{
+	cufant: {
 		num: -492,
 		species: "Cufant",
 		types: ["Rock"],
 		baseStats: {"hp":72,"atk":80,"def":49,"spa":65,"spd":65,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	copperajah: {{
+	copperajah: {
 		num: -493,
 		species: "Copperajah",
 		types: ["Rock"],
 		baseStats: {"hp":122,"atk":130,"def":69,"spa":115,"spd":115,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	dracozolt: {{
+	dracozolt: {
 		num: -494,
 		species: "Dracozolt",
 		types: ["Electric","Dragon"],
 		baseStats: {"hp":90,"atk":100,"def":90,"spa":115,"spd":115,"spe":75},
 		abilities: {"0":"Volt Absorb","1":"No Ability","H":"No Ability"},
 	},
-	arctozolt: {{
+	arctozolt: {
 		num: -495,
 		species: "Arctozolt",
 		types: ["Electric","Ice"],
 		baseStats: {"hp":90,"atk":100,"def":90,"spa":130,"spd":130,"spe":55},
 		abilities: {"0":"Volt Absorb","1":"No Ability","H":"No Ability"},
 	},
-	dracovish: {{
+	dracovish: {
 		num: -496,
 		species: "Dracovish",
 		types: ["Water","Dragon"],
 		baseStats: {"hp":90,"atk":90,"def":100,"spa":110,"spd":110,"spe":75},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	arctovish: {{
+	arctovish: {
 		num: -497,
 		species: "Arctovish",
 		types: ["Water","Ice"],
 		baseStats: {"hp":90,"atk":90,"def":100,"spa":125,"spd":125,"spe":55},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
 	},
-	duraludon: {{
+	duraludon: {
 		num: -498,
 		species: "Duraludon",
 		types: ["Rock","Dragon"],
 		baseStats: {"hp":70,"atk":95,"def":115,"spa":145,"spd":145,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	dreepy: {{
+	dreepy: {
 		num: -499,
 		species: "Dreepy",
 		types: ["Dragon","Ghost"],
 		baseStats: {"hp":28,"atk":60,"def":30,"spa":55,"spd":55,"spe":82},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	drakloak: {{
+	drakloak: {
 		num: -500,
 		species: "Drakloak",
 		types: ["Dragon","Ghost"],
 		baseStats: {"hp":68,"atk":80,"def":50,"spa":85,"spd":85,"spe":102},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	dragapult: {{
+	dragapult: {
 		num: -501,
 		species: "Dragapult",
 		types: ["Dragon","Ghost"],
 		baseStats: {"hp":88,"atk":120,"def":75,"spa":138,"spd":138,"spe":142},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 	},
-	zacian: {{
+	zacian: {
 		num: -502,
 		species: "Zacian",
 		types: ["Normal"],
 		baseStats: {"hp":92,"atk":130,"def":115,"spa":138,"spd":138,"spe":138},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zaciancrowned: {{
+	zaciancrowned: {
 		num: -502,
 		species: "Zacian-Crowned",
 		types: ["Normal","Rock"],
 		baseStats: {"hp":92,"atk":170,"def":115,"spa":138,"spd":138,"spe":148},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zamazenta: {{
+	zamazenta: {
 		num: -503,
 		species: "Zamazenta",
 		types: ["Fighting"],
 		baseStats: {"hp":92,"atk":130,"def":115,"spa":138,"spd":138,"spe":138},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	zamazentacrowned: {{
+	zamazentacrowned: {
 		num: -503,
 		species: "Zamazenta-Crowned",
 		types: ["Fighting","Rock"],
 		baseStats: {"hp":92,"atk":130,"def":145,"spa":153,"spd":153,"spe":128},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
-	eternatus: {{
+	eternatus: {
 		num: -504,
 		species: "Eternatus",
 		types: ["Poison","Dragon"],
