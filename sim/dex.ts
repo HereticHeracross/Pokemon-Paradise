@@ -415,13 +415,13 @@ export class ModdedDex {
 					if (!baseFormatsData) {
 						throw new Error(`${template.baseSpecies} has no formats-data entry`);
 					}
-					template.tier = baseFormatsData.tier || 'Illegal';
 					template.doublesTier = baseFormatsData.doublesTier || 'Illegal';
 				}
 			}
 			if (!template.tier) template.tier = 'Illegal';
 			if (!template.doublesTier) template.doublesTier = template.tier;
 			if (template.gen > this.gen) {
+				template.tier = 'Illegal';
 				template.doublesTier = 'Illegal';
 				template.isNonstandard = 'Future';
 			}
