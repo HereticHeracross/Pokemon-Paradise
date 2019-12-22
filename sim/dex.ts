@@ -421,7 +421,6 @@ export class ModdedDex {
 			if (!template.tier) template.tier = 'Illegal';
 			if (!template.doublesTier) template.doublesTier = template.tier;
 			if (template.gen > this.gen) {
-				template.tier = 'Illegal';
 				template.doublesTier = 'Illegal';
 				template.isNonstandard = 'Future';
 			}
@@ -434,7 +433,7 @@ export class ModdedDex {
 			}
 		} else {
 			template = new Data.Template({
-				id, name, exists: false, tier: 'Illegal', doublesTier: 'Illegal', isNonstandard: 'Custom',
+				id, name, exists: false, tier: 'H', doublesTier: 'Illegal', isNonstandard: 'Custom',
 			});
 		}
 		if (template.exists) this.templateCache.set(id, template);
