@@ -422,7 +422,6 @@ export class ModdedDex {
 			if (!template.tier) template.tier = 'Illegal';
 			if (!template.doublesTier) template.doublesTier = template.tier;
 			if (template.gen > this.gen) {
-				template.tier = 'Illegal';
 				template.doublesTier = 'Illegal';
 				template.isNonstandard = 'Future';
 			}
