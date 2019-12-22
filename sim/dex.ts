@@ -415,7 +415,6 @@ export class ModdedDex {
 					if (!baseFormatsData) {
 						throw new Error(`${template.baseSpecies} has no formats-data entry`);
 					}
-					template.tier = baseFormatsData.tier || 'Illegal';
 					template.doublesTier = baseFormatsData.doublesTier || 'Illegal';
 				}
 			}
@@ -432,10 +431,6 @@ export class ModdedDex {
 				);
 				if (!isLetsGo) template.isNonstandard = 'Past';
 			}
-		} else {
-			template = new Data.Template({
-				id, name, exists: false, tier: 'Illegal', doublesTier: 'Illegal', isNonstandard: 'Custom',
-			});
 		}
 		if (template.exists) this.templateCache.set(id, template);
 		return template;
