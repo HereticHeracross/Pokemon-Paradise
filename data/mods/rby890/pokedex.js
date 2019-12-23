@@ -6641,7 +6641,7 @@ let BattlePokedex = {
 	grimmsnarl: {
 		num: -710,
 		species: "Grimmsnarl",
-		types: ["Normal","Normal"],
+		types: ["Normal"],
 		baseStats: {"hp":95,"atk":120,"def":65,"spa":85,"spd":85,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 	},
