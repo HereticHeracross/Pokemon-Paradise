@@ -417,6 +417,28 @@ let Formats = [
 		column: 2,
 	},
 	{
+		name: "[Gen 1] Kantoification",
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3572352/">RBY OU Viability Ranking</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133786">RBY Sample Teams</a>`,
+		],
+
+		mod: 'rby890',
+		ruleset: ['Obtainable', 'Standard'],
+		banlist: ['Uber'],
+	},
+	{
+		name: "[Gen 3] Hoennification",
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3503019/">ADV OU Viability Ranking</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
+		],
+
+		mod: 'rse890',
+		ruleset: ['Obtainable', 'Standard', '3 Baton Pass Clause'],
+		banlist: ['Uber', 'Smeargle + Baton Pass'],
+	},
+	{
 		name: "[Gen 8] Balanced Hackmons",
 		desc: `Anything that can be hacked in-game and is usable in local battles is allowed.`,
 		threads: [
