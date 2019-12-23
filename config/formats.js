@@ -421,7 +421,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133786">RBY Sample Teams</a>`,
 		],
 
-		mod: 'rby890',
+		mod: 'gen1rby890',
 		ruleset: ['Obtainable', 'Standard'],
 	},
 	{
@@ -431,9 +431,9 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
 		],
 
-		mod: 'rse890',
+		mod: 'gen3rse890',
 		ruleset: ['Obtainable', 'Standard', '3 Baton Pass Clause'],
-		banlist: ['Uber', 'Smeargle + Baton Pass'],
+		banlist: ['Smeargle + Baton Pass'],
 	},
 	{
 		name: "[Gen 8] Balanced Hackmons",
