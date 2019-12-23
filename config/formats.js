@@ -421,7 +421,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133786">RBY Sample Teams</a>`,
 		],
 
-		mod: 'gen1rby890',
+		mod: 'rby890',
 		ruleset: ['Obtainable', 'Standard'],
 	},
 	{
@@ -431,7 +431,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
 		],
 
-		mod: 'gen3rse890',
+		mod: 'rse890',
 		ruleset: ['Obtainable', 'Standard', '3 Baton Pass Clause'],
 		banlist: ['Smeargle + Baton Pass'],
 	},
