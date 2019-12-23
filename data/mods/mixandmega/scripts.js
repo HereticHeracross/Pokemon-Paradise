@@ -6,7 +6,6 @@ let BattleScripts = {
 		for (let i in this.data.Items) {
 			if (!this.data.Items[i].megaStone) continue;
 			this.modData('Items', i).onTakeItem = false;
-			let id = toID(this.data.Items[i].megaStone);
 			this.modData('FormatsData', id).isNonstandard = null;
 		}
 	},
