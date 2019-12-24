@@ -448,7 +448,7 @@ export class TeamValidator {
 
 		if (!set.ability) set.ability = 'No Ability';
 		if (ruleTable.has('obtainableabilities')) {
-			if (dex.gen <= 2 || dex.currentMod === 'letsgo' || dex.currentMod === 'rby890') {
+			if (dex.gen <= 2 || dex.currentMod === 'letsgo') {
 				set.ability = 'No Ability';
 			} else {
 				if (!ability.name || ability.name === 'No Ability') {
