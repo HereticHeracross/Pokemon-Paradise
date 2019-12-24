@@ -24,6 +24,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":82,"def":83,"spa":100,"spd":100,"spe":80},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 		prevo: "ivysaur",
+		otherFormes: ["venusaurmega"],
 	},
 	charmander: {
 		num: 4,
@@ -47,6 +48,7 @@ let BattlePokedex = {
 		baseStats: {"hp":78,"atk":84,"def":78,"spa":97,"spd":97,"spe":100},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 		prevo: "charmeleon",
+		otherFormes: ["charizardmegax","charizardmegay","charizardgmax"],
 	},
 	squirtle: {
 		num: 7,
@@ -70,6 +72,7 @@ let BattlePokedex = {
 		baseStats: {"hp":79,"atk":83,"def":100,"spa":95,"spd":95,"spe":78},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 		prevo: "wartortle",
+		otherFormes: ["blastoisemega"],
 	},
 	caterpie: {
 		num: 10,
@@ -93,6 +96,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":45,"def":50,"spa":85,"spd":85,"spe":70},
 		abilities: {"0":"Compound Eyes","1":"No Ability","H":"No Ability"},
 		prevo: "metapod",
+		otherFormes: ["butterfreegmax"],
 	},
 	weedle: {
 		num: 13,
@@ -116,6 +120,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":90,"def":40,"spa":63,"spd":63,"spe":75},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 		prevo: "kakuna",
+		otherFormes: ["beedrillmega"],
 	},
 	pidgey: {
 		num: 16,
@@ -139,6 +144,7 @@ let BattlePokedex = {
 		baseStats: {"hp":83,"atk":80,"def":75,"spa":70,"spd":70,"spe":101},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 		prevo: "pidgeotto",
+		otherFormes: ["pidgeotmega"],
 	},
 	rattata: {
 		num: 19,
@@ -146,6 +152,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":30,"atk":56,"def":35,"spa":30,"spd":30,"spe":72},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
+		otherFormes: ["rattataalola"],
 	},
 	rattataalola: {
 		num: 19,
@@ -161,6 +168,7 @@ let BattlePokedex = {
 		baseStats: {"hp":55,"atk":81,"def":60,"spa":60,"spd":60,"spe":97},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 		prevo: "rattata",
+		otherFormes: ["raticatealola","raticatealolatotem"],
 	},
 	raticatealola: {
 		num: 20,
@@ -213,6 +221,7 @@ let BattlePokedex = {
 		types: ["Electric"],
 		baseStats: {"hp":20,"atk":40,"def":15,"spa":35,"spd":35,"spe":60},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
+		otherFormes: ["pichuspikyeared"],
 	},
 	pichuspikyeared: {
 		num: -21,
@@ -228,6 +237,7 @@ let BattlePokedex = {
 		baseStats: {"hp":35,"atk":55,"def":40,"spa":50,"spd":50,"spe":90},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 		prevo: "pichu",
+		otherFormes: ["pikachucosplay","pikachurockstar","pikachubelle","pikachupopstar","pikachuphd","pikachulibre","pikachuoriginal","pikachuhoenn","pikachusinnoh","pikachuunova","pikachukalos","pikachualola","pikachupartner","pikachustarter","pikachugmax"],
 	},
 	pikachucosplay: {
 		num: 25,
@@ -341,6 +351,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":90,"def":55,"spa":85,"spd":85,"spe":110},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 		prevo: "pikachu",
+		otherFormes: ["raichualola"],
 	},
 	raichualola: {
 		num: 26,
@@ -356,6 +367,7 @@ let BattlePokedex = {
 		types: ["Ground"],
 		baseStats: {"hp":50,"atk":75,"def":85,"spa":25,"spd":25,"spe":40},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
+		otherFormes: ["sandshrewalola"],
 	},
 	sandshrewalola: {
 		num: 27,
@@ -371,6 +383,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":100,"def":110,"spa":50,"spd":50,"spe":65},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 		prevo: "sandshrew",
+		otherFormes: ["sandslashalola"],
 	},
 	sandslashalola: {
 		num: 28,
@@ -455,6 +468,7 @@ let BattlePokedex = {
 		types: ["Fire"],
 		baseStats: {"hp":38,"atk":41,"def":40,"spa":58,"spd":58,"spe":65},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
+		otherFormes: ["vulpixalola"],
 	},
 	vulpixalola: {
 		num: 37,
@@ -470,6 +484,7 @@ let BattlePokedex = {
 		baseStats: {"hp":73,"atk":76,"def":75,"spa":91,"spd":91,"spe":100},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 		prevo: "vulpix",
+		otherFormes: ["ninetalesalola"],
 	},
 	ninetalesalola: {
 		num: 38,
@@ -592,6 +607,7 @@ let BattlePokedex = {
 		types: ["Ground"],
 		baseStats: {"hp":10,"atk":55,"def":25,"spa":40,"spd":40,"spe":95},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
+		otherFormes: ["diglettalola"],
 	},
 	diglettalola: {
 		num: 50,
@@ -607,6 +623,7 @@ let BattlePokedex = {
 		baseStats: {"hp":35,"atk":100,"def":50,"spa":60,"spd":60,"spe":120},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 		prevo: "diglett",
+		otherFormes: ["dugtrioalola"],
 	},
 	dugtrioalola: {
 		num: 51,
@@ -622,6 +639,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":40,"atk":45,"def":35,"spa":40,"spd":40,"spe":90},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
+		otherFormes: ["meowthalola","meowthgalar","meowthgmax"],
 	},
 	meowthalola: {
 		num: 52,
@@ -651,6 +669,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":70,"def":60,"spa":65,"spd":65,"spe":115},
 		abilities: {"0":"Limber","1":"No Ability","H":"No Ability"},
 		prevo: "meowth",
+		otherFormes: ["persianalola"],
 	},
 	persianalola: {
 		num: 53,
@@ -766,6 +785,7 @@ let BattlePokedex = {
 		baseStats: {"hp":55,"atk":50,"def":45,"spa":115,"spd":115,"spe":120},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 		prevo: "kadabra",
+		otherFormes: ["alakazammega"],
 	},
 	machop: {
 		num: 66,
@@ -789,6 +809,7 @@ let BattlePokedex = {
 		baseStats: {"hp":90,"atk":130,"def":80,"spa":75,"spd":75,"spe":55},
 		abilities: {"0":"Guts","1":"No Ability","H":"No Ability"},
 		prevo: "machoke",
+		otherFormes: ["machampgmax"],
 	},
 	bellsprout: {
 		num: 69,
@@ -834,6 +855,7 @@ let BattlePokedex = {
 		types: ["Rock","Ground"],
 		baseStats: {"hp":40,"atk":80,"def":100,"spa":30,"spd":30,"spe":20},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
+		otherFormes: ["geodudealola"],
 	},
 	geodudealola: {
 		num: 74,
@@ -849,6 +871,7 @@ let BattlePokedex = {
 		baseStats: {"hp":55,"atk":95,"def":115,"spa":45,"spd":45,"spe":35},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 		prevo: "geodude",
+		otherFormes: ["graveleralola"],
 	},
 	graveleralola: {
 		num: 75,
@@ -865,6 +888,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":120,"def":130,"spa":60,"spd":60,"spe":45},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 		prevo: "graveler",
+		otherFormes: ["golemalola"],
 	},
 	golemalola: {
 		num: 76,
@@ -880,6 +904,7 @@ let BattlePokedex = {
 		types: ["Fire"],
 		baseStats: {"hp":50,"atk":85,"def":55,"spa":65,"spd":65,"spe":90},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
+		otherFormes: ["ponytagalar"],
 	},
 	ponytagalar: {
 		num: 77,
@@ -895,6 +920,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":100,"def":70,"spa":80,"spd":80,"spe":105},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
 		prevo: "ponyta",
+		otherFormes: ["rapidashgalar"],
 	},
 	rapidashgalar: {
 		num: 78,
@@ -918,6 +944,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":75,"def":110,"spa":90,"spd":90,"spe":30},
 		abilities: {"0":"Oblivious","1":"No Ability","H":"No Ability"},
 		prevo: "slowpoke",
+		otherFormes: ["slowbromega"],
 	},
 	slowking: {
 		num: -48,
@@ -956,6 +983,7 @@ let BattlePokedex = {
 		types: ["Normal","Flying"],
 		baseStats: {"hp":52,"atk":90,"def":55,"spa":60,"spd":60,"spe":60},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
+		otherFormes: ["farfetchdgalar"],
 	},
 	farfetchdgalar: {
 		num: 83,
@@ -1008,6 +1036,7 @@ let BattlePokedex = {
 		types: ["Poison"],
 		baseStats: {"hp":80,"atk":80,"def":50,"spa":45,"spd":45,"spe":25},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
+		otherFormes: ["grimeralola"],
 	},
 	grimeralola: {
 		num: 88,
@@ -1023,6 +1052,7 @@ let BattlePokedex = {
 		baseStats: {"hp":105,"atk":105,"def":75,"spa":83,"spd":83,"spe":50},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 		prevo: "grimer",
+		otherFormes: ["mukalola"],
 	},
 	mukalola: {
 		num: 89,
@@ -1069,6 +1099,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":65,"def":60,"spa":103,"spd":103,"spe":110},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "haunter",
+		otherFormes: ["gengarmega","gengargmax"],
 	},
 	onix: {
 		num: 95,
@@ -1084,6 +1115,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":85,"def":200,"spa":60,"spd":60,"spe":30},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 		prevo: "onix",
+		otherFormes: ["steelixmega"],
 	},
 	drowzee: {
 		num: 96,
@@ -1114,6 +1146,7 @@ let BattlePokedex = {
 		baseStats: {"hp":55,"atk":130,"def":115,"spa":50,"spd":50,"spe":75},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
 		prevo: "krabby",
+		otherFormes: ["kinglergmax"],
 	},
 	voltorb: {
 		num: 100,
@@ -1144,6 +1177,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":95,"def":85,"spa":100,"spd":100,"spe":55},
 		abilities: {"0":"Chlorophyll","1":"No Ability","H":"No Ability"},
 		prevo: "exeggcute",
+		otherFormes: ["exeggutoralola"],
 	},
 	exeggutoralola: {
 		num: 103,
@@ -1167,6 +1201,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":80,"def":110,"spa":65,"spd":65,"spe":45},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
 		prevo: "cubone",
+		otherFormes: ["marowakalola","marowakalolatotem"],
 	},
 	marowakalola: {
 		num: 105,
@@ -1243,6 +1278,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":90,"def":120,"spa":78,"spd":78,"spe":60},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 		prevo: "koffing",
+		otherFormes: ["Weezing-Galar"],
 	},
 	weezinggalar: {
 		num: 110,
@@ -1319,6 +1355,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":105,"atk":95,"def":80,"spa":60,"spd":60,"spe":90},
 		abilities: {"0":"Early Bird","1":"No Ability","H":"No Ability"},
+		otherFormes: ["kangaskhanmega"],
 	},
 	horsea: {
 		num: 116,
@@ -1387,6 +1424,7 @@ let BattlePokedex = {
 		baseStats: {"hp":40,"atk":45,"def":65,"spa":110,"spd":110,"spe":90},
 		abilities: {"0":"Soundproof","1":"No Ability","H":"No Ability"},
 		prevo: "mimejr",
+		otherFormes: ["mrmimegalar"],
 	},
 	mrmimegalar: {
 		num: 122,
@@ -1418,6 +1456,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":130,"def":100,"spa":68,"spd":68,"spe":65},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 		prevo: "scyther",
+		otherFormes: ["scizormega"],
 	},
 	smoochum: {
 		num: -87,
@@ -1486,6 +1525,7 @@ let BattlePokedex = {
 		types: ["Bug"],
 		baseStats: {"hp":65,"atk":125,"def":100,"spa":63,"spd":63,"spe":85},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
+		otherFormes: ["pinsirmega"],
 	},
 	tauros: {
 		num: 128,
@@ -1508,6 +1548,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":125,"def":79,"spa":80,"spd":80,"spe":81},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 		prevo: "magikarp",
+		otherFormes: ["gyaradosmega"],
 	},
 	lapras: {
 		num: 131,
@@ -1515,6 +1556,7 @@ let BattlePokedex = {
 		types: ["Water","Ice"],
 		baseStats: {"hp":130,"atk":85,"def":80,"spa":90,"spd":90,"spe":60},
 		abilities: {"0":"Water Absorb","1":"No Ability","H":"No Ability"},
+		otherFormes: ["laprasgmax"],
 	},
 	ditto: {
 		num: 132,
@@ -1529,6 +1571,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":55,"atk":55,"def":50,"spa":55,"spd":55,"spe":55},
 		abilities: {"0":"Run Away","1":"No Ability","H":"No Ability"},
+		otherFormes: ["eeveestarter","eeveegmax"],
 	},
 	eeveestarter: {
 		num: 133,
@@ -1659,6 +1702,7 @@ let BattlePokedex = {
 		types: ["Rock","Flying"],
 		baseStats: {"hp":80,"atk":105,"def":65,"spa":68,"spd":68,"spe":130},
 		abilities: {"0":"Rock Head","1":"No Ability","H":"No Ability"},
+		otherFormes: ["aerodactylmega"],
 	},
 	munchlax: {
 		num: -295,
@@ -1674,6 +1718,7 @@ let BattlePokedex = {
 		baseStats: {"hp":160,"atk":110,"def":65,"spa":88,"spd":88,"spe":30},
 		abilities: {"0":"Immunity","1":"No Ability","H":"No Ability"},
 		prevo: "munchlax",
+		otherFormes: ["snorlaxgmax"],
 	},
 	articuno: {
 		num: 144,
@@ -1725,6 +1770,7 @@ let BattlePokedex = {
 		types: ["Psychic"],
 		baseStats: {"hp":106,"atk":110,"def":90,"spa":122,"spd":122,"spe":130},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["mewtwomegax","mewtwomegay"],
 	},
 	mew: {
 		num: 151,
@@ -1937,6 +1983,7 @@ let BattlePokedex = {
 		baseStats: {"hp":90,"atk":75,"def":85,"spa":103,"spd":103,"spe":55},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 		prevo: "flaaffy",
+		otherFormes: ["ampharosmega"],
 	},
 	azurill: {
 		num: -147,
@@ -2190,6 +2237,7 @@ let BattlePokedex = {
 		types: ["Bug","Fighting"],
 		baseStats: {"hp":80,"atk":125,"def":75,"spa":68,"spd":68,"spe":85},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
+		otherFormes: ["heracrossmega"],
 	},
 	sneasel: {
 		num: -64,
@@ -2265,6 +2313,7 @@ let BattlePokedex = {
 		types: ["Water","Rock"],
 		baseStats: {"hp":65,"atk":55,"def":95,"spa":80,"spd":80,"spe":35},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
+		otherFormes: ["corsolagalar"],
 	},
 	corsolagalar: {
 		num: -71,
@@ -2339,6 +2388,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":90,"def":50,"spa":95,"spd":95,"spe":95},
 		abilities: {"0":"Early Bird","1":"No Ability","H":"No Ability"},
 		prevo: "houndour",
+		otherFormes: ["houndoommega"],
 	},
 	phanpy: {
 		num: -80,
@@ -2419,6 +2469,7 @@ let BattlePokedex = {
 		baseStats: {"hp":100,"atk":134,"def":110,"spa":98,"spd":98,"spe":61},
 		abilities: {"0":"Sand Stream","1":"No Ability","H":"No Ability"},
 		prevo: "pupitar",
+		otherFormes: ["tyranitarmega"],
 	},
 	lugia: {
 		num: -98,
@@ -2463,6 +2514,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":85,"def":65,"spa":95,"spd":95,"spe":120},
 		abilities: {"0":"Overgrow","1":"No Ability","H":"No Ability"},
 		prevo: "grovyle",
+		otherFormes: ["sceptilemega"],
 	},
 	torchic: {
 		num: -104,
@@ -2486,6 +2538,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":120,"def":70,"spa":90,"spd":90,"spe":80},
 		abilities: {"0":"Blaze","1":"No Ability","H":"No Ability"},
 		prevo: "combusken",
+		otherFormes: ["blazikenmega"],
 	},
 	mudkip: {
 		num: -107,
@@ -2509,6 +2562,7 @@ let BattlePokedex = {
 		baseStats: {"hp":100,"atk":110,"def":90,"spa":88,"spd":88,"spe":60},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability"},
 		prevo: "marshtomp",
+		otherFormes: ["swampertmega"],
 	},
 	poochyena: {
 		num: -110,
@@ -2531,6 +2585,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":38,"atk":30,"def":41,"spa":36,"spd":36,"spe":60},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
+		otherFormes: ["zigzagoongalar"],
 	},
 	zigzagoongalar: {
 		num: -112,
@@ -2546,6 +2601,7 @@ let BattlePokedex = {
 		baseStats: {"hp":78,"atk":70,"def":61,"spa":56,"spd":56,"spe":100},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 		prevo: "zigzagoon",
+		otherFormes: ["linoonegalar"],
 	},
 	linoonegalar: {
 		num: -113,
@@ -2700,6 +2756,7 @@ let BattlePokedex = {
 		baseStats: {"hp":68,"atk":65,"def":65,"spa":120,"spd":120,"spe":80},
 		abilities: {"0":"Synchronize","1":"No Ability","H":"No Ability"},
 		prevo: "kirlia",
+		otherFormes: ["gardevoirmega"],
 	},
 	gallade: {
 		num: -324,
@@ -2708,6 +2765,7 @@ let BattlePokedex = {
 		baseStats: {"hp":68,"atk":125,"def":65,"spa":90,"spd":90,"spe":80},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "kirlia",
+		otherFormes: ["gallademega"],
 	},
 	surskit: {
 		num: -132,
@@ -2859,6 +2917,7 @@ let BattlePokedex = {
 		types: ["Normal","Ghost"],
 		baseStats: {"hp":50,"atk":75,"def":75,"spa":65,"spd":65,"spe":50},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
+		otherFormes: ["sableyemega"],
 	},
 	mawile: {
 		num: -152,
@@ -2866,6 +2925,7 @@ let BattlePokedex = {
 		types: ["Rock","Normal"],
 		baseStats: {"hp":50,"atk":85,"def":85,"spa":55,"spd":55,"spe":50},
 		abilities: {"0":"Hyper Cutter","1":"No Ability","H":"No Ability"},
+		otherFormes: ["mawilemega"],
 	},
 	aron: {
 		num: -153,
@@ -2889,6 +2949,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":110,"def":180,"spa":60,"spd":60,"spe":50},
 		abilities: {"0":"Sturdy","1":"No Ability","H":"No Ability"},
 		prevo: "lairon",
+		otherFormes: ["aggronmega"],
 	},
 	meditite: {
 		num: -156,
@@ -2904,6 +2965,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":60,"def":75,"spa":68,"spd":68,"spe":80},
 		abilities: {"0":"Pure Power","1":"No Ability","H":"No Ability"},
 		prevo: "meditite",
+		otherFormes: ["medichammega"],
 	},
 	electrike: {
 		num: -158,
@@ -2919,6 +2981,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":75,"def":60,"spa":83,"spd":83,"spe":105},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
 		prevo: "electrike",
+		otherFormes: ["manectricmega"],
 	},
 	plusle: {
 		num: -160,
@@ -3000,6 +3063,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":120,"def":40,"spa":68,"spd":68,"spe":95},
 		abilities: {"0":"Rough Skin","1":"No Ability","H":"No Ability"},
 		prevo: "carvanha",
+		otherFormes: ["sharpedomega"],
 	},
 	wailmer: {
 		num: -169,
@@ -3030,6 +3094,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":100,"def":70,"spa":90,"spd":90,"spe":40},
 		abilities: {"0":"Magma Armor","1":"No Ability","H":"No Ability"},
 		prevo: "numel",
+		otherFormes: ["cameruptmega"],
 	},
 	torkoal: {
 		num: -173,
@@ -3112,6 +3177,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":70,"def":90,"spa":88,"spd":88,"spe":80},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
 		prevo: "swablu",
+		otherFormes: ["altariamega"],
 	},
 	zangoose: {
 		num: -184,
@@ -3237,6 +3303,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":70,"atk":70,"def":70,"spa":70,"spd":70,"spe":70},
 		abilities: {"0":"Forecast","1":"No Ability","H":"No Ability"},
+		otherFormes: ["castformsunny","castformrainy","castformsnowy"],
 	},
 	kecleon: {
 		num: -201,
@@ -3259,6 +3326,7 @@ let BattlePokedex = {
 		baseStats: {"hp":64,"atk":115,"def":65,"spa":73,"spd":73,"spe":65},
 		abilities: {"0":"Insomnia","1":"No Ability","H":"No Ability"},
 		prevo: "shuppet",
+		otherFormes: ["banettemega"],
 	},
 	duskull: {
 		num: -204,
@@ -3311,6 +3379,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":65,"atk":130,"def":60,"spa":68,"spd":68,"spe":75},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["absolmega"],
 	},
 	snorunt: {
 		num: -210,
@@ -3326,6 +3395,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":80,"def":80,"spa":80,"spd":80,"spe":80},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
 		prevo: "snorunt",
+		otherFormes: ["glaliemega"],
 	},
 	froslass: {
 		num: -327,
@@ -3417,6 +3487,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":135,"def":80,"spa":95,"spd":95,"spe":100},
 		abilities: {"0":"Intimidate","1":"No Ability","H":"No Ability"},
 		prevo: "shelgon",
+		otherFormes: ["salamencemega"],
 	},
 	beldum: {
 		num: -223,
@@ -3440,6 +3511,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":135,"def":130,"spa":93,"spd":93,"spe":70},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
 		prevo: "metang",
+		otherFormes: ["metagrossmega"],
 	},
 	regirock: {
 		num: -226,
@@ -3468,6 +3540,7 @@ let BattlePokedex = {
 		types: ["Dragon","Psychic"],
 		baseStats: {"hp":80,"atk":80,"def":90,"spa":120,"spd":120,"spe":110},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
+		otherFormes: ["latiasmega"],
 	},
 	latios: {
 		num: -230,
@@ -3475,6 +3548,7 @@ let BattlePokedex = {
 		types: ["Dragon","Psychic"],
 		baseStats: {"hp":80,"atk":90,"def":80,"spa":120,"spd":120,"spe":110},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
+		otherFormes: ["latiosmega"],
 	},
 	kyogre: {
 		num: -231,
@@ -3482,6 +3556,7 @@ let BattlePokedex = {
 		types: ["Water"],
 		baseStats: {"hp":100,"atk":100,"def":90,"spa":145,"spd":145,"spe":90},
 		abilities: {"0":"Drizzle","1":"No Ability","H":"No Ability"},
+		otherFormes: ["kyogreprimal"],
 	},
 	groudon: {
 		num: -232,
@@ -3489,6 +3564,7 @@ let BattlePokedex = {
 		types: ["Ground"],
 		baseStats: {"hp":100,"atk":150,"def":140,"spa":95,"spd":95,"spe":90},
 		abilities: {"0":"Drought","1":"No Ability","H":"No Ability"},
+		otherFormes: ["groudonprimal"],
 	},
 	rayquaza: {
 		num: -233,
@@ -3496,6 +3572,7 @@ let BattlePokedex = {
 		types: ["Dragon","Flying"],
 		baseStats: {"hp":105,"atk":150,"def":90,"spa":120,"spd":120,"spe":95},
 		abilities: {"0":"Air Lock","1":"No Ability","H":"No Ability"},
+		otherFormes: ["rayquazamega"],
 	},
 	jirachi: {
 		num: -234,
@@ -3510,6 +3587,7 @@ let BattlePokedex = {
 		types: ["Psychic"],
 		baseStats: {"hp":50,"atk":150,"def":50,"spa":100,"spd":100,"spe":150},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["deoxysattack","deoxysdefense","deoxysspeed"],
 	},
 	turtwig: {
 		num: -236,
@@ -3700,6 +3778,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":59,"def":85,"spa":92,"spd":92,"spe":36},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "burmy",
+		otherFormes: ["wormadamsandy","wormadamtrash"],
 	},
 	wormadamsandy: {
 		num: -262,
@@ -3776,6 +3855,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":60,"def":70,"spa":83,"spd":83,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "cherubi",
+		otherFormes: ["cherrimsunshine"],
 	},
 	shellos: {
 		num: -271,
@@ -3821,6 +3901,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":76,"def":84,"spa":75,"spd":75,"spe":105},
 		abilities: {"0":"Cute Charm","1":"No Ability","H":"No Ability"},
 		prevo: "buneary",
+		otherFormes: ["lopunnymega"],
 	},
 	glameow: {
 		num: -280,
@@ -3903,6 +3984,7 @@ let BattlePokedex = {
 		baseStats: {"hp":108,"atk":130,"def":95,"spa":83,"spd":83,"spe":102},
 		abilities: {"0":"Sand Veil","1":"No Ability","H":"No Ability"},
 		prevo: "gabite",
+		otherFormes: ["garchompmega"],
 	},
 	riolu: {
 		num: -296,
@@ -3918,6 +4000,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":110,"def":70,"spa":93,"spd":93,"spe":90},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "riolu",
+		otherFormes: ["lucariomega"],
 	},
 	hippopotas: {
 		num: -298,
@@ -4000,6 +4083,7 @@ let BattlePokedex = {
 		baseStats: {"hp":90,"atk":92,"def":75,"spa":89,"spd":89,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "snover",
+		otherFormes: ["abomasnowmega"],
 	},
 	rotom: {
 		num: -328,
@@ -4007,6 +4091,7 @@ let BattlePokedex = {
 		types: ["Electric","Ghost"],
 		baseStats: {"hp":50,"atk":50,"def":77,"spa":86,"spd":86,"spe":91},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
+		otherFormes: ["rotomheat","rotomwash","rotomfrost","rotomfan","rotommow"],
 	},
 	rotomheat: {
 		num: -328,
@@ -4098,6 +4183,7 @@ let BattlePokedex = {
 		types: ["Ghost","Dragon"],
 		baseStats: {"hp":150,"atk":100,"def":120,"spa":110,"spd":110,"spe":90},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["giratinaorigin"],
 	},
 	cresselia: {
 		num: -337,
@@ -4133,6 +4219,7 @@ let BattlePokedex = {
 		types: ["Grass"],
 		baseStats: {"hp":100,"atk":100,"def":100,"spa":100,"spd":100,"spe":100},
 		abilities: {"0":"Natural Cure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["shayminsky"],
 	},
 	arceus: {
 		num: -342,
@@ -4140,6 +4227,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":120,"atk":120,"def":120,"spa":120,"spd":120,"spe":120},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["arceusbug","arceusdark","arceusdragon","arceuselectric","arceusfairy","arceusfighting","arceusfire","arceusflying","arceusghost","arceusgrass","arceusground","arceusice","arceuspoison","arceuspsychic","arceusrock","arceussteel","arceuswater"],
 	},
 	victini: {
 		num: -343,
@@ -4427,6 +4515,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":103,"atk":60,"def":86,"spa":73,"spd":73,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["audinomega"],
 	},
 	timburr: {
 		num: -381,
@@ -4570,6 +4659,7 @@ let BattlePokedex = {
 		types: ["Water"],
 		baseStats: {"hp":70,"atk":92,"def":65,"spa":68,"spd":68,"spe":98},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["basculinbluestriped"],
 	},
 	sandile: {
 		num: -400,
@@ -4600,6 +4690,7 @@ let BattlePokedex = {
 		types: ["Fire"],
 		baseStats: {"hp":70,"atk":90,"def":45,"spa":30,"spd":30,"spe":50},
 		abilities: {"0":"Hustle","1":"No Ability","H":"No Ability"},
+		otherFormes: ["darumakagalar"],
 	},
 	darumakagalar: {
 		num: -403,
@@ -4615,6 +4706,7 @@ let BattlePokedex = {
 		baseStats: {"hp":105,"atk":140,"def":55,"spa":43,"spd":43,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "darumaka",
+		otherFormes: ["darmanitanzen","darmanitangalar","darmanitangalarzen"],
 	},
 	darmanitangalar: {
 		num: -404,
@@ -4674,6 +4766,7 @@ let BattlePokedex = {
 		types: ["Ghost"],
 		baseStats: {"hp":38,"atk":30,"def":85,"spa":60,"spd":60,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["yamaskgalar"],
 	},
 	yamaskgalar: {
 		num: -411,
@@ -4742,6 +4835,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":95,"def":82,"spa":71,"spd":71,"spe":75},
 		abilities: {"0":"Stench","1":"No Ability","H":"No Ability"},
 		prevo: "trubbish",
+		otherFormes: ["garbodorgmax"],
 	},
 	zorua: {
 		num: -419,
@@ -5111,6 +5205,7 @@ let BattlePokedex = {
 		types: ["Ground","Electric"],
 		baseStats: {"hp":109,"atk":66,"def":84,"spa":90,"spd":90,"spe":32},
 		abilities: {"0":"Static","1":"No Ability","H":"No Ability"},
+		otherFormes: ["stunfiskgalar"],
 	},
 	stunfiskgalar: {
 		num: -467,
@@ -5287,6 +5382,7 @@ let BattlePokedex = {
 		types: ["Flying"],
 		baseStats: {"hp":79,"atk":115,"def":70,"spa":103,"spd":103,"spe":111},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["tornadustherian"],
 	},
 	thundurus: {
 		num: -491,
@@ -5294,6 +5390,7 @@ let BattlePokedex = {
 		types: ["Electric","Flying"],
 		baseStats: {"hp":79,"atk":115,"def":70,"spa":103,"spd":103,"spe":111},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["thundurustherian"],
 	},
 	reshiram: {
 		num: -492,
@@ -5315,6 +5412,7 @@ let BattlePokedex = {
 		types: ["Ground","Flying"],
 		baseStats: {"hp":89,"atk":125,"def":90,"spa":98,"spd":98,"spe":101},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["landorustherian"],
 	},
 	kyurem: {
 		num: -495,
@@ -5322,6 +5420,7 @@ let BattlePokedex = {
 		types: ["Dragon","Ice"],
 		baseStats: {"hp":125,"atk":130,"def":90,"spa":110,"spd":110,"spe":95},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
+		otherFormes: ["kyuremblack","kyuremwhite"],
 	},
 	kyuremblack: {
 		num: -495,
@@ -5343,6 +5442,7 @@ let BattlePokedex = {
 		types: ["Water","Fighting"],
 		baseStats: {"hp":91,"atk":72,"def":90,"spa":110,"spd":110,"spe":108},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["keldeoresolute"],
 	},
 	meloetta: {
 		num: -497,
@@ -5350,6 +5450,7 @@ let BattlePokedex = {
 		types: ["Normal","Psychic"],
 		baseStats: {"hp":100,"atk":77,"def":77,"spa":128,"spd":128,"spe":90},
 		abilities: {"0":"Serene Grace","1":"No Ability","H":"No Ability"},
+		otherFormes: ["meloettapirouette"],
 	},
 	genesect: {
 		num: -498,
@@ -5357,6 +5458,7 @@ let BattlePokedex = {
 		types: ["Bug","Rock"],
 		baseStats: {"hp":71,"atk":120,"def":95,"spa":108,"spd":108,"spe":99},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["genesectdouse","genesectshock","genesectburn","genesectchill"],
 	},
 	chespin: {
 		num: -499,
@@ -5426,6 +5528,7 @@ let BattlePokedex = {
 		baseStats: {"hp":72,"atk":95,"def":67,"spa":87,"spd":87,"spe":122},
 		abilities: {"0":"Torrent","1":"No Ability","H":"No Ability","S":"Battle Bond"},
 		prevo: "frogadier",
+		otherFormes: ["greninjaash"],
 	},
 	greninjaash: {
 		num: -507,
@@ -5494,6 +5597,7 @@ let BattlePokedex = {
 		baseStats: {"hp":80,"atk":52,"def":50,"spa":70,"spd":70,"spe":89},
 		abilities: {"0":"Shield Dust","1":"No Ability","H":"No Ability"},
 		prevo: "spewpa",
+		otherFormes: ["vivillonfancy","vivillonpokeball"],
 	},
 	vivillonfancy: {
 		num: -515,
@@ -5538,6 +5642,7 @@ let BattlePokedex = {
 		baseStats: {"hp":54,"atk":45,"def":47,"spa":87,"spd":87,"spe":52},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "flabebe",
+		otherFormes: ["floetteeternal"],
 	},
 	floetteeternal: {
 		num: -519,
@@ -5605,6 +5710,7 @@ let BattlePokedex = {
 		baseStats: {"hp":74,"atk":48,"def":76,"spa":82,"spd":82,"spe":104},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 		prevo: "espurr",
+		otherFormes: ["meowsticf"],
 	},
 	meowsticf: {
 		num: -527,
@@ -5636,6 +5742,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":50,"def":140,"spa":95,"spd":95,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "doublade",
+		otherFormes: ["aegislashblade"],
 	},
 	spritzee: {
 		num: -531,
@@ -5852,6 +5959,7 @@ let BattlePokedex = {
 		types: ["Ghost","Grass"],
 		baseStats: {"hp":49,"atk":66,"def":70,"spa":50,"spd":50,"spe":51},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
+		otherFormes: ["pumpkaboosmall","pumpkaboolarge","pumpkaboosuper"],
 	},
 	gourgeist: {
 		num: -560,
@@ -5860,6 +5968,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":90,"def":122,"spa":67,"spd":67,"spe":84},
 		abilities: {"0":"Pickup","1":"No Ability","H":"No Ability"},
 		prevo: "pumpkaboo",
+		otherFormes: ["gourgeistsmall","gourgeistlarge","gourgeistsuper"],
 	},
 	bergmite: {
 		num: -561,
@@ -5911,6 +6020,7 @@ let BattlePokedex = {
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":108,"atk":100,"def":121,"spa":88,"spd":88,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","S":"Power Construct","H":"No Ability"},
+		otherFormes: ["zygarde10","zygardecomplete"],
 	},
 	diancie: {
 		num: -568,
@@ -5918,6 +6028,7 @@ let BattlePokedex = {
 		types: ["Rock","Normal"],
 		baseStats: {"hp":50,"atk":100,"def":150,"spa":125,"spd":125,"spe":50},
 		abilities: {"0":"Clear Body","1":"No Ability","H":"No Ability"},
+		otherFormes: ["dianciemega"],
 	},
 	hoopa: {
 		num: -569,
@@ -5925,6 +6036,7 @@ let BattlePokedex = {
 		types: ["Psychic","Ghost"],
 		baseStats: {"hp":80,"atk":110,"def":60,"spa":140,"spd":140,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["hoopaunbound"],
 	},
 	volcanion: {
 		num: -570,
@@ -6039,6 +6151,7 @@ let BattlePokedex = {
 		baseStats: {"hp":88,"atk":110,"def":60,"spa":58,"spd":58,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "yungoos",
+		otherFormes: ["gumshoostotem"],
 	},
 	gumshoostotem: {
 		num: -584,
@@ -6069,6 +6182,7 @@ let BattlePokedex = {
 		baseStats: {"hp":77,"atk":70,"def":90,"spa":110,"spd":110,"spe":43},
 		abilities: {"0":"Levitate","1":"No Ability","H":"No Ability"},
 		prevo: "charjabug",
+		otherFormes: ["vikavolttotem"],
 	},
 	vikavolttotem: {
 		num: -587,
@@ -6098,6 +6212,7 @@ let BattlePokedex = {
 		types: ["Fire","Flying"],
 		baseStats: {"hp":75,"atk":70,"def":70,"spa":84,"spd":84,"spe":93},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["oricoriopompom","oricoriopau","oricoriosensu"],
 	},
 	cutiefly: {
 		num: -591,
@@ -6113,6 +6228,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":55,"def":60,"spa":83,"spd":83,"spe":124},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "cutiefly",
+		otherFormes: ["ribombeetotem"],
 	},
 	ribombeetotem: {
 		num: -592,
@@ -6135,6 +6251,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":115,"def":65,"spa":60,"spd":60,"spe":112},
 		abilities: {"0":"Keen Eye","1":"No Ability","H":"No Ability"},
 		prevo: "rockruff",
+		otherFormes: ["lycanrocmidnight","lycanrocdusk"],
 	},
 	lycanrocmidnight: {
 		num: -594,
@@ -6158,6 +6275,7 @@ let BattlePokedex = {
 		types: ["Water"],
 		baseStats: {"hp":45,"atk":20,"def":20,"spa":25,"spd":25,"spe":40},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["wishiwashischool"],
 	},
 	mareanie: {
 		num: -596,
@@ -6203,6 +6321,7 @@ let BattlePokedex = {
 		baseStats: {"hp":68,"atk":70,"def":92,"spa":91,"spd":91,"spe":42},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "dewpider",
+		otherFormes: ["araquanidtotem"],
 	},
 	araquanidtotem: {
 		num: -601,
@@ -6225,6 +6344,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":105,"def":90,"spa":85,"spd":85,"spe":45},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "fomantis",
+		otherFormes: ["lurantistotem"],
 	},
 	lurantistotem: {
 		num: -603,
@@ -6262,6 +6382,7 @@ let BattlePokedex = {
 		baseStats: {"hp":68,"atk":64,"def":60,"spa":86,"spd":86,"spe":117},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "salandit",
+		otherFormes: ["salazzletotem"],
 	},
 	salazzletotem: {
 		num: -607,
@@ -6380,6 +6501,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":95,"def":95,"spa":95,"spd":95,"spe":95},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "typenull",
+		otherFormes: ["silvallybug","silvallydark","silvallydragon","silvallyelectric","silvallyfairy","silvallyfighting","silvallyfire","silvallyflying","silvallyghost","silvallygrass","silvallyground","silvallyice","silvallypoison","silvallypsychic","silvallyrock","silvallysteel","silvallywater"],
 	},
 	minior: {
 		num: -623,
@@ -6387,6 +6509,7 @@ let BattlePokedex = {
 		types: ["Rock","Flying"],
 		baseStats: {"hp":60,"atk":100,"def":60,"spa":80,"spd":80,"spe":120},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["miniormeteor"],
 	},
 	komala: {
 		num: -624,
@@ -6408,6 +6531,7 @@ let BattlePokedex = {
 		types: ["Electric","Rock"],
 		baseStats: {"hp":65,"atk":98,"def":63,"spa":57,"spd":57,"spe":96},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["togedemarutotem"],
 	},
 	togedemarutotem: {
 		num: -626,
@@ -6422,6 +6546,7 @@ let BattlePokedex = {
 		types: ["Ghost","Normal"],
 		baseStats: {"hp":55,"atk":90,"def":80,"spa":78,"spd":78,"spe":96},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["mimikyubusted","mimikyutotem","mimikyubustedtotem"],
 	},
 	mimikyutotem: {
 		num: -627,
@@ -6473,6 +6598,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":110,"def":125,"spa":103,"spd":103,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "hakamoo",
+		otherFormes: ["kommoototem"],
 	},
 	kommoototem: {
 		num: -633,
@@ -6595,6 +6721,7 @@ let BattlePokedex = {
 		types: ["Psychic"],
 		baseStats: {"hp":97,"atk":107,"def":101,"spa":108,"spd":108,"spe":79},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["necrozmaduskmane","necrozmadawnwings","necrozmaultra"],
 	},
 	necrozmaduskmane: {
 		num: -649,
@@ -6623,6 +6750,7 @@ let BattlePokedex = {
 		types: ["Rock","Normal"],
 		baseStats: {"hp":80,"atk":95,"def":115,"spa":123,"spd":123,"spe":65},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["magearnaoriginal"],
 	},
 	magearnaoriginal: {
 		num: -650,
@@ -6687,6 +6815,7 @@ let BattlePokedex = {
 		types: ["Rock"],
 		baseStats: {"hp":135,"atk":143,"def":143,"spa":73,"spd":73,"spe":34},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["melmetalgmax"],
 	},
 	grookey: {
 		num: -659,
@@ -6794,6 +6923,7 @@ let BattlePokedex = {
 		baseStats: {"hp":98,"atk":87,"def":105,"spa":69,"spd":69,"spe":67},
 		abilities: {"0":"Pressure","1":"No Ability","H":"No Ability"},
 		prevo: "corvisquire",
+		otherFormes: ["corviknightgmax"],
 	},
 	blipbug: {
 		num: -673,
@@ -6817,6 +6947,7 @@ let BattlePokedex = {
 		baseStats: {"hp":60,"atk":45,"def":110,"spa":100,"spd":100,"spe":90},
 		abilities: {"0":"Swarm","1":"No Ability","H":"No Ability"},
 		prevo: "dottler",
+		otherFormes: ["orbeetlegmax"],
 	},
 	nickit: {
 		num: -676,
@@ -6877,6 +7008,7 @@ let BattlePokedex = {
 		baseStats: {"hp":90,"atk":115,"def":90,"spa":58,"spd":58,"spe":74},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "chewtle",
+		otherFormes: ["drednawgmax"],
 	},
 	yamper: {
 		num: -684,
@@ -6915,6 +7047,7 @@ let BattlePokedex = {
 		baseStats: {"hp":110,"atk":80,"def":120,"spa":85,"spd":85,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "carkol",
+		otherFormes: ["coalossalgmax"],
 	},
 	applin: {
 		num: -689,
@@ -6930,6 +7063,7 @@ let BattlePokedex = {
 		baseStats: {"hp":70,"atk":110,"def":80,"spa":78,"spd":78,"spe":70},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "applin",
+		otherFormes: ["flapplegmax"],
 	},
 	appletun: {
 		num: -691,
@@ -6938,6 +7072,7 @@ let BattlePokedex = {
 		baseStats: {"hp":110,"atk":85,"def":80,"spa":90,"spd":90,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "applin",
+		otherFormes: ["appletungmax"],
 	},
 	silicobra: {
 		num: -692,
@@ -6953,6 +7088,7 @@ let BattlePokedex = {
 		baseStats: {"hp":72,"atk":107,"def":125,"spa":68,"spd":68,"spe":71},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "silicobra",
+		otherFormes: ["sandacondagmax"],
 	},
 	cramorant: {
 		num: -694,
@@ -6960,6 +7096,7 @@ let BattlePokedex = {
 		types: ["Flying","Water"],
 		baseStats: {"hp":70,"atk":85,"def":55,"spa":90,"spd":90,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["cramorantgulping","cramorantgorging"],
 	},
 	arrokuda: {
 		num: -695,
@@ -6990,6 +7127,7 @@ let BattlePokedex = {
 		baseStats: {"hp":75,"atk":98,"def":70,"spa":92,"spd":92,"spe":75},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "toxel",
+		otherFormes: ["toxtricitylowkey","toxtricitygmax"],
 	},
 	toxtricitylowkey: {
 		num: -698,
@@ -7013,6 +7151,7 @@ let BattlePokedex = {
 		baseStats: {"hp":100,"atk":115,"def":65,"spa":90,"spd":90,"spe":65},
 		abilities: {"0":"Flash Fire","1":"No Ability","H":"No Ability"},
 		prevo: "sizzlipede",
+		otherFormes: ["centiskorchgmax"],
 	},
 	clobbopus: {
 		num: -701,
@@ -7066,6 +7205,7 @@ let BattlePokedex = {
 		baseStats: {"hp":57,"atk":90,"def":95,"spa":120,"spd":120,"spe":29},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "hattrem",
+		otherFormes: ["hatterenegmax"],
 	},
 	impidimp: {
 		num: -708,
@@ -7089,6 +7229,7 @@ let BattlePokedex = {
 		baseStats: {"hp":95,"atk":120,"def":65,"spa":85,"spd":85,"spe":60},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "morgrem",
+		otherFormes: ["grimmsnarlgmax"],
 	},
 	milcery: {
 		num: -717,
@@ -7104,6 +7245,7 @@ let BattlePokedex = {
 		baseStats: {"hp":65,"atk":60,"def":75,"spa":116,"spd":116,"spe":64},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "milcery",
+		otherFormes: ["alcremiegmax"],
 	},
 	falinks: {
 		num: -719,
@@ -7147,6 +7289,7 @@ let BattlePokedex = {
 		types: ["Ice"],
 		baseStats: {"hp":75,"atk":80,"def":110,"spa":78,"spd":78,"spe":50},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["eiscuenoice"],
 	},
 	indeedee: {
 		num: -725,
@@ -7154,6 +7297,7 @@ let BattlePokedex = {
 		types: ["Psychic","Normal"],
 		baseStats: {"hp":60,"atk":65,"def":55,"spa":100,"spd":100,"spe":95},
 		abilities: {"0":"Inner Focus","1":"No Ability","H":"No Ability"},
+		otherFormes: ["indeedeef"],
 	},
 	indeedeef: {
 		num: -725,
@@ -7168,6 +7312,7 @@ let BattlePokedex = {
 		types: ["Electric","Normal"],
 		baseStats: {"hp":58,"atk":95,"def":58,"spa":64,"spd":64,"spe":97},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["morpekohangry"],
 	},
 	cufant: {
 		num: -727,
@@ -7183,6 +7328,7 @@ let BattlePokedex = {
 		baseStats: {"hp":122,"atk":130,"def":69,"spa":75,"spd":75,"spe":30},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
 		prevo: "cufant",
+		otherFormes: ["copperajahgmax"],
 	},
 	dracozolt: {
 		num: -729,
@@ -7218,6 +7364,7 @@ let BattlePokedex = {
 		types: ["Rock","Dragon"],
 		baseStats: {"hp":70,"atk":95,"def":115,"spa":85,"spd":85,"spe":85},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["duraludongmax"],
 	},
 	dreepy: {
 		num: -734,
@@ -7248,6 +7395,7 @@ let BattlePokedex = {
 		types: ["Normal"],
 		baseStats: {"hp":92,"atk":130,"def":115,"spa":98,"spd":98,"spe":138},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["zaciancrowned"],
 	},
 	zaciancrowned: {
 		num: -737,
@@ -7262,6 +7410,7 @@ let BattlePokedex = {
 		types: ["Fighting"],
 		baseStats: {"hp":92,"atk":130,"def":115,"spa":98,"spd":98,"spe":138},
 		abilities: {"0":"No Ability","1":"No Ability","H":"No Ability"},
+		otherFormes: ["zamazentacrowned"],
 	},
 	zamazentacrowned: {
 		num: -738,
