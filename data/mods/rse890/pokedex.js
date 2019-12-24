@@ -6093,7 +6093,7 @@ let BattlePokedex = {
 		species: "Greninja",
 		types: ["Water","Dark"],
 		baseStats: {"hp":72,"atk":95,"def":67,"spa":103,"spd":71,"spe":122},
-		abilities: {"0":"Torrent","1":"Run Away","H":"Run Away","S":"Battle Bond"},
+		abilities: {"0":"Torrent","1":"Run Away","H":"Run Away","S":"Run Away"},
 		prevo: "frogadier",
 	},
 	greninjaash: {
@@ -6638,14 +6638,14 @@ let BattlePokedex = {
 		species: "Zygarde",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":108,"atk":100,"def":121,"spa":81,"spd":95,"spe":95},
-		abilities: {"0":"Run Away","1":"Run Away","S":"Power Construct","H":"Run Away"},
+		abilities: {"0":"Run Away","1":"Run Away","S":"Run Away","H":"Run Away"},
 	},
 	zygarde10: {
 		num: -332,
 		species: "Zygarde-10%",
 		types: ["Dragon","Ground"],
 		baseStats: {"hp":54,"atk":100,"def":71,"spa":61,"spd":85,"spe":115},
-		abilities: {"0":"Run Away","1":"Run Away","S":"Power Construct","H":"Run Away"},
+		abilities: {"0":"Run Away","1":"Run Away","S":"Run Away","H":"Run Away"},
 		inheritsFrom: "zygarde",
 	},
 	zygardecomplete: {
