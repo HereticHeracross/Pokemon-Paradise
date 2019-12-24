@@ -428,7 +428,7 @@ let Formats = [
 		banlist: ['Uber'],
 	},
 	{
-		name: "[a] Hoennification",
+		name: "[Gen 3 RSE 890] Hoennification",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3503019/">ADV OU Viability Ranking</a>`,
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
