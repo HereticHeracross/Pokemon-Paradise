@@ -759,7 +759,7 @@ let Formats = [
 	{
 		name: "[Gen 3] Random Battle",
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		team: 'random',
 		ruleset: ['Obtainable', 'Standard'],
 	},
@@ -895,7 +895,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3650478/#post-8133789">ADV Sample Teams</a>`,
 		],
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		ruleset: ['Obtainable', 'Standard', '3 Baton Pass Clause'],
 		banlist: ['Uber', 'Smeargle + Baton Pass'],
 	},
@@ -1905,7 +1905,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/posts/8286280/">ADV Ubers</a>`,
 		],
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		searchShow: false,
 		ruleset: ['Obtainable', 'Standard'],
 		banlist: ['Wobbuffet + Leftovers'],
@@ -1917,7 +1917,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3548578/">ADV UU Viability Rankings</a>`,
 		],
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		searchShow: false,
 		ruleset: ['Obtainable', 'Standard'],
 		banlist: ['Uber', 'OU', 'UUBL', 'Smeargle + Ingrain'],
@@ -1928,7 +1928,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3503540/">ADV NU Viability Rankings</a>`,
 		],
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		searchShow: false,
 		ruleset: ['[Gen 3] UU'],
 		banlist: ['UU'],
@@ -1940,7 +1940,7 @@ let Formats = [
 			`&bullet; <a href="https://www.smogon.com/forums/posts/8031458/">ADV 1v1</a>`,
 		],
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		searchShow: false,
 		teamLength: {
 			validate: [1, 3],
@@ -1952,7 +1952,7 @@ let Formats = [
 	{
 		name: "[Gen 3] Custom Game",
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		searchShow: false,
 		debug: true,
 		maxLevel: 9999,
@@ -1963,7 +1963,7 @@ let Formats = [
 	{
 		name: "[Gen 3] Doubles Custom Game",
 
-		mod: 'gen3',
+		mod: 'realgen3',
 		gameType: 'doubles',
 		searchShow: false,
 		debug: true,
