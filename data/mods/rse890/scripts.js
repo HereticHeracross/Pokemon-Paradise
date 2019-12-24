@@ -3,7 +3,7 @@
 /**@type {ModdedBattleScriptsData} */
 let BattleScripts = {
 	inherit: 'gen4',
-	gen: 3,
+	gen: 'rse890',
 	init() {
 		for (let i in this.data.Pokedex) {
 			delete this.data.Pokedex[i].abilities['H'];
