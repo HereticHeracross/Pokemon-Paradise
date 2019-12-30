@@ -1,8 +1,8 @@
 'usestrict';
 
-/**@type{{[k:string]:{learnset:{[k:string]:MoveSource[]}}}}*/
-letBattleLearnsets={
-	bugvolt:{learnset:{
+/**@type{{[k:string]: {learnset: {[k:string]:MoveSource[]}}}}*/
+let BattleLearnsets = {
+	bugvolt: {learnset: {
 		topsyturvy: ["8M"],
 		boltstrike: ["8M"],
 		poweruppunch: ["8M"],
@@ -64,7 +64,7 @@ letBattleLearnsets={
 		undefined: ["8M"],
 		psychicfangs: ["8M"],
 	}},
-	toxiviper:{learnset:{
+	toxiviper: {learnset: {
 		thunderwave: ["8M"],
 		pinmissile: ["8M"],
 		fellstinger: ["8M"],
@@ -126,7 +126,7 @@ letBattleLearnsets={
 		snipeshot: ["8M"],
 		knockoff: ["8M"],
 	}},
-	glilucha:{learnset:{
+	glilucha: {learnset: {
 		ironhead: ["8M"],
 		boneclub: ["8M"],
 		magnetrise: ["8M"],
@@ -188,7 +188,7 @@ letBattleLearnsets={
 		grasspledge: ["8M"],
 		spite: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		acupressure: ["8M"],
 		visegrip: ["8M"],
 		gastroacid: ["8M"],
@@ -250,7 +250,7 @@ letBattleLearnsets={
 		synthesis: ["8M"],
 		honeclaws: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		icehammer: ["8M"],
 		growth: ["8M"],
 		strugglebug: ["8M"],
@@ -312,7 +312,7 @@ letBattleLearnsets={
 		meanlook: ["8M"],
 		gravity: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		glare: ["8M"],
 		milkdrink: ["8M"],
 		slackoff: ["8M"],
@@ -374,7 +374,7 @@ letBattleLearnsets={
 		aromaticmist: ["8M"],
 		cottonspore: ["8M"],
 	}},
-	toxipod:{learnset:{
+	toxipod: {learnset: {
 		megadrain: ["8M"],
 		armthrust: ["8M"],
 		workup: ["8M"],
@@ -436,7 +436,7 @@ letBattleLearnsets={
 		topsyturvy: ["8M"],
 		stickyweb: ["8M"],
 	}},
-	gligeist:{learnset:{
+	gligeist: {learnset: {
 		grasspledge: ["8M"],
 		shellsmash: ["8M"],
 		falseswipe: ["8M"],
@@ -498,7 +498,7 @@ letBattleLearnsets={
 		faketears: ["8M"],
 		hyperspacehole: ["8M"],
 	}},
-	sanddon:{learnset:{
+	sanddon: {learnset: {
 		photongeyser: ["8M"],
 		rockblast: ["8M"],
 		lusterpurge: ["8M"],
@@ -560,7 +560,7 @@ letBattleLearnsets={
 		sludgewave: ["8M"],
 		sketch: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		swift: ["8M"],
 		signalbeam: ["8M"],
 		seedflare: ["8M"],
@@ -622,7 +622,7 @@ letBattleLearnsets={
 		toxic: ["8M"],
 		fleurcannon: ["8M"],
 	}},
-	gliavia:{learnset:{
+	gliavia: {learnset: {
 		glare: ["8M"],
 		circlethrow: ["8M"],
 		powertrip: ["8M"],
@@ -684,7 +684,7 @@ letBattleLearnsets={
 		snipeshot: ["8M"],
 		gust: ["8M"],
 	}},
-	heatsage:{learnset:{
+	heatsage: {learnset: {
 		snarl: ["8M"],
 		irondefense: ["8M"],
 		appleacid: ["8M"],
@@ -746,7 +746,7 @@ letBattleLearnsets={
 		leafage: ["8M"],
 		captivate: ["8M"],
 	}},
-	umbrtar:{learnset:{
+	umbrtar: {learnset: {
 		boltstrike: ["8M"],
 		floralhealing: ["8M"],
 		wakeupslap: ["8M"],
@@ -808,7 +808,7 @@ letBattleLearnsets={
 		furyswipes: ["8M"],
 		uproar: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		coil: ["8M"],
 		bonemerang: ["8M"],
 		ironhead: ["8M"],
@@ -870,7 +870,7 @@ letBattleLearnsets={
 		trick: ["8M"],
 		toxic: ["8M"],
 	}},
-	stonwood:{learnset:{
+	stonwood: {learnset: {
 		tickle: ["8M"],
 		instruct: ["8M"],
 		floatyfall: ["8M"],
@@ -932,7 +932,7 @@ letBattleLearnsets={
 		imprison: ["8M"],
 		hypervoice: ["8M"],
 	}},
-	dracsear:{learnset:{
+	dracsear: {learnset: {
 		beatup: ["8M"],
 		boltbeak: ["8M"],
 		trick: ["8M"],
@@ -994,7 +994,7 @@ letBattleLearnsets={
 		icywind: ["8M"],
 		wish: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		iciclespear: ["8M"],
 		slash: ["8M"],
 		barrage: ["8M"],
@@ -1056,7 +1056,7 @@ letBattleLearnsets={
 		tarshot: ["8M"],
 		hiddenpower: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		skullbash: ["8M"],
 		agility: ["8M"],
 		dizzypunch: ["8M"],
@@ -1118,7 +1118,7 @@ letBattleLearnsets={
 		confuseray: ["8M"],
 		bouncybubble: ["8M"],
 	}},
-	vapdon:{learnset:{
+	vapdon: {learnset: {
 		technoblast: ["8M"],
 		roaroftime: ["8M"],
 		anchorshot: ["8M"],
@@ -1180,7 +1180,7 @@ letBattleLearnsets={
 		spitup: ["8M"],
 		megadrain: ["8M"],
 	}},
-	electvolt:{learnset:{
+	electvolt: {learnset: {
 		sunnyday: ["8M"],
 		sunnyday: ["8M"],
 		teatime: ["8M"],
@@ -1242,7 +1242,7 @@ letBattleLearnsets={
 		withdraw: ["8M"],
 		freezeshock: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		echoedvoice: ["8M"],
 		lockon: ["8M"],
 		rockpolish: ["8M"],
@@ -1304,7 +1304,7 @@ letBattleLearnsets={
 		minimize: ["8M"],
 		bulldoze: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		foresight: ["8M"],
 		bubblebeam: ["8M"],
 		moongeistbeam: ["8M"],
@@ -1366,7 +1366,7 @@ letBattleLearnsets={
 		bouncybubble: ["8M"],
 		steelbeam: ["8M"],
 	}},
-	durviper:{learnset:{
+	durviper: {learnset: {
 		afteryou: ["8M"],
 		powertrip: ["8M"],
 		whirlpool: ["8M"],
@@ -1428,7 +1428,7 @@ letBattleLearnsets={
 		magicalleaf: ["8M"],
 		foresight: ["8M"],
 	}},
-	bugtar:{learnset:{
+	bugtar: {learnset: {
 		voltswitch: ["8M"],
 		knockoff: ["8M"],
 		skydrop: ["8M"],
@@ -1490,7 +1490,7 @@ letBattleLearnsets={
 		spectralthief: ["8M"],
 		confusion: ["8M"],
 	}},
-	dracroar:{learnset:{
+	dracroar: {learnset: {
 		blastburn: ["8M"],
 		stormthrow: ["8M"],
 		camouflage: ["8M"],
@@ -1552,7 +1552,7 @@ letBattleLearnsets={
 		spiritshackle: ["8M"],
 		thousandwaves: ["8M"],
 	}},
-	froslucha:{learnset:{
+	froslucha: {learnset: {
 		extrasensory: ["8M"],
 		happyhour: ["8M"],
 		eruption: ["8M"],
@@ -1614,7 +1614,7 @@ letBattleLearnsets={
 		shadowclaw: ["8M"],
 		glitzyglow: ["8M"],
 	}},
-	bulbsage:{learnset:{
+	bulbsage: {learnset: {
 		healingwish: ["8M"],
 		aurawheel: ["8M"],
 		smokescreen: ["8M"],
@@ -1676,7 +1676,7 @@ letBattleLearnsets={
 		obstruct: ["8M"],
 		crosschop: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		speedswap: ["8M"],
 		ironhead: ["8M"],
 		dive: ["8M"],
@@ -1738,7 +1738,7 @@ letBattleLearnsets={
 		meditate: ["8M"],
 		captivate: ["8M"],
 	}},
-	electvolt:{learnset:{
+	electvolt: {learnset: {
 		landswrath: ["8M"],
 		flatter: ["8M"],
 		revelationdance: ["8M"],
@@ -1800,7 +1800,7 @@ letBattleLearnsets={
 		flyingpress: ["8M"],
 		foresight: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		doubleironbash: ["8M"],
 		darkpulse: ["8M"],
 		eruption: ["8M"],
@@ -1862,7 +1862,7 @@ letBattleLearnsets={
 		bestow: ["8M"],
 		bulletpunch: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		powersplit: ["8M"],
 		sparklingaria: ["8M"],
 		fakeout: ["8M"],
@@ -1924,7 +1924,7 @@ letBattleLearnsets={
 		shadowsneak: ["8M"],
 		vcreate: ["8M"],
 	}},
-	frossage:{learnset:{
+	frossage: {learnset: {
 		sludge: ["8M"],
 		gravapple: ["8M"],
 		electroweb: ["8M"],
@@ -1986,7 +1986,7 @@ letBattleLearnsets={
 		powertrip: ["8M"],
 		maxguard: ["8M"],
 	}},
-	gliavia:{learnset:{
+	gliavia: {learnset: {
 		babydolleyes: ["8M"],
 		minimize: ["8M"],
 		dracometeor: ["8M"],
@@ -2048,7 +2048,7 @@ letBattleLearnsets={
 		shoreup: ["8M"],
 		boltbeak: ["8M"],
 	}},
-	toxilucha:{learnset:{
+	toxilucha: {learnset: {
 		iceball: ["8M"],
 		baddybad: ["8M"],
 		roar: ["8M"],
@@ -2110,7 +2110,7 @@ letBattleLearnsets={
 		electroweb: ["8M"],
 		boneclub: ["8M"],
 	}},
-	umbrviper:{learnset:{
+	umbrviper: {learnset: {
 		moonlight: ["8M"],
 		spikes: ["8M"],
 		acupressure: ["8M"],
@@ -2172,7 +2172,7 @@ letBattleLearnsets={
 		wakeupslap: ["8M"],
 		acupressure: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		boomburst: ["8M"],
 		octazooka: ["8M"],
 		willowisp: ["8M"],
@@ -2234,7 +2234,7 @@ letBattleLearnsets={
 		megakick: ["8M"],
 		allyswitch: ["8M"],
 	}},
-	bugpod:{learnset:{
+	bugpod: {learnset: {
 		shoreup: ["8M"],
 		sludgebomb: ["8M"],
 		razorshell: ["8M"],
@@ -2296,7 +2296,7 @@ letBattleLearnsets={
 		iceshard: ["8M"],
 		aquatail: ["8M"],
 	}},
-	vapswine:{learnset:{
+	vapswine: {learnset: {
 		cottonguard: ["8M"],
 		dragonascent: ["8M"],
 		uturn: ["8M"],
@@ -2358,7 +2358,7 @@ letBattleLearnsets={
 		iceshard: ["8M"],
 		beatup: ["8M"],
 	}},
-	sylvgeist:{learnset:{
+	sylvgeist: {learnset: {
 		leechlife: ["8M"],
 		sweetscent: ["8M"],
 		aquajet: ["8M"],
@@ -2420,7 +2420,7 @@ letBattleLearnsets={
 		aurawheel: ["8M"],
 		assurance: ["8M"],
 	}},
-	bulbdon:{learnset:{
+	bulbdon: {learnset: {
 		floralhealing: ["8M"],
 		watersport: ["8M"],
 		selfdestruct: ["8M"],
@@ -2482,7 +2482,7 @@ letBattleLearnsets={
 		originpulse: ["8M"],
 		acid: ["8M"],
 	}},
-	esproar:{learnset:{
+	esproar: {learnset: {
 		dragonpulse: ["8M"],
 		seedflare: ["8M"],
 		teleport: ["8M"],
@@ -2544,7 +2544,7 @@ letBattleLearnsets={
 		octolock: ["8M"],
 		strengthsap: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		boltstrike: ["8M"],
 		doomdesire: ["8M"],
 		skyuppercut: ["8M"],
@@ -2606,7 +2606,7 @@ letBattleLearnsets={
 		poisonsting: ["8M"],
 		solarbeam: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		heartstamp: ["8M"],
 		tailwhip: ["8M"],
 		firepledge: ["8M"],
@@ -2668,7 +2668,7 @@ letBattleLearnsets={
 		vinewhip: ["8M"],
 		extrasensory: ["8M"],
 	}},
-	sylvpuff:{learnset:{
+	sylvpuff: {learnset: {
 		moonlight: ["8M"],
 		morningsun: ["8M"],
 		freezeshock: ["8M"],
@@ -2730,7 +2730,7 @@ letBattleLearnsets={
 		nobleroar: ["8M"],
 		tropkick: ["8M"],
 	}},
-	bulbpuff:{learnset:{
+	bulbpuff: {learnset: {
 		rockblast: ["8M"],
 		dizzypunch: ["8M"],
 		swallow: ["8M"],
@@ -2792,7 +2792,7 @@ letBattleLearnsets={
 		headbutt: ["8M"],
 		reflecttype: ["8M"],
 	}},
-	umbrtar:{learnset:{
+	umbrtar: {learnset: {
 		obstruct: ["8M"],
 		echoedvoice: ["8M"],
 		bravebird: ["8M"],
@@ -2854,7 +2854,7 @@ letBattleLearnsets={
 		zippyzap: ["8M"],
 		grassknot: ["8M"],
 	}},
-	hitlucha:{learnset:{
+	hitlucha: {learnset: {
 		entrainment: ["8M"],
 		overheat: ["8M"],
 		mindblown: ["8M"],
@@ -2916,7 +2916,7 @@ letBattleLearnsets={
 		eruption: ["8M"],
 		bubblebeam: ["8M"],
 	}},
-	gliswine:{learnset:{
+	gliswine: {learnset: {
 		accelerock: ["8M"],
 		psychup: ["8M"],
 		octolock: ["8M"],
@@ -2978,7 +2978,7 @@ letBattleLearnsets={
 		grassknot: ["8M"],
 		growl: ["8M"],
 	}},
-	toxiviper:{learnset:{
+	toxiviper: {learnset: {
 		poisongas: ["8M"],
 		tearfullook: ["8M"],
 		waterpledge: ["8M"],
@@ -3040,7 +3040,7 @@ letBattleLearnsets={
 		floralhealing: ["8M"],
 		pikapapow: ["8M"],
 	}},
-	bulbviper:{learnset:{
+	bulbviper: {learnset: {
 		healblock: ["8M"],
 		psychoboost: ["8M"],
 		hyperspacehole: ["8M"],
@@ -3102,7 +3102,7 @@ letBattleLearnsets={
 		wideguard: ["8M"],
 		anchorshot: ["8M"],
 	}},
-	electviper:{learnset:{
+	electviper: {learnset: {
 		breakingswipe: ["8M"],
 		wringout: ["8M"],
 		flail: ["8M"],
@@ -3164,7 +3164,7 @@ letBattleLearnsets={
 		magneticflux: ["8M"],
 		fishiousrend: ["8M"],
 	}},
-	gliavia:{learnset:{
+	gliavia: {learnset: {
 		meanlook: ["8M"],
 		machpunch: ["8M"],
 		celebrate: ["8M"],
@@ -3226,7 +3226,7 @@ letBattleLearnsets={
 		acrobatics: ["8M"],
 		airslash: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		shellsmash: ["8M"],
 		naturalgift: ["8M"],
 		burnup: ["8M"],
@@ -3288,7 +3288,7 @@ letBattleLearnsets={
 		bravebird: ["8M"],
 		memento: ["8M"],
 	}},
-	bulbgon:{learnset:{
+	bulbgon: {learnset: {
 		shiftgear: ["8M"],
 		eruption: ["8M"],
 		flamethrower: ["8M"],
@@ -3350,7 +3350,7 @@ letBattleLearnsets={
 		bugbuzz: ["8M"],
 		eerieimpulse: ["8M"],
 	}},
-	hitlucha:{learnset:{
+	hitlucha: {learnset: {
 		superpower: ["8M"],
 		attract: ["8M"],
 		assurance: ["8M"],
@@ -3412,7 +3412,7 @@ letBattleLearnsets={
 		stunspore: ["8M"],
 		hydropump: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		scaryface: ["8M"],
 		milkdrink: ["8M"],
 		chatter: ["8M"],
@@ -3474,7 +3474,7 @@ letBattleLearnsets={
 		sparklingaria: ["8M"],
 		pikapapow: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		psychup: ["8M"],
 		frenzyplant: ["8M"],
 		bellydrum: ["8M"],
@@ -3536,7 +3536,7 @@ letBattleLearnsets={
 		magnetbomb: ["8M"],
 		reflecttype: ["8M"],
 	}},
-	toxiviper:{learnset:{
+	toxiviper: {learnset: {
 		mefirst: ["8M"],
 		strangesteam: ["8M"],
 		tickle: ["8M"],
@@ -3598,7 +3598,7 @@ letBattleLearnsets={
 		metalsound: ["8M"],
 		doublehit: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		inferno: ["8M"],
 		skillswap: ["8M"],
 		stunspore: ["8M"],
@@ -3660,7 +3660,7 @@ letBattleLearnsets={
 		metalburst: ["8M"],
 		ingrain: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		fusionbolt: ["8M"],
 		strength: ["8M"],
 		selfdestruct: ["8M"],
@@ -3722,7 +3722,7 @@ letBattleLearnsets={
 		magnetbomb: ["8M"],
 		ember: ["8M"],
 	}},
-	bulbavia:{learnset:{
+	bulbavia: {learnset: {
 		switcheroo: ["8M"],
 		dragontail: ["8M"],
 		trickroom: ["8M"],
@@ -3784,7 +3784,7 @@ letBattleLearnsets={
 		precipiceblades: ["8M"],
 		focuspunch: ["8M"],
 	}},
-	bugwood:{learnset:{
+	bugwood: {learnset: {
 		seedbomb: ["8M"],
 		headcharge: ["8M"],
 		morningsun: ["8M"],
@@ -3846,7 +3846,7 @@ letBattleLearnsets={
 		rest: ["8M"],
 		behemothblade: ["8M"],
 	}},
-	espswine:{learnset:{
+	espswine: {learnset: {
 		branchpoke: ["8M"],
 		dive: ["8M"],
 		dragonclaw: ["8M"],
@@ -3908,7 +3908,7 @@ letBattleLearnsets={
 		bonerush: ["8M"],
 		lowkick: ["8M"],
 	}},
-	dracdon:{learnset:{
+	dracdon: {learnset: {
 		dazzlinggleam: ["8M"],
 		barrier: ["8M"],
 		selfdestruct: ["8M"],
@@ -3970,7 +3970,7 @@ letBattleLearnsets={
 		highjumpkick: ["8M"],
 		teatime: ["8M"],
 	}},
-	frossear:{learnset:{
+	frossear: {learnset: {
 		roar: ["8M"],
 		flamewheel: ["8M"],
 		bonerush: ["8M"],
@@ -4032,7 +4032,7 @@ letBattleLearnsets={
 		hex: ["8M"],
 		captivate: ["8M"],
 	}},
-	gliwood:{learnset:{
+	gliwood: {learnset: {
 		flashcannon: ["8M"],
 		rollout: ["8M"],
 		barrage: ["8M"],
@@ -4094,7 +4094,7 @@ letBattleLearnsets={
 		revelationdance: ["8M"],
 		aromaticmist: ["8M"],
 	}},
-	espviper:{learnset:{
+	espviper: {learnset: {
 		wish: ["8M"],
 		superfang: ["8M"],
 		fishiousrend: ["8M"],
@@ -4156,7 +4156,7 @@ letBattleLearnsets={
 		chatter: ["8M"],
 		bulkup: ["8M"],
 	}},
-	electpuff:{learnset:{
+	electpuff: {learnset: {
 		focusenergy: ["8M"],
 		teleport: ["8M"],
 		workup: ["8M"],
@@ -4218,7 +4218,7 @@ letBattleLearnsets={
 		flamecharge: ["8M"],
 		bellydrum: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		babydolleyes: ["8M"],
 		floatyfall: ["8M"],
 		thunderpunch: ["8M"],
@@ -4280,7 +4280,7 @@ letBattleLearnsets={
 		ingrain: ["8M"],
 		wildcharge: ["8M"],
 	}},
-	cursgeist:{learnset:{
+	cursgeist: {learnset: {
 		solarbeam: ["8M"],
 		rockslide: ["8M"],
 		watergun: ["8M"],
@@ -4342,7 +4342,7 @@ letBattleLearnsets={
 		lovelykiss: ["8M"],
 		barrier: ["8M"],
 	}},
-	dracsage:{learnset:{
+	dracsage: {learnset: {
 		cosmicpower: ["8M"],
 		slackoff: ["8M"],
 		fling: ["8M"],
@@ -4404,7 +4404,7 @@ letBattleLearnsets={
 		sludge: ["8M"],
 		slash: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		relicsong: ["8M"],
 		shoreup: ["8M"],
 		electroball: ["8M"],
@@ -4466,7 +4466,7 @@ letBattleLearnsets={
 		lunardance: ["8M"],
 		acidspray: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		hyperbeam: ["8M"],
 		poisonsting: ["8M"],
 		naturepower: ["8M"],
@@ -4528,7 +4528,7 @@ letBattleLearnsets={
 		judgment: ["8M"],
 		megakick: ["8M"],
 	}},
-	sylvsage:{learnset:{
+	sylvsage: {learnset: {
 		quash: ["8M"],
 		charge: ["8M"],
 		heatcrash: ["8M"],
@@ -4590,7 +4590,7 @@ letBattleLearnsets={
 		sunsteelstrike: ["8M"],
 		razorwind: ["8M"],
 	}},
-	bulbsage:{learnset:{
+	bulbsage: {learnset: {
 		shockwave: ["8M"],
 		aquatail: ["8M"],
 		superpower: ["8M"],
@@ -4652,7 +4652,7 @@ letBattleLearnsets={
 		headbutt: ["8M"],
 		stompingtantrum: ["8M"],
 	}},
-	bulbsage:{learnset:{
+	bulbsage: {learnset: {
 		sing: ["8M"],
 		withdraw: ["8M"],
 		mudslap: ["8M"],
@@ -4714,7 +4714,7 @@ letBattleLearnsets={
 		hurricane: ["8M"],
 		heatwave: ["8M"],
 	}},
-	bulbgeist:{learnset:{
+	bulbgeist: {learnset: {
 		eerieimpulse: ["8M"],
 		undefined: ["8M"],
 		infestation: ["8M"],
@@ -4776,7 +4776,7 @@ letBattleLearnsets={
 		shadowclaw: ["8M"],
 		poisongas: ["8M"],
 	}},
-	cursgeist:{learnset:{
+	cursgeist: {learnset: {
 		sludgewave: ["8M"],
 		thief: ["8M"],
 		floatyfall: ["8M"],
@@ -4838,7 +4838,7 @@ letBattleLearnsets={
 		bravebird: ["8M"],
 		kingsshield: ["8M"],
 	}},
-	stonviper:{learnset:{
+	stonviper: {learnset: {
 		futuresight: ["8M"],
 		shadowsneak: ["8M"],
 		watershuriken: ["8M"],
@@ -4900,7 +4900,7 @@ letBattleLearnsets={
 		petalblizzard: ["8M"],
 		skullbash: ["8M"],
 	}},
-	bulbsage:{learnset:{
+	bulbsage: {learnset: {
 		brutalswing: ["8M"],
 		lunge: ["8M"],
 		bulletpunch: ["8M"],
@@ -4962,7 +4962,7 @@ letBattleLearnsets={
 		doubleironbash: ["8M"],
 		seismictoss: ["8M"],
 	}},
-	frosgeist:{learnset:{
+	frosgeist: {learnset: {
 		magnetrise: ["8M"],
 		boltstrike: ["8M"],
 		rockpolish: ["8M"],
@@ -5024,7 +5024,7 @@ letBattleLearnsets={
 		smackdown: ["8M"],
 		rest: ["8M"],
 	}},
-	stonwood:{learnset:{
+	stonwood: {learnset: {
 		reflect: ["8M"],
 		conversion2: ["8M"],
 		strength: ["8M"],
@@ -5086,7 +5086,7 @@ letBattleLearnsets={
 		heatwave: ["8M"],
 		barrier: ["8M"],
 	}},
-	sylvpuff:{learnset:{
+	sylvpuff: {learnset: {
 		batonpass: ["8M"],
 		conversion: ["8M"],
 		growl: ["8M"],
@@ -5148,7 +5148,7 @@ letBattleLearnsets={
 		blizzard: ["8M"],
 		bulletseed: ["8M"],
 	}},
-	espavia:{learnset:{
+	espavia: {learnset: {
 		geomancy: ["8M"],
 		dragonhammer: ["8M"],
 		amnesia: ["8M"],
@@ -5210,7 +5210,7 @@ letBattleLearnsets={
 		rollingkick: ["8M"],
 		healpulse: ["8M"],
 	}},
-	curstar:{learnset:{
+	curstar: {learnset: {
 		lowsweep: ["8M"],
 		endure: ["8M"],
 		detect: ["8M"],
@@ -5272,7 +5272,7 @@ letBattleLearnsets={
 		crosspoison: ["8M"],
 		foulplay: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		shadowball: ["8M"],
 		hydrocannon: ["8M"],
 		psywave: ["8M"],
@@ -5334,7 +5334,7 @@ letBattleLearnsets={
 		captivate: ["8M"],
 		pikapapow: ["8M"],
 	}},
-	bulbsage:{learnset:{
+	bulbsage: {learnset: {
 		protect: ["8M"],
 		magnetbomb: ["8M"],
 		bodypress: ["8M"],
@@ -5396,7 +5396,7 @@ letBattleLearnsets={
 		pursuit: ["8M"],
 		leafblade: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		chatter: ["8M"],
 		wildcharge: ["8M"],
 		present: ["8M"],
@@ -5458,7 +5458,7 @@ letBattleLearnsets={
 		refresh: ["8M"],
 		maxguard: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		finalgambit: ["8M"],
 		tackle: ["8M"],
 		anchorshot: ["8M"],
@@ -5520,7 +5520,7 @@ letBattleLearnsets={
 		rockslide: ["8M"],
 		taunt: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		coreenforcer: ["8M"],
 		bulldoze: ["8M"],
 		grasswhistle: ["8M"],
@@ -5582,7 +5582,7 @@ letBattleLearnsets={
 		roleplay: ["8M"],
 		iceball: ["8M"],
 	}},
-	toxiviper:{learnset:{
+	toxiviper: {learnset: {
 		coil: ["8M"],
 		aromatherapy: ["8M"],
 		firespin: ["8M"],
@@ -5644,7 +5644,7 @@ letBattleLearnsets={
 		healingwish: ["8M"],
 		constrict: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		trick: ["8M"],
 		fierydance: ["8M"],
 		confuseray: ["8M"],
@@ -5706,7 +5706,7 @@ letBattleLearnsets={
 		technoblast: ["8M"],
 		confide: ["8M"],
 	}},
-	dracmory:{learnset:{
+	dracmory: {learnset: {
 		mist: ["8M"],
 		ominouswind: ["8M"],
 		watersport: ["8M"],
@@ -5768,7 +5768,7 @@ letBattleLearnsets={
 		hypnosis: ["8M"],
 		hyperspacehole: ["8M"],
 	}},
-	stonwood:{learnset:{
+	stonwood: {learnset: {
 		destinybond: ["8M"],
 		lunge: ["8M"],
 		forestscurse: ["8M"],
@@ -5830,7 +5830,7 @@ letBattleLearnsets={
 		drainingkiss: ["8M"],
 		punishment: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		fairylock: ["8M"],
 		bide: ["8M"],
 		chipaway: ["8M"],
@@ -5892,7 +5892,7 @@ letBattleLearnsets={
 		gust: ["8M"],
 		mist: ["8M"],
 	}},
-	vapswine:{learnset:{
+	vapswine: {learnset: {
 		growl: ["8M"],
 		lunardance: ["8M"],
 		matblock: ["8M"],
@@ -5954,7 +5954,7 @@ letBattleLearnsets={
 		psychicfangs: ["8M"],
 		thunderpunch: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		tearfullook: ["8M"],
 		visegrip: ["8M"],
 		doublekick: ["8M"],
@@ -6016,7 +6016,7 @@ letBattleLearnsets={
 		swallow: ["8M"],
 		mudsport: ["8M"],
 	}},
-	heatroar:{learnset:{
+	heatroar: {learnset: {
 		headbutt: ["8M"],
 		throatchop: ["8M"],
 		bodyslam: ["8M"],
@@ -6078,7 +6078,7 @@ letBattleLearnsets={
 		ember: ["8M"],
 		mindblown: ["8M"],
 	}},
-	umbrtar:{learnset:{
+	umbrtar: {learnset: {
 		spikyshield: ["8M"],
 		foulplay: ["8M"],
 		mirrorcoat: ["8M"],
@@ -6140,7 +6140,7 @@ letBattleLearnsets={
 		sludgewave: ["8M"],
 		perishsong: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		gravity: ["8M"],
 		hyperspacefury: ["8M"],
 		captivate: ["8M"],
@@ -6202,7 +6202,7 @@ letBattleLearnsets={
 		aquaring: ["8M"],
 		takedown: ["8M"],
 	}},
-	stonwood:{learnset:{
+	stonwood: {learnset: {
 		bide: ["8M"],
 		coil: ["8M"],
 		psychoshift: ["8M"],
@@ -6264,7 +6264,7 @@ letBattleLearnsets={
 		blazekick: ["8M"],
 		sacredsword: ["8M"],
 	}},
-	heatswine:{learnset:{
+	heatswine: {learnset: {
 		milkdrink: ["8M"],
 		weatherball: ["8M"],
 		sacredsword: ["8M"],
@@ -6326,7 +6326,7 @@ letBattleLearnsets={
 		spiritbreak: ["8M"],
 		lusterpurge: ["8M"],
 	}},
-	sylvsear:{learnset:{
+	sylvsear: {learnset: {
 		leaftornado: ["8M"],
 		rollout: ["8M"],
 		silverwind: ["8M"],
@@ -6388,7 +6388,7 @@ letBattleLearnsets={
 		transform: ["8M"],
 		blueflare: ["8M"],
 	}},
-	sandgeist:{learnset:{
+	sandgeist: {learnset: {
 		reflecttype: ["8M"],
 		dracometeor: ["8M"],
 		waterpledge: ["8M"],
@@ -6450,7 +6450,7 @@ letBattleLearnsets={
 		highjumpkick: ["8M"],
 		rest: ["8M"],
 	}},
-	gliavia:{learnset:{
+	gliavia: {learnset: {
 		diamondstorm: ["8M"],
 		drainpunch: ["8M"],
 		guillotine: ["8M"],
@@ -6512,7 +6512,7 @@ letBattleLearnsets={
 		magiccoat: ["8M"],
 		teatime: ["8M"],
 	}},
-	dracsear:{learnset:{
+	dracsear: {learnset: {
 		aromaticmist: ["8M"],
 		doubleedge: ["8M"],
 		armthrust: ["8M"],
@@ -6574,7 +6574,7 @@ letBattleLearnsets={
 		skydrop: ["8M"],
 		steelwing: ["8M"],
 	}},
-	hitpuff:{learnset:{
+	hitpuff: {learnset: {
 		machpunch: ["8M"],
 		grasspledge: ["8M"],
 		solarblade: ["8M"],
@@ -6636,7 +6636,7 @@ letBattleLearnsets={
 		nightslash: ["8M"],
 		iceburn: ["8M"],
 	}},
-	espzam:{learnset:{
+	espzam: {learnset: {
 		toxic: ["8M"],
 		slash: ["8M"],
 		thousandwaves: ["8M"],
@@ -6698,7 +6698,7 @@ letBattleLearnsets={
 		wildcharge: ["8M"],
 		honeclaws: ["8M"],
 	}},
-	vapgon:{learnset:{
+	vapgon: {learnset: {
 		crushgrip: ["8M"],
 		mysticalfire: ["8M"],
 		crunch: ["8M"],
@@ -6760,7 +6760,7 @@ letBattleLearnsets={
 		tailslap: ["8M"],
 		quickattack: ["8M"],
 	}},
-	dracvolt:{learnset:{
+	dracvolt: {learnset: {
 		flashcannon: ["8M"],
 		venomdrench: ["8M"],
 		autotomize: ["8M"],
@@ -6822,7 +6822,7 @@ letBattleLearnsets={
 		sappyseed: ["8M"],
 		crosschop: ["8M"],
 	}},
-	umbrpod:{learnset:{
+	umbrpod: {learnset: {
 		fireblast: ["8M"],
 		boomburst: ["8M"],
 		sleeppowder: ["8M"],
@@ -6884,7 +6884,7 @@ letBattleLearnsets={
 		charm: ["8M"],
 		heatcrash: ["8M"],
 	}},
-	sylvswine:{learnset:{
+	sylvswine: {learnset: {
 		rocktomb: ["8M"],
 		strengthsap: ["8M"],
 		pluck: ["8M"],
@@ -6946,7 +6946,7 @@ letBattleLearnsets={
 		wish: ["8M"],
 		falsesurrender: ["8M"],
 	}},
-	hitlucha:{learnset:{
+	hitlucha: {learnset: {
 		belch: ["8M"],
 		poweruppunch: ["8M"],
 		struggle: ["8M"],
@@ -7008,7 +7008,7 @@ letBattleLearnsets={
 		yawn: ["8M"],
 		hyperbeam: ["8M"],
 	}},
-	stonwood:{learnset:{
+	stonwood: {learnset: {
 		sappyseed: ["8M"],
 		stompingtantrum: ["8M"],
 		electroball: ["8M"],
@@ -7070,7 +7070,7 @@ letBattleLearnsets={
 		quash: ["8M"],
 		drillrun: ["8M"],
 	}},
-	bugsear:{learnset:{
+	bugsear: {learnset: {
 		acupressure: ["8M"],
 		appleacid: ["8M"],
 		cosmicpower: ["8M"],
@@ -7132,7 +7132,7 @@ letBattleLearnsets={
 		snipeshot: ["8M"],
 		worryseed: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		reversal: ["8M"],
 		woodhammer: ["8M"],
 		flamewheel: ["8M"],
@@ -7194,7 +7194,7 @@ letBattleLearnsets={
 		assurance: ["8M"],
 		babydolleyes: ["8M"],
 	}},
-	toxilucha:{learnset:{
+	toxilucha: {learnset: {
 		poisonfang: ["8M"],
 		sonicboom: ["8M"],
 		flamethrower: ["8M"],
@@ -7256,7 +7256,7 @@ letBattleLearnsets={
 		painsplit: ["8M"],
 		shellsmash: ["8M"],
 	}},
-	toxigeist:{learnset:{
+	toxigeist: {learnset: {
 		firepledge: ["8M"],
 		flash: ["8M"],
 		withdraw: ["8M"],
@@ -7318,7 +7318,7 @@ letBattleLearnsets={
 		dragondance: ["8M"],
 		furyswipes: ["8M"],
 	}},
-	dracvolt:{learnset:{
+	dracvolt: {learnset: {
 		splishysplash: ["8M"],
 		aeroblast: ["8M"],
 		icywind: ["8M"],
@@ -7380,7 +7380,7 @@ letBattleLearnsets={
 		teatime: ["8M"],
 		sweetscent: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		thrash: ["8M"],
 		aquatail: ["8M"],
 		confuseray: ["8M"],
@@ -7442,7 +7442,7 @@ letBattleLearnsets={
 		gravity: ["8M"],
 		freezedry: ["8M"],
 	}},
-	hitvolt:{learnset:{
+	hitvolt: {learnset: {
 		hail: ["8M"],
 		lunardance: ["8M"],
 		mysticalfire: ["8M"],
@@ -7504,7 +7504,7 @@ letBattleLearnsets={
 		stoneedge: ["8M"],
 		powdersnow: ["8M"],
 	}},
-	umbrtar:{learnset:{
+	umbrtar: {learnset: {
 		shadowforce: ["8M"],
 		airslash: ["8M"],
 		skillswap: ["8M"],
@@ -7566,7 +7566,7 @@ letBattleLearnsets={
 		whirlwind: ["8M"],
 		stunspore: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		sappyseed: ["8M"],
 		razorwind: ["8M"],
 		fierydance: ["8M"],
@@ -7628,7 +7628,7 @@ letBattleLearnsets={
 		tailglow: ["8M"],
 		nightmare: ["8M"],
 	}},
-	electswine:{learnset:{
+	electswine: {learnset: {
 		machpunch: ["8M"],
 		teeterdance: ["8M"],
 		psybeam: ["8M"],
@@ -7690,7 +7690,7 @@ letBattleLearnsets={
 		sparklingaria: ["8M"],
 		floralhealing: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		vitalthrow: ["8M"],
 		shadowball: ["8M"],
 		steamroller: ["8M"],
@@ -7752,7 +7752,7 @@ letBattleLearnsets={
 		barrier: ["8M"],
 		dragondance: ["8M"],
 	}},
-	toxiviper:{learnset:{
+	toxiviper: {learnset: {
 		ember: ["8M"],
 		fishiousrend: ["8M"],
 		infestation: ["8M"],
@@ -7814,7 +7814,7 @@ letBattleLearnsets={
 		barrier: ["8M"],
 		furyattack: ["8M"],
 	}},
-	bugpod:{learnset:{
+	bugpod: {learnset: {
 		outrage: ["8M"],
 		sleeppowder: ["8M"],
 		sharpen: ["8M"],
@@ -7876,7 +7876,7 @@ letBattleLearnsets={
 		return: ["8M"],
 		teatime: ["8M"],
 	}},
-	sanddon:{learnset:{
+	sanddon: {learnset: {
 		gravity: ["8M"],
 		banefulbunker: ["8M"],
 		pursuit: ["8M"],
@@ -7938,7 +7938,7 @@ letBattleLearnsets={
 		clangoroussoul: ["8M"],
 		spotlight: ["8M"],
 	}},
-	vappour:{learnset:{
+	vappour: {learnset: {
 		iceshard: ["8M"],
 		counter: ["8M"],
 		stringshot: ["8M"],
@@ -8000,7 +8000,7 @@ letBattleLearnsets={
 		psychicfangs: ["8M"],
 		finalgambit: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		bulldoze: ["8M"],
 		psystrike: ["8M"],
 		petalblizzard: ["8M"],
@@ -8062,7 +8062,7 @@ letBattleLearnsets={
 		trick: ["8M"],
 		focusenergy: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		payday: ["8M"],
 		reflect: ["8M"],
 		photongeyser: ["8M"],
@@ -8124,7 +8124,7 @@ letBattleLearnsets={
 		naturesmadness: ["8M"],
 		chipaway: ["8M"],
 	}},
-	furroar:{learnset:{
+	furroar: {learnset: {
 		meteormash: ["8M"],
 		extremespeed: ["8M"],
 		sunsteelstrike: ["8M"],
@@ -8186,7 +8186,7 @@ letBattleLearnsets={
 		oblivionwing: ["8M"],
 		tailglow: ["8M"],
 	}},
-	durmory:{learnset:{
+	durmory: {learnset: {
 		shellsmash: ["8M"],
 		mindreader: ["8M"],
 		simplebeam: ["8M"],
@@ -8248,7 +8248,7 @@ letBattleLearnsets={
 		gigadrain: ["8M"],
 		iceshard: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		outrage: ["8M"],
 		sludgebomb: ["8M"],
 		thunderbolt: ["8M"],
@@ -8310,7 +8310,7 @@ letBattleLearnsets={
 		inferno: ["8M"],
 		bubble: ["8M"],
 	}},
-	electlucha:{learnset:{
+	electlucha: {learnset: {
 		sing: ["8M"],
 		absorb: ["8M"],
 		maxguard: ["8M"],
@@ -8372,7 +8372,7 @@ letBattleLearnsets={
 		bravebird: ["8M"],
 		storedpower: ["8M"],
 	}},
-	sylvroar:{learnset:{
+	sylvroar: {learnset: {
 		whirlwind: ["8M"],
 		stringshot: ["8M"],
 		encore: ["8M"],
@@ -8434,7 +8434,7 @@ letBattleLearnsets={
 		camouflage: ["8M"],
 		megapunch: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		toxicspikes: ["8M"],
 		psychicterrain: ["8M"],
 		milkdrink: ["8M"],
@@ -8496,7 +8496,7 @@ letBattleLearnsets={
 		howl: ["8M"],
 		doubleedge: ["8M"],
 	}},
-	bulbsear:{learnset:{
+	bulbsear: {learnset: {
 		petaldance: ["8M"],
 		zenheadbutt: ["8M"],
 		visegrip: ["8M"],
@@ -8558,7 +8558,7 @@ letBattleLearnsets={
 		spikecannon: ["8M"],
 		screech: ["8M"],
 	}},
-	cursvolt:{learnset:{
+	cursvolt: {learnset: {
 		meditate: ["8M"],
 		shadowclaw: ["8M"],
 		eggbomb: ["8M"],
@@ -8620,7 +8620,7 @@ letBattleLearnsets={
 		hyperbeam: ["8M"],
 		petalblizzard: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		trickortreat: ["8M"],
 		waterspout: ["8M"],
 		multiattack: ["8M"],
@@ -8682,7 +8682,7 @@ letBattleLearnsets={
 		bonemerang: ["8M"],
 		thunderbolt: ["8M"],
 	}},
-	bugtar:{learnset:{
+	bugtar: {learnset: {
 		moonlight: ["8M"],
 		lightofruin: ["8M"],
 		flareblitz: ["8M"],
@@ -8744,7 +8744,7 @@ letBattleLearnsets={
 		prismaticlaser: ["8M"],
 		revenge: ["8M"],
 	}},
-	dracgon:{learnset:{
+	dracgon: {learnset: {
 		sappyseed: ["8M"],
 		falsesurrender: ["8M"],
 		fierydance: ["8M"],
@@ -8806,7 +8806,7 @@ letBattleLearnsets={
 		seedbomb: ["8M"],
 		woodhammer: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		doubleteam: ["8M"],
 		smackdown: ["8M"],
 		gigadrain: ["8M"],
@@ -8868,7 +8868,7 @@ letBattleLearnsets={
 		fairylock: ["8M"],
 		sandattack: ["8M"],
 	}},
-	bugpod:{learnset:{
+	bugpod: {learnset: {
 		shoreup: ["8M"],
 		circlethrow: ["8M"],
 		bulletseed: ["8M"],
@@ -8930,7 +8930,7 @@ letBattleLearnsets={
 		meanlook: ["8M"],
 		gigaimpact: ["8M"],
 	}},
-	bulbdon:{learnset:{
+	bulbdon: {learnset: {
 		quiverdance: ["8M"],
 		zippyzap: ["8M"],
 		megakick: ["8M"],
@@ -8992,7 +8992,7 @@ letBattleLearnsets={
 		peck: ["8M"],
 		transform: ["8M"],
 	}},
-	frosswine:{learnset:{
+	frosswine: {learnset: {
 		toxic: ["8M"],
 		decorate: ["8M"],
 		silverwind: ["8M"],
@@ -9054,7 +9054,7 @@ letBattleLearnsets={
 		worryseed: ["8M"],
 		freezedry: ["8M"],
 	}},
-	umbrtar:{learnset:{
+	umbrtar: {learnset: {
 		ember: ["8M"],
 		stuffcheeks: ["8M"],
 		featherdance: ["8M"],
@@ -9116,7 +9116,7 @@ letBattleLearnsets={
 		simplebeam: ["8M"],
 		tarshot: ["8M"],
 	}},
-	electvolt:{learnset:{
+	electvolt: {learnset: {
 		meteormash: ["8M"],
 		simplebeam: ["8M"],
 		scald: ["8M"],
@@ -9178,7 +9178,7 @@ letBattleLearnsets={
 		headbutt: ["8M"],
 		slackoff: ["8M"],
 	}},
-	sandsear:{learnset:{
+	sandsear: {learnset: {
 		darkpulse: ["8M"],
 		frenzyplant: ["8M"],
 		bouncybubble: ["8M"],
@@ -9240,7 +9240,7 @@ letBattleLearnsets={
 		recycle: ["8M"],
 		pikapapow: ["8M"],
 	}},
-	heatsear:{learnset:{
+	heatsear: {learnset: {
 		drillpeck: ["8M"],
 		quash: ["8M"],
 		geargrind: ["8M"],
