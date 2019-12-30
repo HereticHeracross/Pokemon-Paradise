@@ -9304,4 +9304,4 @@ letBattleLearnsets={
 	}},
 };
 
-exports.BattleLearnsets=BattleLearnsets;
+exports.BattleLearnsets = BattleLearnsets;
