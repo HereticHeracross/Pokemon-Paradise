@@ -1,0 +1,604 @@
+
+C:\Users\Swanton\Downloads\Pokemon-Paradise\data\mods\rby890\pokedex.js:2064
+		species: Pichu
+		^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+    at ModdedDex.forFormat (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:225:31)
+
+Additional information:
+  formatid = gen1rby890
+  team = Alakazam|||none||||||||
+
+
+C:\Users\Swanton\Downloads\Pokemon-Paradise\data\mods\rby890\pokedex.js:2064
+		species: "Pichu",
+		^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+    at ModdedDex.forFormat (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:225:31)
+
+Additional information:
+  formatid = gen1rby890
+  team = Alakazam|||none||||||||
+
+
+ReferenceError: BattlePokedex is not defined
+    at Object.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\data\mods\rby890\pokedex.js:4171:25)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+
+Additional information:
+  formatid = gen1rby890
+  team = Alakazam|||none||||||||
+
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:210:5)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:210:5)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at StreamProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:214:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:175:9)
+    at ChildProcess.emit (events.js:210:5)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:210:5)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+
+Additional information:
+  formatid = gen3rse890
+  team = Aerodactyl|||rockhead|agility||||,0,,,,|||
+
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+
+Additional information:
+  formatid = gen3rse890
+  team = Aerodactyl|||rockhead|agility||||,0,,,,|||
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+internal/modules/cjs/loader.js:1055
+    compiled = compileFunction(
+               ^
+
+RangeError: Maximum call stack size exceeded
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1423:28)
+    at ModdedDex.get data [as data] (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:204:15)
+
+Additional information:
+  user = Petuuuhhh
+  room = lobby
+  pmTarget = null
+  message = /dt buzzwole, rse890
+
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at StreamProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:214:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:175:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at StreamProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:214:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:175:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+ReferenceError: rse890 is not defined
+    at Object.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\data\mods\rse890\scripts.js:6:7)
+    at Module._compile (internal/modules/cjs/loader.js:1139:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1405:30)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+
+Additional information:
+  formatid = gen3hoennification
+  team = Flygon|||levitate|dragondance||||,0,,,,|||
+
+
+C:\Users\Swanton\Downloads\Pokemon-Paradise\data\mods\rby890\scripts.js:12
+	gen: 1rby890,
+	     ^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:1055:16)
+    at Module._compile (internal/modules/cjs/loader.js:1103:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1159:10)
+    at Module.load (internal/modules/cjs/loader.js:988:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:896:14)
+    at Module.require (internal/modules/cjs/loader.js:1028:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at ModdedDex.loadDataFile (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1357:23)
+    at ModdedDex.loadData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1405:30)
+    at ModdedDex.includeData (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\dex.js:1394:8)
+
+Additional information:
+  formatid = gen1kantoification
+  team = Exeggutor|||none|sleeppowder|||||||
+
+
+Error: Event-only template Landorus-Therian has no eventPokemon table
+    at TeamValidator.validateSet (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\team-validator.js:575:29)
+    at TeamValidator.baseValidateTeam (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\team-validator.js:242:65)
+    at TeamValidator.validateTeam (C:\Users\Swanton\Downloads\Pokemon-Paradise\.sim-dist\team-validator.js:203:15)
+    at QueryProcessManager._query (C:\Users\Swanton\Downloads\Pokemon-Paradise\server\team-validator-async.js:56:42)
+    at process.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:339:32)
+    at process.emit (events.js:305:20)
+    at process.EventEmitter.emit (domain.js:483:12)
+    at emit (internal/child_process.js:883:12)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+
+Additional information:
+  formatid = gen1rby890kantoification
+  team = Landorus-Therian|||none||||M||||
+
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at StreamProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:214:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:175:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:839:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\Pokemon-Paradise\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:305:20)
+    at ChildProcess.EventEmitter.emit (domain.js:483:12)
+    at finish (internal/child_process.js:868:14)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
