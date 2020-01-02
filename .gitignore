@@ -11,8 +11,7 @@ package-lock.json
 /tools/set-import/sets
 databases/*.db*
 
-# Typescript build artifacts
-.*-dist/
+# Typescript build artifact
 tools/set-import/importer.js
 
 # visual studio live share
